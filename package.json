@@ -20,16 +20,29 @@
         "format": "prettier --check .",
         "format:fix": "prettier --write --list-different .",
         "prepare": "husky",
+        "lint": "eslint scripts",
         "knip": "knip",
         "knip:fix": "knip --fix"
     },
     "devDependencies": {
         "@commitlint/cli": "^19.4.0",
         "@commitlint/config-conventional": "^19.2.2",
+        "@eslint/js": "^9.9.0",
+        "@total-typescript/tsconfig": "^1.0.4",
+        "@types/node": "^22.4.0",
+        "eslint": "^9.9.0",
+        "eslint-plugin-prettier": "^5.2.1",
+        "globals": "^15.9.0",
         "husky": "^9.1.4",
         "knip": "^5.27.2",
         "lint-staged": "^15.2.9",
         "prettier": "^3.3.3",
-        "prettier-plugin-pkg": "^0.18.1"
+        "prettier-plugin-pkg": "^0.18.1",
+        "tsx": "^4.17.0",
+        "typescript": "^5.5.4",
+        "typescript-eslint": "^8.1.0"
+    },
+    "dependencies": {
+        "ajv": "^8.17.1"
     }
 }
