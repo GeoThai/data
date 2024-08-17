@@ -1,3 +1,4 @@
 {
-    "**/*.(md|json)": "pnpm prettier --write"
+    "**/*.(md|json|ts|js)": "pnpm prettier --write",
+    "**/*.(ts|js)": "pnpm eslint --fix"
 }
