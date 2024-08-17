@@ -113,6 +113,7 @@ const main = async () => {
                 )
             })
         })
+        process.exit(1)
     }
     console.log(`\nVersions: ${versions.length} (${versions.join(', ')})`)
     console.log(`Errors: ${totalErrors}`)
