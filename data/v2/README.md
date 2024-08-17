@@ -4,11 +4,11 @@ Welcome to **GeoThai Data Version 2**! 🌏📊 This directory contains the upda
 
 ## 📁 Directory Structure
 
-- **`provinces.json`**: Contains data about Thai provinces, including associated districts.
-- **`districts.json`**: Contains data about districts within each province, including associated subdistricts.
-- **`subdistricts.json`**: Contains data about subdistricts within each district.
-- **`postal_codes.json`**: Contains data about postal codes and their associated areas.
-- **`metadata.json`**: Provides metadata for this version of the data.
+-   **`provinces.json`**: Contains data about Thai provinces, including associated districts.
+-   **`districts.json`**: Contains data about districts within each province, including associated subdistricts.
+-   **`subdistricts.json`**: Contains data about subdistricts within each district.
+-   **`postal_codes.json`**: Contains data about postal codes and their associated areas.
+-   **`metadata.json`**: Provides metadata for this version of the data.
 
 ## 📊 Data Details
 

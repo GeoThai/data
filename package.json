@@ -1,0 +1,35 @@
+{
+    "name": "@geothai/data",
+    "type": "module",
+    "description": "Comprehensive geographic datasets for provinces, districts, and subdistricts of Thailand. Perfect for GIS, mapping, and location-based services. 🗺️📍",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GeoThai/data.git"
+    },
+    "homepage": "https://github.com/GeoThai/data#readme",
+    "bugs": {
+        "url": "https://github.com/GeoThai/data/issues"
+    },
+    "author": "GeoThai Team",
+    "license": "MIT",
+    "engines": {
+        "node": ">=20",
+        "pnpm": ">=9"
+    },
+    "scripts": {
+        "format": "prettier --check .",
+        "format:fix": "prettier --write --list-different .",
+        "prepare": "husky",
+        "knip": "knip",
+        "knip:fix": "knip --fix"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^19.4.0",
+        "@commitlint/config-conventional": "^19.2.2",
+        "husky": "^9.1.4",
+        "knip": "^5.27.2",
+        "lint-staged": "^15.2.9",
+        "prettier": "^3.3.3",
+        "prettier-plugin-pkg": "^0.18.1"
+    }
+}

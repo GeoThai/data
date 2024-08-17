@@ -4,10 +4,10 @@ Welcome to **GeoThai Data Version 1**! 🌏📊 This directory contains geograph
 
 ## 📁 Directory Structure
 
-- **`provinces.json`**: Contains data about Thai provinces.
-- **`districts.json`**: Contains data about districts within each province.
-- **`subdistricts.json`**: Contains data about subdistricts within each district.
-- **`metadata.json`**: Provides metadata for this version of the data.
+-   **`provinces.json`**: Contains data about Thai provinces.
+-   **`districts.json`**: Contains data about districts within each province.
+-   **`subdistricts.json`**: Contains data about subdistricts within each district.
+-   **`metadata.json`**: Provides metadata for this version of the data.
 
 ## 📊 Data Details
 
@@ -21,13 +21,13 @@ Welcome to **GeoThai Data Version 1**! 🌏📊 This directory contains geograph
 
 ```json
 [
-  {
-    "id": 1,
-    "province_id": 10,
-    "province_name_en": "Bangkok",
-    "province_name_th": "กรุงเทพมหานคร"
-  }
-  // Additional provinces...
+    {
+        "id": 1,
+        "province_id": 10,
+        "province_name_en": "Bangkok",
+        "province_name_th": "กรุงเทพมหานคร"
+    }
+    // Additional provinces...
 ]
 ```
 
@@ -41,15 +41,15 @@ Welcome to **GeoThai Data Version 1**! 🌏📊 This directory contains geograph
 
 ```json
 [
-  {
-    "id": 1,
-    "province_id": 10,
-    "district_id": 1001,
-    "district_name_en": "Phra Nakhon",
-    "district_name_th": "พระนคร",
-    "postal_code": 10200
-  }
-  // Additional districts...
+    {
+        "id": 1,
+        "province_id": 10,
+        "district_id": 1001,
+        "district_name_en": "Phra Nakhon",
+        "district_name_th": "พระนคร",
+        "postal_code": 10200
+    }
+    // Additional districts...
 ]
 ```
 
@@ -63,16 +63,16 @@ Welcome to **GeoThai Data Version 1**! 🌏📊 This directory contains geograph
 
 ```json
 [
-  {
-    "id": 1,
-    "province_id": 10,
-    "district_id": 1001,
-    "subdistrict_id": 100101,
-    "subdistrict_name_en": "Phra Borom Maha Ratchawang",
-    "subdistrict_name_th": "พระบรมมหาราชวัง",
-    "postal_code": 10200
-  }
-  // Additional subdistricts...
+    {
+        "id": 1,
+        "province_id": 10,
+        "district_id": 1001,
+        "subdistrict_id": 100101,
+        "subdistrict_name_en": "Phra Borom Maha Ratchawang",
+        "subdistrict_name_th": "พระบรมมหาราชวัง",
+        "postal_code": 10200
+    }
+    // Additional subdistricts...
 ]
 ```
 

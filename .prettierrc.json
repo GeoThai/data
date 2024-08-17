@@ -1,0 +1,21 @@
+{
+    "$schema": "https://json.schemastore.org/prettierrc",
+    "plugins": ["prettier-plugin-pkg"],
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "printWidth": 80,
+    "tabWidth": 4,
+    "useTabs": false,
+    "proseWrap": "preserve",
+    "htmlWhitespaceSensitivity": "ignore",
+    "endOfLine": "auto",
+    "overrides": [
+        {
+            "files": ["*.json"],
+            "options": {
+                "parser": "json"
+            }
+        }
+    ]
+}
