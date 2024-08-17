@@ -4,5 +4,6 @@
     "source": "GeoThai https://github.com/GeoThai/geodata",
     "total_provinces": 77,
     "total_districts": 928,
-    "total_subdistricts": 7436
+    "total_subdistricts": 7436,
+    "total_postal_codes": 954
 }

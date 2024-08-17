@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Generated schema for Root",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "postal_code": {
+                "type": "number"
+            },
+            "areas": {
+                "type": "array",
+                "items": {
+                    "type": "number"
+                }
+            }
+        },
+        "required": ["postal_code", "areas"]
+    }
+}

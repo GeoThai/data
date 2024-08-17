@@ -111,7 +111,8 @@ Welcome to **GeoThai Data Version 2**! 🌏📊 This directory contains the upda
     "source": "GeoThai https://github.com/GeoThai/data",
     "total_provinces": 77,
     "total_districts": 928,
-    "total_subdistricts": 7436
+    "total_subdistricts": 7436,
+    "total_postal_codes": 954
 }
 ```
 

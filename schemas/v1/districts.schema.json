@@ -1,0 +1,36 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Generated schema for Root",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "id": {
+                "type": "number"
+            },
+            "province_id": {
+                "type": "number"
+            },
+            "district_id": {
+                "type": "number"
+            },
+            "district_name_en": {
+                "type": "string"
+            },
+            "district_name_th": {
+                "type": "string"
+            },
+            "postal_code": {
+                "type": "number"
+            }
+        },
+        "required": [
+            "id",
+            "province_id",
+            "district_id",
+            "district_name_en",
+            "district_name_th",
+            "postal_code"
+        ]
+    }
+}
