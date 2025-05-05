@@ -1,4 +1,4 @@
 {
-    "$schema": "https://unpkg.com/knip@5/schema.json",
-    "entry": ["scripts/**/*.ts"]
+  "$schema": "https://unpkg.com/knip@5/schema.json",
+  "entry": ["scripts/**/*.ts"]
 }

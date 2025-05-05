@@ -4,11 +4,11 @@ Welcome to **GeoThai Data Version 2**! 🌏📊 This directory contains the upda
 
 ## 📁 Directory Structure
 
--   **`provinces.json`**: Contains data about Thai provinces, including associated districts.
--   **`districts.json`**: Contains data about districts within each province, including associated subdistricts.
--   **`subdistricts.json`**: Contains data about subdistricts within each district.
--   **`postal_codes.json`**: Contains data about postal codes and their associated areas.
--   **`metadata.json`**: Provides metadata for this version of the data.
+- **`provinces.json`**: Contains data about Thai provinces, including associated districts.
+- **`districts.json`**: Contains data about districts within each province, including associated subdistricts.
+- **`subdistricts.json`**: Contains data about subdistricts within each district.
+- **`postal_codes.json`**: Contains data about postal codes and their associated areas.
+- **`metadata.json`**: Provides metadata for this version of the data.
 
 ## 📊 Data Details
 
@@ -22,13 +22,13 @@ Welcome to **GeoThai Data Version 2**! 🌏📊 This directory contains the upda
 
 ```json
 [
-    {
-        "id": 10,
-        "en": "Bangkok",
-        "th": "กรุงเทพมหานคร",
-        "districts": [1001, 1002, 1003]
-    }
-    // Additional provinces...
+  {
+    "id": 10,
+    "en": "Bangkok",
+    "th": "กรุงเทพมหานคร",
+    "districts": [1001, 1002, 1003]
+  }
+  // Additional provinces...
 ]
 ```
 
@@ -42,14 +42,14 @@ Welcome to **GeoThai Data Version 2**! 🌏📊 This directory contains the upda
 
 ```json
 [
-    {
-        "id": 1001,
-        "province_id": 10,
-        "en": "Phra Nakhon",
-        "th": "พระนคร",
-        "subdistricts": [100101, 100102, 100103]
-    }
-    // Additional districts...
+  {
+    "id": 1001,
+    "province_id": 10,
+    "en": "Phra Nakhon",
+    "th": "พระนคร",
+    "subdistricts": [100101, 100102, 100103]
+  }
+  // Additional districts...
 ]
 ```
 
@@ -63,14 +63,14 @@ Welcome to **GeoThai Data Version 2**! 🌏📊 This directory contains the upda
 
 ```json
 [
-    {
-        "id": 100101,
-        "district_id": 1001,
-        "en": "Phra Borom Maha Ratchawang",
-        "th": "พระบรมมหาราชวัง",
-        "postal_code": 10200
-    }
-    // Additional subdistricts...
+  {
+    "id": 100101,
+    "district_id": 1001,
+    "en": "Phra Borom Maha Ratchawang",
+    "th": "พระบรมมหาราชวัง",
+    "postal_code": 10200
+  }
+  // Additional subdistricts...
 ]
 ```
 
@@ -84,15 +84,15 @@ Welcome to **GeoThai Data Version 2**! 🌏📊 This directory contains the upda
 
 ```json
 [
-    {
-        "postal_code": 10200,
-        "areas": [100101, 100102, 100201]
-    },
-    {
-        "postal_code": 10300,
-        "areas": [100202, 100203, 100301]
-    }
-    // Additional postal codes...
+  {
+    "postal_code": 10200,
+    "areas": [100101, 100102, 100201]
+  },
+  {
+    "postal_code": 10300,
+    "areas": [100202, 100203, 100301]
+  }
+  // Additional postal codes...
 ]
 ```
 
@@ -106,13 +106,13 @@ Welcome to **GeoThai Data Version 2**! 🌏📊 This directory contains the upda
 
 ```json
 {
-    "version": "2.0.0",
-    "last_updated": "YYYY-MM-DD HH:MM:SS",
-    "source": "GeoThai https://github.com/GeoThai/data",
-    "total_provinces": 77,
-    "total_districts": 928,
-    "total_subdistricts": 7436,
-    "total_postal_codes": 954
+  "version": "2.0.0",
+  "last_updated": "YYYY-MM-DD HH:MM:SS",
+  "source": "GeoThai https://github.com/GeoThai/data",
+  "total_provinces": 77,
+  "total_districts": 928,
+  "total_subdistricts": 7436,
+  "total_postal_codes": 954
 }
 ```
 
