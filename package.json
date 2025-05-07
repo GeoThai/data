@@ -1,7 +1,7 @@
 {
   "name": "@geothai/data",
   "type": "module",
-  "description": "Comprehensive geographic datasets for provinces, districts, and subdistricts of Thailand. Perfect for GIS, mapping, and location-based services. 🗺️📍",
+  "description": "Comprehensive geographic datasets for provinces, districts, and subdistricts of Thailand. 🗺️📍",
   "repository": {
     "type": "git",
     "url": "https://github.com/GeoThai/data.git"

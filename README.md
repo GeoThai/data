@@ -84,6 +84,6 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 
 ## 🙋‍♂️ Contact
 
-For any questions, issues, or feedback, please contact us at [pyyupsk@proton.me](mailto:pyyupsk@proton.me).
+For any questions, issues, or feedback, please contact us at [contact@fasu.dev](mailto:contact@fasu.dev).
 
 Thank you for using the GeoThai Data Repository! 🌟

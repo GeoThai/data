@@ -126,6 +126,6 @@ This dataset is licensed under the [MIT License](../../LICENSE). See the LICENSE
 
 ## 🙋‍♂️ Contact
 
-For any questions or feedback, please reach out to us at [pyyupsk@proton.me](mailto:pyyupsk@proton.me).
+For any questions or feedback, please reach out to us at [contact@fasu.dev](mailto:contact@fasu.dev).
 
 Thank you for using GeoThai Data Version 2! 🌟
