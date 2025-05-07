@@ -1,25 +1,32 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Generated schema for Root",
+  "title": "GeoThai Metadata v1",
+  "description": "Schema for GeoThai Metadata v1 data",
   "type": "object",
   "properties": {
     "version": {
-      "type": "string"
+      "type": "string",
+      "description": "The version of the data"
     },
     "last_updated": {
-      "type": "string"
+      "type": "string",
+      "description": "The last updated date of the data"
     },
     "source": {
-      "type": "string"
+      "type": "string",
+      "description": "The source of the data"
     },
     "total_provinces": {
-      "type": "number"
+      "type": "number",
+      "description": "The total number of provinces"
     },
     "total_districts": {
-      "type": "number"
+      "type": "number",
+      "description": "The total number of districts"
     },
     "total_subdistricts": {
-      "type": "number"
+      "type": "number",
+      "description": "The total number of subdistricts"
     }
   },
   "required": [

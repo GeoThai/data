@@ -1,17 +1,21 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Generated schema for Root",
+  "title": "Thailand Postal Codes",
+  "description": "Schema for Thailand Postal Codes data",
   "type": "array",
   "items": {
     "type": "object",
     "properties": {
       "postal_code": {
-        "type": "number"
+        "type": "number",
+        "description": "The postal code"
       },
       "areas": {
         "type": "array",
+        "description": "The area ids",
         "items": {
-          "type": "number"
+          "type": "number",
+          "description": "The area id"
         }
       }
     },

@@ -1,21 +1,26 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Generated schema for Root",
+  "title": "Thailand Provinces",
+  "description": "Schema for Thailand Provinces data",
   "type": "array",
   "items": {
     "type": "object",
     "properties": {
       "id": {
-        "type": "number"
+        "type": "number",
+        "description": "The index of the province"
       },
       "province_id": {
-        "type": "number"
+        "type": "number",
+        "description": "The province id"
       },
       "province_name_en": {
-        "type": "string"
+        "type": "string",
+        "description": "The province name in english"
       },
       "province_name_th": {
-        "type": "string"
+        "type": "string",
+        "description": "The province name in thai"
       }
     },
     "required": ["id", "province_id", "province_name_en", "province_name_th"]

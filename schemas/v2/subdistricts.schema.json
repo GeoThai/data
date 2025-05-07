@@ -6,19 +6,24 @@
     "type": "object",
     "properties": {
       "id": {
-        "type": "number"
+        "type": "number",
+        "description": "The subdistrict id"
       },
       "district_id": {
-        "type": "number"
+        "type": "number",
+        "description": "The district id"
       },
       "en": {
-        "type": "string"
+        "type": "string",
+        "description": "The subdistrict name in english"
       },
       "th": {
-        "type": "string"
+        "type": "string",
+        "description": "The subdistrict name in thai"
       },
       "postal_code": {
-        "type": "number"
+        "type": "number",
+        "description": "The postal code"
       }
     },
     "required": ["id", "district_id", "en", "th", "postal_code"]

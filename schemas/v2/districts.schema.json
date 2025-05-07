@@ -1,26 +1,33 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Generated schema for Root",
+  "title": "Thailand Districts",
+  "description": "Schema for Thailand Districts data",
   "type": "array",
   "items": {
     "type": "object",
     "properties": {
       "id": {
-        "type": "number"
+        "type": "number",
+        "description": "The district id"
       },
       "province_id": {
-        "type": "number"
+        "type": "number",
+        "description": "The province id"
       },
       "en": {
-        "type": "string"
+        "type": "string",
+        "description": "The district name in english"
       },
       "th": {
-        "type": "string"
+        "type": "string",
+        "description": "The district name in thai"
       },
       "subdistricts": {
         "type": "array",
+        "description": "The subdistrict ids",
         "items": {
-          "type": "number"
+          "type": "number",
+          "description": "The subdistrict id"
         }
       }
     },
