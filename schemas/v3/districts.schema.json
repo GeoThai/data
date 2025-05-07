@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/definitions/DistrictsSchemaValue"
+  },
+  "definitions": {
+    "DistrictsSchemaValue": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "type": "integer"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "name_th": {
+          "type": "string"
+        },
+        "province_code": {
+          "type": "integer"
+        },
+        "subdistricts": {
+          "type": "array",
+          "items": {
+            "type": "integer"
+          }
+        }
+      },
+      "required": ["code", "name_en", "name_th", "province_code", "subdistricts"],
+      "title": "DistrictsSchemaValue"
+    }
+  }
+}

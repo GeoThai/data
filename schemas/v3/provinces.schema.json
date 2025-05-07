@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/definitions/ProvincesSchemaValue"
+  },
+  "definitions": {
+    "ProvincesSchemaValue": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "type": "integer"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "name_th": {
+          "type": "string"
+        },
+        "districts": {
+          "type": "array",
+          "items": {
+            "type": "integer"
+          }
+        }
+      },
+      "required": ["code", "districts", "name_en", "name_th"],
+      "title": "ProvincesSchemaValue"
+    }
+  }
+}
