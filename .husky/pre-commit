@@ -1,2 +1,2 @@
-pnpm lint-staged
-pnpm validate
+bun run lint-staged
+bun run validate

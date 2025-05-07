@@ -19,8 +19,10 @@
     "format": "prettier --write . --list-different --cache",
     "prepare": "husky",
     "lint": "eslint scripts",
+    "lint:fix": "eslint scripts --fix",
     "knip": "knip",
-    "validate": "bun run scripts/validate"
+    "validate": "bun run scripts/validate",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.8.0",
@@ -38,13 +40,18 @@
     "prettier": "^3.5.3",
     "prettier-plugin-pkg": "^0.18.1",
     "tsx": "^4.19.4",
-    "typescript": "^5.8.3",
-    "typescript-eslint": "^8.31.1"
+    "typescript-eslint": "^8.31.1",
+    "@types/bun": "latest"
   },
   "dependencies": {
     "ajv": "^8.17.1",
+    "axios": "^1.9.0",
     "chalk": "^5.4.1",
     "figures": "^6.1.0"
   },
+  "peerDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "private": true,
   "packageManager": "pnpm@10.10.0+sha512.d615db246fe70f25dcfea6d8d73dee782ce23e2245e3c4f6f888249fb568149318637dca73c2c5c8ef2a4ca0d5657fb9567188bfab47f566d1ee6ce987815c39"
 }

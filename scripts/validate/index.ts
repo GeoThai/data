@@ -1,8 +1,8 @@
-import fs from 'fs'
-import path from 'path'
 import Ajv from 'ajv'
 import chalk from 'chalk'
 import figures from 'figures'
+import fs from 'fs'
+import path from 'path'
 
 const ajv = new Ajv({ allErrors: true })
 
