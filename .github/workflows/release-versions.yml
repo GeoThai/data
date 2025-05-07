@@ -11,6 +11,9 @@ on:
     paths:
       - 'data/**'
 
+permissions:
+  contents: write
+
 jobs:
   create-releases:
     runs-on: ubuntu-latest
@@ -35,7 +38,7 @@ jobs:
 
       - name: Create and publish releases
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           VERSIONS='${{ steps.get-versions.outputs.versions }}'
 
@@ -61,7 +64,7 @@ jobs:
               fi
               
               # Create a tag for this version if it doesn't exist
-              if ! git rev-parse "$VERSION" >/dev/null 2>&1; then
+              if ! git ls-remote --tags origin | grep -q "refs/tags/$VERSION"; then
                 git tag "$VERSION"
                 git push origin "$VERSION"
               fi
