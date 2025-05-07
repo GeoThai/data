@@ -88,7 +88,7 @@ Welcome to **GeoThai Data Version 1**! 🌏📊 This directory contains geograph
 {
   "version": "1.0.0",
   "last_updated": "YYYY-MM-DD HH:MM:SS",
-  "source": "GeoThai https://github.com/GeoThai/data",
+  "source": "GeoThai Team (https://github.com/GeoThai/data.git)",
   "total_provinces": 77,
   "total_districts": 928,
   "total_subdistricts": 7436
