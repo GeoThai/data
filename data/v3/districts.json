@@ -1,0 +1,7127 @@
+{
+  "1001": {
+    "code": 1001,
+    "name_en": "Phra Nakhon",
+    "name_th": "พระนคร",
+    "province_code": 10,
+    "subdistricts": [
+      100101, 100102, 100103, 100104, 100105, 100106, 100107, 100108, 100109, 100110, 100111, 100112
+    ]
+  },
+  "1002": {
+    "code": 1002,
+    "name_en": "Dusit",
+    "name_th": "ดุสิต",
+    "province_code": 10,
+    "subdistricts": [100201, 100202, 100203, 100204, 100206]
+  },
+  "1003": {
+    "code": 1003,
+    "name_en": "Nong Chok",
+    "name_th": "หนองจอก",
+    "province_code": 10,
+    "subdistricts": [100301, 100302, 100303, 100304, 100305, 100306, 100307, 100308]
+  },
+  "1004": {
+    "code": 1004,
+    "name_en": "Bang Rak",
+    "name_th": "บางรัก",
+    "province_code": 10,
+    "subdistricts": [100401, 100402, 100403, 100404, 100405]
+  },
+  "1005": {
+    "code": 1005,
+    "name_en": "Bang Khen",
+    "name_th": "บางเขน",
+    "province_code": 10,
+    "subdistricts": [100502, 100508]
+  },
+  "1006": {
+    "code": 1006,
+    "name_en": "Bang Kapi",
+    "name_th": "บางกะปิ",
+    "province_code": 10,
+    "subdistricts": [100601, 100608]
+  },
+  "1007": {
+    "code": 1007,
+    "name_en": "Pathum Wan",
+    "name_th": "ปทุมวัน",
+    "province_code": 10,
+    "subdistricts": [100701, 100702, 100703, 100704]
+  },
+  "1008": {
+    "code": 1008,
+    "name_en": "Pom Prap Sattruphai",
+    "name_th": "ป้อมปราบศัตรูพ่าย",
+    "province_code": 10,
+    "subdistricts": [100801, 100802, 100803, 100804, 100805]
+  },
+  "1009": {
+    "code": 1009,
+    "name_en": "Phra Khanong",
+    "name_th": "พระโขนง",
+    "province_code": 10,
+    "subdistricts": [100905, 100910]
+  },
+  "1010": {
+    "code": 1010,
+    "name_en": "Min Buri",
+    "name_th": "มีนบุรี",
+    "province_code": 10,
+    "subdistricts": [101001, 101002]
+  },
+  "1011": {
+    "code": 1011,
+    "name_en": "Lat Krabang",
+    "name_th": "ลาดกระบัง",
+    "province_code": 10,
+    "subdistricts": [101101, 101102, 101103, 101104, 101105, 101106]
+  },
+  "1012": {
+    "code": 1012,
+    "name_en": "Yannawa",
+    "name_th": "ยานนาวา",
+    "province_code": 10,
+    "subdistricts": [101203, 101204]
+  },
+  "1013": {
+    "code": 1013,
+    "name_en": "Samphanthawong",
+    "name_th": "สัมพันธวงศ์",
+    "province_code": 10,
+    "subdistricts": [101301, 101302, 101303]
+  },
+  "1014": {
+    "code": 1014,
+    "name_en": "Phaya Thai",
+    "name_th": "พญาไท",
+    "province_code": 10,
+    "subdistricts": [101401, 101406]
+  },
+  "1015": {
+    "code": 1015,
+    "name_en": "Thon Buri",
+    "name_th": "ธนบุรี",
+    "province_code": 10,
+    "subdistricts": [101501, 101502, 101503, 101504, 101505, 101506, 101507]
+  },
+  "1016": {
+    "code": 1016,
+    "name_en": "Bangkok Yai",
+    "name_th": "บางกอกใหญ่",
+    "province_code": 10,
+    "subdistricts": [101601, 101602]
+  },
+  "1017": {
+    "code": 1017,
+    "name_en": "Huai Khwang",
+    "name_th": "ห้วยขวาง",
+    "province_code": 10,
+    "subdistricts": [101701, 101702, 101704]
+  },
+  "1018": {
+    "code": 1018,
+    "name_en": "Khlong San",
+    "name_th": "คลองสาน",
+    "province_code": 10,
+    "subdistricts": [101801, 101802, 101803, 101804]
+  },
+  "1019": {
+    "code": 1019,
+    "name_en": "Taling Chan",
+    "name_th": "ตลิ่งชัน",
+    "province_code": 10,
+    "subdistricts": [101901, 101902, 101903, 101904, 101905, 101907]
+  },
+  "1020": {
+    "code": 1020,
+    "name_en": "Bangkok Noi",
+    "name_th": "บางกอกน้อย",
+    "province_code": 10,
+    "subdistricts": [102004, 102005, 102006, 102007, 102009]
+  },
+  "1021": {
+    "code": 1021,
+    "name_en": "Bang Khun Thian",
+    "name_th": "บางขุนเทียน",
+    "province_code": 10,
+    "subdistricts": [102105, 102107]
+  },
+  "1022": {
+    "code": 1022,
+    "name_en": "Phasi Charoen",
+    "name_th": "ภาษีเจริญ",
+    "province_code": 10,
+    "subdistricts": [102201, 102202, 102206, 102207, 102208, 102209, 102210]
+  },
+  "1023": {
+    "code": 1023,
+    "name_en": "Nong Khaem",
+    "name_th": "หนองแขม",
+    "province_code": 10,
+    "subdistricts": [102302, 102303]
+  },
+  "1024": {
+    "code": 1024,
+    "name_en": "Rat Burana",
+    "name_th": "ราษฎร์บูรณะ",
+    "province_code": 10,
+    "subdistricts": [102401, 102402]
+  },
+  "1025": {
+    "code": 1025,
+    "name_en": "Bang Phlat",
+    "name_th": "บางพลัด",
+    "province_code": 10,
+    "subdistricts": [102501, 102502, 102503, 102504]
+  },
+  "1026": {
+    "code": 1026,
+    "name_en": "Din Daeng",
+    "name_th": "ดินแดง",
+    "province_code": 10,
+    "subdistricts": [102601, 102602]
+  },
+  "1027": {
+    "code": 1027,
+    "name_en": "Bung Kum",
+    "name_th": "บึงกุ่ม",
+    "province_code": 10,
+    "subdistricts": [102701, 102704, 102705]
+  },
+  "1028": {
+    "code": 1028,
+    "name_en": "Sa Thon",
+    "name_th": "สาทร",
+    "province_code": 10,
+    "subdistricts": [102801, 102802, 102803]
+  },
+  "1029": {
+    "code": 1029,
+    "name_en": "Bang Su",
+    "name_th": "บางซื่อ",
+    "province_code": 10,
+    "subdistricts": [102901, 102902]
+  },
+  "1030": {
+    "code": 1030,
+    "name_en": "Chatuchak",
+    "name_th": "จตุจักร",
+    "province_code": 10,
+    "subdistricts": [103001, 103002, 103003, 103004, 103005]
+  },
+  "1031": {
+    "code": 1031,
+    "name_en": "Bang Kho Laem",
+    "name_th": "บางคอแหลม",
+    "province_code": 10,
+    "subdistricts": [103101, 103102, 103103]
+  },
+  "1032": {
+    "code": 1032,
+    "name_en": "Prawet",
+    "name_th": "ประเวศ",
+    "province_code": 10,
+    "subdistricts": [103201, 103202, 103203]
+  },
+  "1033": {
+    "code": 1033,
+    "name_en": "Khlong Toei",
+    "name_th": "คลองเตย",
+    "province_code": 10,
+    "subdistricts": [103301, 103302, 103303]
+  },
+  "1034": {
+    "code": 1034,
+    "name_en": "Suan Luang",
+    "name_th": "สวนหลวง",
+    "province_code": 10,
+    "subdistricts": [103401, 103402, 103403]
+  },
+  "1035": {
+    "code": 1035,
+    "name_en": "Chom Thong",
+    "name_th": "จอมทอง",
+    "province_code": 10,
+    "subdistricts": [103501, 103502, 103503, 103504]
+  },
+  "1036": {
+    "code": 1036,
+    "name_en": "Don Mueang",
+    "name_th": "ดอนเมือง",
+    "province_code": 10,
+    "subdistricts": [103602, 103604, 103605]
+  },
+  "1037": {
+    "code": 1037,
+    "name_en": "Rat Thewi",
+    "name_th": "ราชเทวี",
+    "province_code": 10,
+    "subdistricts": [103701, 103702, 103703, 103704]
+  },
+  "1038": {
+    "code": 1038,
+    "name_en": "Lat Phrao",
+    "name_th": "ลาดพร้าว",
+    "province_code": 10,
+    "subdistricts": [103801, 103802]
+  },
+  "1039": {
+    "code": 1039,
+    "name_en": "Watthana",
+    "name_th": "วัฒนา",
+    "province_code": 10,
+    "subdistricts": [103901, 103902, 103903]
+  },
+  "1040": {
+    "code": 1040,
+    "name_en": "Bang Khae",
+    "name_th": "บางแค",
+    "province_code": 10,
+    "subdistricts": [104001, 104002, 104003, 104004]
+  },
+  "1041": {
+    "code": 1041,
+    "name_en": "Lak Si",
+    "name_th": "หลักสี่",
+    "province_code": 10,
+    "subdistricts": [104101, 104102]
+  },
+  "1042": {
+    "code": 1042,
+    "name_en": "Sai Mai",
+    "name_th": "สายไหม",
+    "province_code": 10,
+    "subdistricts": [104201, 104202, 104203]
+  },
+  "1043": {
+    "code": 1043,
+    "name_en": "Khanna Yao",
+    "name_th": "คันนายาว",
+    "province_code": 10,
+    "subdistricts": [104301, 104302]
+  },
+  "1044": {
+    "code": 1044,
+    "name_en": "Saphan Sung",
+    "name_th": "สะพานสูง",
+    "province_code": 10,
+    "subdistricts": [104401, 104402, 104403]
+  },
+  "1045": {
+    "code": 1045,
+    "name_en": "Wang Thong Lang",
+    "name_th": "วังทองหลาง",
+    "province_code": 10,
+    "subdistricts": [104501, 104502, 104503, 104504]
+  },
+  "1046": {
+    "code": 1046,
+    "name_en": "Khlong Sam Wa",
+    "name_th": "คลองสามวา",
+    "province_code": 10,
+    "subdistricts": [104601, 104602, 104603, 104604, 104605]
+  },
+  "1047": {
+    "code": 1047,
+    "name_en": "Bang Na",
+    "name_th": "บางนา",
+    "province_code": 10,
+    "subdistricts": [104702, 104703]
+  },
+  "1048": {
+    "code": 1048,
+    "name_en": "Thawi Watthana",
+    "name_th": "ทวีวัฒนา",
+    "province_code": 10,
+    "subdistricts": [104801, 104802]
+  },
+  "1049": {
+    "code": 1049,
+    "name_en": "Thung Khu",
+    "name_th": "ทุ่งครุ",
+    "province_code": 10,
+    "subdistricts": [104901, 104902]
+  },
+  "1050": {
+    "code": 1050,
+    "name_en": "Bang Bon",
+    "name_th": "บางบอน",
+    "province_code": 10,
+    "subdistricts": [105002, 105003, 105004, 105005]
+  },
+  "1101": {
+    "code": 1101,
+    "name_en": "Mueang Samut Prakan",
+    "name_th": "เมืองสมุทรปราการ",
+    "province_code": 11,
+    "subdistricts": [
+      110101, 110102, 110103, 110104, 110108, 110110, 110111, 110112, 110113, 110114, 110115,
+      110116, 110117
+    ]
+  },
+  "1102": {
+    "code": 1102,
+    "name_en": "Bang Bo",
+    "name_th": "บางบ่อ",
+    "province_code": 11,
+    "subdistricts": [110201, 110202, 110203, 110204, 110205, 110206, 110207, 110208]
+  },
+  "1103": {
+    "code": 1103,
+    "name_en": "Bang Phli",
+    "name_th": "บางพลี",
+    "province_code": 11,
+    "subdistricts": [110301, 110302, 110303, 110304, 110308, 110309]
+  },
+  "1104": {
+    "code": 1104,
+    "name_en": "Phra Pradaeng",
+    "name_th": "พระประแดง",
+    "province_code": 11,
+    "subdistricts": [
+      110401, 110402, 110403, 110404, 110405, 110406, 110407, 110408, 110409, 110410, 110411,
+      110412, 110413, 110414, 110415
+    ]
+  },
+  "1105": {
+    "code": 1105,
+    "name_en": "Phra Samut Chedi",
+    "name_th": "พระสมุทรเจดีย์",
+    "province_code": 11,
+    "subdistricts": [110501, 110502, 110503, 110504, 110505]
+  },
+  "1106": {
+    "code": 1106,
+    "name_en": "Bang Sao Thong",
+    "name_th": "บางเสาธง",
+    "province_code": 11,
+    "subdistricts": [110601, 110602, 110603]
+  },
+  "1201": {
+    "code": 1201,
+    "name_en": "Mueang Nonthaburi",
+    "name_th": "เมืองนนทบุรี",
+    "province_code": 12,
+    "subdistricts": [120101, 120102, 120103, 120104, 120105, 120106, 120107, 120108, 120109, 120110]
+  },
+  "1202": {
+    "code": 1202,
+    "name_en": "Bang Kruai",
+    "name_th": "บางกรวย",
+    "province_code": 12,
+    "subdistricts": [120201, 120202, 120203, 120204, 120205, 120206, 120207, 120208, 120209]
+  },
+  "1203": {
+    "code": 1203,
+    "name_en": "Bang Yai",
+    "name_th": "บางใหญ่",
+    "province_code": 12,
+    "subdistricts": [120301, 120302, 120303, 120304, 120305, 120306]
+  },
+  "1204": {
+    "code": 1204,
+    "name_en": "Bang Bua Thong",
+    "name_th": "บางบัวทอง",
+    "province_code": 12,
+    "subdistricts": [120401, 120402, 120403, 120404, 120405, 120406, 120407, 120408]
+  },
+  "1205": {
+    "code": 1205,
+    "name_en": "Sai Noi",
+    "name_th": "ไทรน้อย",
+    "province_code": 12,
+    "subdistricts": [120501, 120502, 120503, 120504, 120505, 120506, 120507]
+  },
+  "1206": {
+    "code": 1206,
+    "name_en": "Pak Kret",
+    "name_th": "ปากเกร็ด",
+    "province_code": 12,
+    "subdistricts": [
+      120601, 120602, 120603, 120604, 120605, 120606, 120607, 120608, 120609, 120610, 120611, 120612
+    ]
+  },
+  "1301": {
+    "code": 1301,
+    "name_en": "Mueang Pathum Thani",
+    "name_th": "เมืองปทุมธานี",
+    "province_code": 13,
+    "subdistricts": [
+      130101, 130102, 130103, 130104, 130105, 130106, 130107, 130108, 130109, 130110, 130111,
+      130112, 130113, 130114
+    ]
+  },
+  "1302": {
+    "code": 1302,
+    "name_en": "Khlong Luang",
+    "name_th": "คลองหลวง",
+    "province_code": 13,
+    "subdistricts": [130201, 130202, 130203, 130204, 130205, 130206, 130207]
+  },
+  "1303": {
+    "code": 1303,
+    "name_en": "Thanyaburi",
+    "name_th": "ธัญบุรี",
+    "province_code": 13,
+    "subdistricts": [130301, 130302, 130303, 130304, 130305, 130306]
+  },
+  "1304": {
+    "code": 1304,
+    "name_en": "Nong Suea",
+    "name_th": "หนองเสือ",
+    "province_code": 13,
+    "subdistricts": [130401, 130402, 130403, 130404, 130405, 130406, 130407]
+  },
+  "1305": {
+    "code": 1305,
+    "name_en": "Lat Lum Kaeo",
+    "name_th": "ลาดหลุมแก้ว",
+    "province_code": 13,
+    "subdistricts": [130501, 130502, 130503, 130504, 130505, 130506, 130507]
+  },
+  "1306": {
+    "code": 1306,
+    "name_en": "Lam Luk Ka",
+    "name_th": "ลำลูกกา",
+    "province_code": 13,
+    "subdistricts": [130601, 130602, 130603, 130604, 130605, 130606, 130607, 130608]
+  },
+  "1307": {
+    "code": 1307,
+    "name_en": "Sam Khok",
+    "name_th": "สามโคก",
+    "province_code": 13,
+    "subdistricts": [
+      130701, 130702, 130703, 130704, 130705, 130706, 130707, 130708, 130709, 130710, 130711
+    ]
+  },
+  "1401": {
+    "code": 1401,
+    "name_en": "Phra Nakhon Si Ayutthaya",
+    "name_th": "พระนครศรีอยุธยา",
+    "province_code": 14,
+    "subdistricts": [
+      140101, 140102, 140103, 140104, 140105, 140106, 140107, 140108, 140109, 140110, 140111,
+      140112, 140113, 140114, 140115, 140116, 140117, 140118, 140119, 140120, 140121
+    ]
+  },
+  "1402": {
+    "code": 1402,
+    "name_en": "Tha Ruea",
+    "name_th": "ท่าเรือ",
+    "province_code": 14,
+    "subdistricts": [140201, 140202, 140203, 140204, 140205, 140206, 140207, 140208, 140209, 140210]
+  },
+  "1403": {
+    "code": 1403,
+    "name_en": "Nakhon Luang",
+    "name_th": "นครหลวง",
+    "province_code": 14,
+    "subdistricts": [
+      140301, 140302, 140303, 140304, 140305, 140306, 140307, 140308, 140309, 140310, 140311, 140312
+    ]
+  },
+  "1404": {
+    "code": 1404,
+    "name_en": "Bang Sai",
+    "name_th": "บางไทร",
+    "province_code": 14,
+    "subdistricts": [
+      140401, 140402, 140403, 140404, 140405, 140406, 140407, 140408, 140409, 140410, 140411,
+      140412, 140413, 140414, 140415, 140416, 140417, 140418, 140419, 140420, 140421, 140422, 140423
+    ]
+  },
+  "1405": {
+    "code": 1405,
+    "name_en": "Bang Ban",
+    "name_th": "บางบาล",
+    "province_code": 14,
+    "subdistricts": [
+      140501, 140502, 140503, 140504, 140505, 140506, 140507, 140508, 140509, 140510, 140511,
+      140512, 140513, 140514, 140515, 140516
+    ]
+  },
+  "1406": {
+    "code": 1406,
+    "name_en": "Bang Pa-In",
+    "name_th": "บางปะอิน",
+    "province_code": 14,
+    "subdistricts": [
+      140601, 140602, 140603, 140604, 140605, 140606, 140607, 140608, 140609, 140610, 140611,
+      140612, 140613, 140614, 140615, 140616, 140617, 140618
+    ]
+  },
+  "1407": {
+    "code": 1407,
+    "name_en": "Bang Pahan",
+    "name_th": "บางปะหัน",
+    "province_code": 14,
+    "subdistricts": [
+      140701, 140702, 140703, 140704, 140705, 140706, 140707, 140708, 140709, 140710, 140711,
+      140712, 140713, 140714, 140715, 140716, 140717
+    ]
+  },
+  "1408": {
+    "code": 1408,
+    "name_en": "Phak Hai",
+    "name_th": "ผักไห่",
+    "province_code": 14,
+    "subdistricts": [
+      140801, 140802, 140803, 140804, 140805, 140806, 140807, 140808, 140809, 140810, 140811,
+      140812, 140813, 140814, 140815, 140816
+    ]
+  },
+  "1409": {
+    "code": 1409,
+    "name_en": "Phachi",
+    "name_th": "ภาชี",
+    "province_code": 14,
+    "subdistricts": [140901, 140902, 140903, 140904, 140905, 140906, 140907, 140908]
+  },
+  "1410": {
+    "code": 1410,
+    "name_en": "Lat Bua Luang",
+    "name_th": "ลาดบัวหลวง",
+    "province_code": 14,
+    "subdistricts": [141001, 141002, 141003, 141004, 141005, 141006, 141007]
+  },
+  "1411": {
+    "code": 1411,
+    "name_en": "Wang Noi",
+    "name_th": "วังน้อย",
+    "province_code": 14,
+    "subdistricts": [141101, 141102, 141103, 141104, 141105, 141106, 141107, 141108, 141109, 141110]
+  },
+  "1412": {
+    "code": 1412,
+    "name_en": "Sena",
+    "name_th": "เสนา",
+    "province_code": 14,
+    "subdistricts": [
+      141201, 141202, 141203, 141204, 141205, 141206, 141207, 141208, 141209, 141210, 141211,
+      141212, 141213, 141214, 141215, 141216, 141217
+    ]
+  },
+  "1413": {
+    "code": 1413,
+    "name_en": "Bang Sai",
+    "name_th": "บางซ้าย",
+    "province_code": 14,
+    "subdistricts": [141301, 141302, 141303, 141304, 141305, 141306]
+  },
+  "1414": {
+    "code": 1414,
+    "name_en": "Uthai",
+    "name_th": "อุทัย",
+    "province_code": 14,
+    "subdistricts": [
+      141401, 141402, 141403, 141404, 141405, 141406, 141407, 141408, 141409, 141410, 141411
+    ]
+  },
+  "1415": {
+    "code": 1415,
+    "name_en": "Maha Rat",
+    "name_th": "มหาราช",
+    "province_code": 14,
+    "subdistricts": [
+      141501, 141502, 141503, 141504, 141505, 141506, 141507, 141508, 141509, 141510, 141511, 141512
+    ]
+  },
+  "1416": {
+    "code": 1416,
+    "name_en": "Ban Phraek",
+    "name_th": "บ้านแพรก",
+    "province_code": 14,
+    "subdistricts": [141601, 141602, 141603, 141604, 141605]
+  },
+  "1501": {
+    "code": 1501,
+    "name_en": "Mueang Ang Thong",
+    "name_th": "เมืองอ่างทอง",
+    "province_code": 15,
+    "subdistricts": [
+      150101, 150102, 150103, 150104, 150105, 150106, 150107, 150108, 150109, 150110, 150111,
+      150112, 150113, 150114
+    ]
+  },
+  "1502": {
+    "code": 1502,
+    "name_en": "Chaiyo",
+    "name_th": "ไชโย",
+    "province_code": 15,
+    "subdistricts": [150201, 150202, 150203, 150204, 150205, 150206, 150207, 150208, 150209]
+  },
+  "1503": {
+    "code": 1503,
+    "name_en": "Pa Mok",
+    "name_th": "ป่าโมก",
+    "province_code": 15,
+    "subdistricts": [150301, 150302, 150303, 150304, 150305, 150306, 150307, 150308]
+  },
+  "1504": {
+    "code": 1504,
+    "name_en": "Pho Thong",
+    "name_th": "โพธิ์ทอง",
+    "province_code": 15,
+    "subdistricts": [
+      150401, 150402, 150403, 150404, 150405, 150406, 150407, 150408, 150409, 150410, 150411,
+      150412, 150413, 150414, 150415
+    ]
+  },
+  "1505": {
+    "code": 1505,
+    "name_en": "Sawaeng Ha",
+    "name_th": "แสวงหา",
+    "province_code": 15,
+    "subdistricts": [150501, 150502, 150503, 150504, 150505, 150506, 150507]
+  },
+  "1506": {
+    "code": 1506,
+    "name_en": "Wiset Chai Chan",
+    "name_th": "วิเศษชัยชาญ",
+    "province_code": 15,
+    "subdistricts": [
+      150601, 150602, 150603, 150604, 150605, 150606, 150607, 150608, 150609, 150610, 150611,
+      150612, 150613, 150614, 150615
+    ]
+  },
+  "1507": {
+    "code": 1507,
+    "name_en": "Samko",
+    "name_th": "สามโก้",
+    "province_code": 15,
+    "subdistricts": [150701, 150702, 150703, 150704, 150705]
+  },
+  "1601": {
+    "code": 1601,
+    "name_en": "Mueang Lop Buri",
+    "name_th": "เมืองลพบุรี",
+    "province_code": 16,
+    "subdistricts": [
+      160101, 160102, 160103, 160104, 160105, 160106, 160107, 160108, 160109, 160110, 160111,
+      160112, 160114, 160115, 160116, 160117, 160118, 160119, 160120, 160121, 160122, 160123,
+      160124, 160125
+    ]
+  },
+  "1602": {
+    "code": 1602,
+    "name_en": "Phatthana Nikhom",
+    "name_th": "พัฒนานิคม",
+    "province_code": 16,
+    "subdistricts": [160201, 160202, 160203, 160204, 160205, 160206, 160207, 160208, 160209]
+  },
+  "1603": {
+    "code": 1603,
+    "name_en": "Khok Samrong",
+    "name_th": "โคกสำโรง",
+    "province_code": 16,
+    "subdistricts": [
+      160301, 160302, 160303, 160304, 160305, 160306, 160307, 160308, 160309, 160310, 160318,
+      160320, 160322
+    ]
+  },
+  "1604": {
+    "code": 1604,
+    "name_en": "Chai Badan",
+    "name_th": "ชัยบาดาล",
+    "province_code": 16,
+    "subdistricts": [
+      160401, 160402, 160403, 160404, 160405, 160406, 160407, 160408, 160409, 160410, 160411,
+      160412, 160414, 160417, 160418, 160419, 160422
+    ]
+  },
+  "1605": {
+    "code": 1605,
+    "name_en": "Tha Wung",
+    "name_th": "ท่าวุ้ง",
+    "province_code": 16,
+    "subdistricts": [
+      160501, 160502, 160503, 160504, 160505, 160506, 160507, 160508, 160509, 160510, 160511
+    ]
+  },
+  "1606": {
+    "code": 1606,
+    "name_en": "Ban Mi",
+    "name_th": "บ้านหมี่",
+    "province_code": 16,
+    "subdistricts": [
+      160601, 160602, 160603, 160604, 160605, 160606, 160607, 160608, 160609, 160610, 160611,
+      160612, 160613, 160614, 160615, 160616, 160617, 160618, 160619, 160620, 160621, 160622
+    ]
+  },
+  "1607": {
+    "code": 1607,
+    "name_en": "Tha Luang",
+    "name_th": "ท่าหลวง",
+    "province_code": 16,
+    "subdistricts": [160701, 160702, 160703, 160704, 160705, 160706]
+  },
+  "1608": {
+    "code": 1608,
+    "name_en": "Sa Bot",
+    "name_th": "สระโบสถ์",
+    "province_code": 16,
+    "subdistricts": [160801, 160802, 160803, 160804, 160805]
+  },
+  "1609": {
+    "code": 1609,
+    "name_en": "Khok Charoen",
+    "name_th": "โคกเจริญ",
+    "province_code": 16,
+    "subdistricts": [160901, 160902, 160903, 160904, 160905]
+  },
+  "1610": {
+    "code": 1610,
+    "name_en": "Lam Sonthi",
+    "name_th": "ลำสนธิ",
+    "province_code": 16,
+    "subdistricts": [161001, 161002, 161003, 161004, 161005, 161006]
+  },
+  "1611": {
+    "code": 1611,
+    "name_en": "Nong Muang",
+    "name_th": "หนองม่วง",
+    "province_code": 16,
+    "subdistricts": [161101, 161102, 161103, 161104, 161105, 161106]
+  },
+  "1701": {
+    "code": 1701,
+    "name_en": "Mueang Sing Buri",
+    "name_th": "เมืองสิงห์บุรี",
+    "province_code": 17,
+    "subdistricts": [170101, 170102, 170103, 170104, 170105, 170106, 170107, 170108]
+  },
+  "1702": {
+    "code": 1702,
+    "name_en": "Bang Rachan",
+    "name_th": "บางระจัน",
+    "province_code": 17,
+    "subdistricts": [170201, 170202, 170203, 170204, 170205, 170206, 170207, 170208]
+  },
+  "1703": {
+    "code": 1703,
+    "name_en": "Khai Bang Rachan",
+    "name_th": "ค่ายบางระจัน",
+    "province_code": 17,
+    "subdistricts": [170301, 170302, 170303, 170304, 170305, 170306]
+  },
+  "1704": {
+    "code": 1704,
+    "name_en": "Phrom Buri",
+    "name_th": "พรหมบุรี",
+    "province_code": 17,
+    "subdistricts": [170401, 170402, 170403, 170404, 170405, 170406, 170407]
+  },
+  "1705": {
+    "code": 1705,
+    "name_en": "Tha Chang",
+    "name_th": "ท่าช้าง",
+    "province_code": 17,
+    "subdistricts": [170501, 170502, 170503, 170504]
+  },
+  "1706": {
+    "code": 1706,
+    "name_en": "In Buri",
+    "name_th": "อินทร์บุรี",
+    "province_code": 17,
+    "subdistricts": [170601, 170602, 170603, 170604, 170605, 170606, 170607, 170608, 170609, 170610]
+  },
+  "1801": {
+    "code": 1801,
+    "name_en": "Mueang Chai Nat",
+    "name_th": "เมืองชัยนาท",
+    "province_code": 18,
+    "subdistricts": [180101, 180102, 180103, 180104, 180105, 180106, 180107, 180108, 180109]
+  },
+  "1802": {
+    "code": 1802,
+    "name_en": "Manorom",
+    "name_th": "มโนรมย์",
+    "province_code": 18,
+    "subdistricts": [180201, 180202, 180203, 180204, 180205, 180206, 180207]
+  },
+  "1803": {
+    "code": 1803,
+    "name_en": "Wat Sing",
+    "name_th": "วัดสิงห์",
+    "province_code": 18,
+    "subdistricts": [180301, 180302, 180303, 180304, 180306, 180307, 180311]
+  },
+  "1804": {
+    "code": 1804,
+    "name_en": "Sapphaya",
+    "name_th": "สรรพยา",
+    "province_code": 18,
+    "subdistricts": [180401, 180402, 180403, 180404, 180405, 180406, 180407]
+  },
+  "1805": {
+    "code": 1805,
+    "name_en": "Sankhaburi",
+    "name_th": "สรรคบุรี",
+    "province_code": 18,
+    "subdistricts": [180501, 180502, 180503, 180504, 180505, 180506, 180507, 180508]
+  },
+  "1806": {
+    "code": 1806,
+    "name_en": "Hankha",
+    "name_th": "หันคา",
+    "province_code": 18,
+    "subdistricts": [180601, 180602, 180605, 180606, 180607, 180608, 180609, 180611]
+  },
+  "1807": {
+    "code": 1807,
+    "name_en": "Nong Mamong",
+    "name_th": "หนองมะโมง",
+    "province_code": 18,
+    "subdistricts": [180701, 180702, 180703, 180704]
+  },
+  "1808": {
+    "code": 1808,
+    "name_en": "Noen Kham",
+    "name_th": "เนินขาม",
+    "province_code": 18,
+    "subdistricts": [180801, 180802, 180803]
+  },
+  "1901": {
+    "code": 1901,
+    "name_en": "Mueang Saraburi",
+    "name_th": "เมืองสระบุรี",
+    "province_code": 19,
+    "subdistricts": [
+      190101, 190105, 190106, 190107, 190108, 190109, 190110, 190111, 190112, 190113, 190114
+    ]
+  },
+  "1902": {
+    "code": 1902,
+    "name_en": "Kaeng Khoi",
+    "name_th": "แก่งคอย",
+    "province_code": 19,
+    "subdistricts": [
+      190201, 190202, 190203, 190204, 190205, 190206, 190207, 190208, 190209, 190210, 190211,
+      190212, 190213, 190215
+    ]
+  },
+  "1903": {
+    "code": 1903,
+    "name_en": "Nong Khae",
+    "name_th": "หนองแค",
+    "province_code": 19,
+    "subdistricts": [
+      190301, 190302, 190303, 190304, 190305, 190306, 190307, 190308, 190309, 190310, 190311,
+      190312, 190313, 190314, 190315, 190316, 190317, 190318
+    ]
+  },
+  "1904": {
+    "code": 1904,
+    "name_en": "Wihan Daeng",
+    "name_th": "วิหารแดง",
+    "province_code": 19,
+    "subdistricts": [190401, 190402, 190403, 190404, 190405, 190406]
+  },
+  "1905": {
+    "code": 1905,
+    "name_en": "Nong Saeng",
+    "name_th": "หนองแซง",
+    "province_code": 19,
+    "subdistricts": [190501, 190502, 190503, 190504, 190505, 190506, 190507, 190508, 190509]
+  },
+  "1906": {
+    "code": 1906,
+    "name_en": "Ban Mo",
+    "name_th": "บ้านหมอ",
+    "province_code": 19,
+    "subdistricts": [190601, 190602, 190603, 190604, 190605, 190606, 190607, 190608, 190609]
+  },
+  "1907": {
+    "code": 1907,
+    "name_en": "Don Phut",
+    "name_th": "ดอนพุด",
+    "province_code": 19,
+    "subdistricts": [190701, 190702, 190703, 190704]
+  },
+  "1908": {
+    "code": 1908,
+    "name_en": "Nong Don",
+    "name_th": "หนองโดน",
+    "province_code": 19,
+    "subdistricts": [190801, 190802, 190803, 190804]
+  },
+  "1909": {
+    "code": 1909,
+    "name_en": "Phra Phutthabat",
+    "name_th": "พระพุทธบาท",
+    "province_code": 19,
+    "subdistricts": [190901, 190902, 190903, 190904, 190905, 190906, 190907, 190908, 190909]
+  },
+  "1910": {
+    "code": 1910,
+    "name_en": "Sao Hai",
+    "name_th": "เสาไห้",
+    "province_code": 19,
+    "subdistricts": [
+      191001, 191002, 191003, 191004, 191005, 191006, 191007, 191008, 191009, 191010, 191011, 191012
+    ]
+  },
+  "1911": {
+    "code": 1911,
+    "name_en": "Muak Lek",
+    "name_th": "มวกเหล็ก",
+    "province_code": 19,
+    "subdistricts": [191101, 191102, 191104, 191105, 191107, 191109]
+  },
+  "1912": {
+    "code": 1912,
+    "name_en": "Wang Muang",
+    "name_th": "วังม่วง",
+    "province_code": 19,
+    "subdistricts": [191201, 191202, 191203]
+  },
+  "1913": {
+    "code": 1913,
+    "name_en": "Chaloem Phra Kiet",
+    "name_th": "เฉลิมพระเกียรติ",
+    "province_code": 19,
+    "subdistricts": [191301, 191302, 191303, 191304, 191305, 191306]
+  },
+  "2001": {
+    "code": 2001,
+    "name_en": "Mueang Chon Buri",
+    "name_th": "เมืองชลบุรี",
+    "province_code": 20,
+    "subdistricts": [
+      200101, 200102, 200103, 200104, 200105, 200106, 200107, 200108, 200109, 200110, 200111,
+      200112, 200113, 200114, 200115, 200116, 200117, 200118
+    ]
+  },
+  "2002": {
+    "code": 2002,
+    "name_en": "Ban Bueng",
+    "name_th": "บ้านบึง",
+    "province_code": 20,
+    "subdistricts": [200201, 200202, 200203, 200204, 200205, 200206, 200207, 200208]
+  },
+  "2003": {
+    "code": 2003,
+    "name_en": "Nong Yai",
+    "name_th": "หนองใหญ่",
+    "province_code": 20,
+    "subdistricts": [200301, 200302, 200303, 200304, 200305]
+  },
+  "2004": {
+    "code": 2004,
+    "name_en": "Bang Lamung",
+    "name_th": "บางละมุง",
+    "province_code": 20,
+    "subdistricts": [200401, 200402, 200403, 200404, 200405, 200406, 200407, 200408]
+  },
+  "2005": {
+    "code": 2005,
+    "name_en": "Phan Thong",
+    "name_th": "พานทอง",
+    "province_code": 20,
+    "subdistricts": [
+      200501, 200502, 200503, 200504, 200505, 200506, 200507, 200508, 200509, 200510, 200511
+    ]
+  },
+  "2006": {
+    "code": 2006,
+    "name_en": "Phanat Nikhom",
+    "name_th": "พนัสนิคม",
+    "province_code": 20,
+    "subdistricts": [
+      200601, 200602, 200603, 200604, 200605, 200606, 200607, 200608, 200609, 200610, 200611,
+      200613, 200614, 200615, 200616, 200617, 200618, 200620, 200621, 200622
+    ]
+  },
+  "2007": {
+    "code": 2007,
+    "name_en": "Si Racha",
+    "name_th": "ศรีราชา",
+    "province_code": 20,
+    "subdistricts": [200701, 200702, 200703, 200704, 200705, 200706, 200707, 200708]
+  },
+  "2008": {
+    "code": 2008,
+    "name_en": "Ko Sichang",
+    "name_th": "เกาะสีชัง",
+    "province_code": 20,
+    "subdistricts": [200801]
+  },
+  "2009": {
+    "code": 2009,
+    "name_en": "Sattahip",
+    "name_th": "สัตหีบ",
+    "province_code": 20,
+    "subdistricts": [200901, 200902, 200903, 200904, 200905]
+  },
+  "2010": {
+    "code": 2010,
+    "name_en": "Bo Thong",
+    "name_th": "บ่อทอง",
+    "province_code": 20,
+    "subdistricts": [201001, 201002, 201003, 201004, 201005, 201006]
+  },
+  "2011": {
+    "code": 2011,
+    "name_en": "Ko Chan",
+    "name_th": "เกาะจันทร์",
+    "province_code": 20,
+    "subdistricts": [201101, 201102]
+  },
+  "2101": {
+    "code": 2101,
+    "name_en": "Mueang Rayong",
+    "name_th": "เมืองระยอง",
+    "province_code": 21,
+    "subdistricts": [
+      210101, 210102, 210103, 210104, 210105, 210106, 210107, 210108, 210109, 210110, 210111,
+      210112, 210113, 210114, 210115
+    ]
+  },
+  "2102": {
+    "code": 2102,
+    "name_en": "Ban Chang",
+    "name_th": "บ้านฉาง",
+    "province_code": 21,
+    "subdistricts": [210201, 210202, 210203]
+  },
+  "2103": {
+    "code": 2103,
+    "name_en": "Klaeng",
+    "name_th": "แกลง",
+    "province_code": 21,
+    "subdistricts": [
+      210301, 210302, 210303, 210304, 210305, 210306, 210307, 210308, 210309, 210310, 210311,
+      210312, 210313, 210317, 210318
+    ]
+  },
+  "2104": {
+    "code": 2104,
+    "name_en": "Wang Chan",
+    "name_th": "วังจันทร์",
+    "province_code": 21,
+    "subdistricts": [210401, 210402, 210403, 210404]
+  },
+  "2105": {
+    "code": 2105,
+    "name_en": "Ban Khai",
+    "name_th": "บ้านค่าย",
+    "province_code": 21,
+    "subdistricts": [210501, 210502, 210503, 210504, 210505, 210506, 210507]
+  },
+  "2106": {
+    "code": 2106,
+    "name_en": "Pluak Daeng",
+    "name_th": "ปลวกแดง",
+    "province_code": 21,
+    "subdistricts": [210601, 210602, 210603, 210604, 210605, 210606]
+  },
+  "2107": {
+    "code": 2107,
+    "name_en": "Khao Chamao",
+    "name_th": "เขาชะเมา",
+    "province_code": 21,
+    "subdistricts": [210701, 210702, 210703, 210704]
+  },
+  "2108": {
+    "code": 2108,
+    "name_en": "Nikhom Phatthana",
+    "name_th": "นิคมพัฒนา",
+    "province_code": 21,
+    "subdistricts": [210801, 210802, 210803, 210804]
+  },
+  "2201": {
+    "code": 2201,
+    "name_en": "Mueang Chanthaburi",
+    "name_th": "เมืองจันทบุรี",
+    "province_code": 22,
+    "subdistricts": [
+      220101, 220102, 220103, 220104, 220105, 220106, 220107, 220108, 220109, 220110, 220111
+    ]
+  },
+  "2202": {
+    "code": 2202,
+    "name_en": "Khlung",
+    "name_th": "ขลุง",
+    "province_code": 22,
+    "subdistricts": [
+      220201, 220202, 220203, 220204, 220205, 220206, 220207, 220208, 220209, 220210, 220211, 220212
+    ]
+  },
+  "2203": {
+    "code": 2203,
+    "name_en": "Tha Mai",
+    "name_th": "ท่าใหม่",
+    "province_code": 22,
+    "subdistricts": [
+      220301, 220302, 220303, 220304, 220305, 220306, 220307, 220308, 220309, 220311, 220312,
+      220313, 220314, 220324
+    ]
+  },
+  "2204": {
+    "code": 2204,
+    "name_en": "Pong Nam Ron",
+    "name_th": "โป่งน้ำร้อน",
+    "province_code": 22,
+    "subdistricts": [220401, 220402, 220404, 220409, 220410]
+  },
+  "2205": {
+    "code": 2205,
+    "name_en": "Makham",
+    "name_th": "มะขาม",
+    "province_code": 22,
+    "subdistricts": [220501, 220502, 220503, 220504, 220506, 220508]
+  },
+  "2206": {
+    "code": 2206,
+    "name_en": "Laem Sing",
+    "name_th": "แหลมสิงห์",
+    "province_code": 22,
+    "subdistricts": [220601, 220602, 220603, 220604, 220605, 220606, 220607]
+  },
+  "2207": {
+    "code": 2207,
+    "name_en": "Soi Dao",
+    "name_th": "สอยดาว",
+    "province_code": 22,
+    "subdistricts": [220701, 220702, 220703, 220704, 220705]
+  },
+  "2208": {
+    "code": 2208,
+    "name_en": "Kaeng Hang Maeo",
+    "name_th": "แก่งหางแมว",
+    "province_code": 22,
+    "subdistricts": [220801, 220802, 220803, 220804, 220805]
+  },
+  "2209": {
+    "code": 2209,
+    "name_en": "Na Yai Am",
+    "name_th": "นายายอาม",
+    "province_code": 22,
+    "subdistricts": [220901, 220902, 220903, 220904, 220905, 220906]
+  },
+  "2210": {
+    "code": 2210,
+    "name_en": "Khao Khitchakut",
+    "name_th": "เขาคิชฌกูฏ",
+    "province_code": 22,
+    "subdistricts": [221001, 221002, 221003, 221004, 221005]
+  },
+  "2301": {
+    "code": 2301,
+    "name_en": "Mueang Trat",
+    "name_th": "เมืองตราด",
+    "province_code": 23,
+    "subdistricts": [
+      230101, 230102, 230103, 230104, 230105, 230106, 230107, 230108, 230109, 230110, 230111,
+      230112, 230113, 230114
+    ]
+  },
+  "2302": {
+    "code": 2302,
+    "name_en": "Khlong Yai",
+    "name_th": "คลองใหญ่",
+    "province_code": 23,
+    "subdistricts": [230201, 230202, 230203]
+  },
+  "2303": {
+    "code": 2303,
+    "name_en": "Khao Saming",
+    "name_th": "เขาสมิง",
+    "province_code": 23,
+    "subdistricts": [230301, 230302, 230303, 230304, 230305, 230306, 230307, 230308]
+  },
+  "2304": {
+    "code": 2304,
+    "name_en": "Bo Rai",
+    "name_th": "บ่อไร่",
+    "province_code": 23,
+    "subdistricts": [230401, 230402, 230403, 230404, 230405]
+  },
+  "2305": {
+    "code": 2305,
+    "name_en": "Laem Ngop",
+    "name_th": "แหลมงอบ",
+    "province_code": 23,
+    "subdistricts": [230501, 230502, 230503, 230507]
+  },
+  "2306": {
+    "code": 2306,
+    "name_en": "Ko Kut",
+    "name_th": "เกาะกูด",
+    "province_code": 23,
+    "subdistricts": [230601, 230602]
+  },
+  "2307": {
+    "code": 2307,
+    "name_en": "Ko Chang",
+    "name_th": "เกาะช้าง",
+    "province_code": 23,
+    "subdistricts": [230701, 230702]
+  },
+  "2401": {
+    "code": 2401,
+    "name_en": "Mueang Chachoengsao",
+    "name_th": "เมืองฉะเชิงเทรา",
+    "province_code": 24,
+    "subdistricts": [
+      240101, 240102, 240103, 240104, 240105, 240106, 240107, 240108, 240109, 240110, 240111,
+      240112, 240113, 240114, 240115, 240116, 240117, 240118, 240119
+    ]
+  },
+  "2402": {
+    "code": 2402,
+    "name_en": "Bang Khla",
+    "name_th": "บางคล้า",
+    "province_code": 24,
+    "subdistricts": [240201, 240204, 240208, 240209, 240210, 240211, 240212, 240213, 240214]
+  },
+  "2403": {
+    "code": 2403,
+    "name_en": "Bang Nam Priao",
+    "name_th": "บางน้ำเปรี้ยว",
+    "province_code": 24,
+    "subdistricts": [240301, 240302, 240303, 240304, 240305, 240306, 240307, 240308, 240309, 240310]
+  },
+  "2404": {
+    "code": 2404,
+    "name_en": "Bang Pakong",
+    "name_th": "บางปะกง",
+    "province_code": 24,
+    "subdistricts": [
+      240401, 240402, 240403, 240404, 240405, 240406, 240407, 240408, 240409, 240410, 240411, 240412
+    ]
+  },
+  "2405": {
+    "code": 2405,
+    "name_en": "Ban Pho",
+    "name_th": "บ้านโพธิ์",
+    "province_code": 24,
+    "subdistricts": [
+      240501, 240502, 240503, 240504, 240505, 240506, 240507, 240508, 240509, 240510, 240511,
+      240512, 240513, 240514, 240515, 240516, 240517
+    ]
+  },
+  "2406": {
+    "code": 2406,
+    "name_en": "Phanom Sarakham",
+    "name_th": "พนมสารคาม",
+    "province_code": 24,
+    "subdistricts": [240601, 240602, 240603, 240604, 240605, 240606, 240607, 240608]
+  },
+  "2407": {
+    "code": 2407,
+    "name_en": "Ratchasan",
+    "name_th": "ราชสาส์น",
+    "province_code": 24,
+    "subdistricts": [240701, 240702, 240703]
+  },
+  "2408": {
+    "code": 2408,
+    "name_en": "Sanam Chai Khet",
+    "name_th": "สนามชัยเขต",
+    "province_code": 24,
+    "subdistricts": [240801, 240802, 240803, 240805]
+  },
+  "2409": {
+    "code": 2409,
+    "name_en": "Pleang Yao",
+    "name_th": "แปลงยาว",
+    "province_code": 24,
+    "subdistricts": [240901, 240902, 240903, 240904]
+  },
+  "2410": {
+    "code": 2410,
+    "name_en": "Tha Takiap",
+    "name_th": "ท่าตะเกียบ",
+    "province_code": 24,
+    "subdistricts": [241001, 241002]
+  },
+  "2411": {
+    "code": 2411,
+    "name_en": "Khlong Khuean",
+    "name_th": "คลองเขื่อน",
+    "province_code": 24,
+    "subdistricts": [241101, 241102, 241103, 241104, 241105]
+  },
+  "2501": {
+    "code": 2501,
+    "name_en": "Mueang Prachin Buri",
+    "name_th": "เมืองปราจีนบุรี",
+    "province_code": 25,
+    "subdistricts": [
+      250101, 250102, 250103, 250104, 250105, 250106, 250107, 250108, 250109, 250110, 250111,
+      250112, 250113
+    ]
+  },
+  "2502": {
+    "code": 2502,
+    "name_en": "Kabin Buri",
+    "name_th": "กบินทร์บุรี",
+    "province_code": 25,
+    "subdistricts": [
+      250201, 250202, 250203, 250204, 250205, 250206, 250207, 250208, 250209, 250210, 250211,
+      250212, 250213, 250214
+    ]
+  },
+  "2503": {
+    "code": 2503,
+    "name_en": "Na Di",
+    "name_th": "นาดี",
+    "province_code": 25,
+    "subdistricts": [250301, 250302, 250303, 250304, 250305, 250306]
+  },
+  "2506": {
+    "code": 2506,
+    "name_en": "Ban Sang",
+    "name_th": "บ้านสร้าง",
+    "province_code": 25,
+    "subdistricts": [250601, 250602, 250603, 250604, 250605, 250606, 250607, 250608, 250609]
+  },
+  "2507": {
+    "code": 2507,
+    "name_en": "Prachantakham",
+    "name_th": "ประจันตคาม",
+    "province_code": 25,
+    "subdistricts": [250701, 250702, 250703, 250704, 250705, 250706, 250707, 250708, 250709]
+  },
+  "2508": {
+    "code": 2508,
+    "name_en": "Si Maha Phot",
+    "name_th": "ศรีมหาโพธิ",
+    "province_code": 25,
+    "subdistricts": [250801, 250802, 250803, 250804, 250805, 250806, 250807, 250808, 250809, 250810]
+  },
+  "2509": {
+    "code": 2509,
+    "name_en": "Si Mahosot",
+    "name_th": "ศรีมโหสถ",
+    "province_code": 25,
+    "subdistricts": [250901, 250902, 250903, 250904]
+  },
+  "2601": {
+    "code": 2601,
+    "name_en": "Mueang Nakhon Nayok",
+    "name_th": "เมืองนครนายก",
+    "province_code": 26,
+    "subdistricts": [
+      260101, 260102, 260103, 260104, 260105, 260106, 260107, 260108, 260109, 260110, 260111,
+      260112, 260113
+    ]
+  },
+  "2602": {
+    "code": 2602,
+    "name_en": "Pak Phli",
+    "name_th": "ปากพลี",
+    "province_code": 26,
+    "subdistricts": [260201, 260202, 260203, 260204, 260205, 260206, 260207]
+  },
+  "2603": {
+    "code": 2603,
+    "name_en": "Ban Na",
+    "name_th": "บ้านนา",
+    "province_code": 26,
+    "subdistricts": [260301, 260302, 260303, 260304, 260305, 260306, 260307, 260308, 260309, 260310]
+  },
+  "2604": {
+    "code": 2604,
+    "name_en": "Ongkharak",
+    "name_th": "องครักษ์",
+    "province_code": 26,
+    "subdistricts": [
+      260401, 260402, 260403, 260404, 260405, 260406, 260407, 260408, 260409, 260410, 260411
+    ]
+  },
+  "2701": {
+    "code": 2701,
+    "name_en": "Mueang Sa Kaeo",
+    "name_th": "เมืองสระแก้ว",
+    "province_code": 27,
+    "subdistricts": [270101, 270102, 270103, 270104, 270105, 270106, 270108, 270111]
+  },
+  "2702": {
+    "code": 2702,
+    "name_en": "Khlong Hat",
+    "name_th": "คลองหาด",
+    "province_code": 27,
+    "subdistricts": [270201, 270202, 270203, 270204, 270205, 270206, 270207]
+  },
+  "2703": {
+    "code": 2703,
+    "name_en": "Ta Phraya",
+    "name_th": "ตาพระยา",
+    "province_code": 27,
+    "subdistricts": [270301, 270302, 270306, 270307, 270309]
+  },
+  "2704": {
+    "code": 2704,
+    "name_en": "Wang Nam Yen",
+    "name_th": "วังน้ำเย็น",
+    "province_code": 27,
+    "subdistricts": [270401, 270403, 270405, 270406]
+  },
+  "2705": {
+    "code": 2705,
+    "name_en": "Watthana Nakhon",
+    "name_th": "วัฒนานคร",
+    "province_code": 27,
+    "subdistricts": [
+      270501, 270502, 270503, 270504, 270505, 270506, 270507, 270508, 270509, 270510, 270511
+    ]
+  },
+  "2706": {
+    "code": 2706,
+    "name_en": "Aranyaprathet",
+    "name_th": "อรัญประเทศ",
+    "province_code": 27,
+    "subdistricts": [
+      270601, 270602, 270603, 270604, 270605, 270606, 270607, 270608, 270609, 270610, 270611,
+      270612, 270613
+    ]
+  },
+  "2707": {
+    "code": 2707,
+    "name_en": "Khao Chakan",
+    "name_th": "เขาฉกรรจ์",
+    "province_code": 27,
+    "subdistricts": [270701, 270702, 270703, 270704]
+  },
+  "2708": {
+    "code": 2708,
+    "name_en": "Khok Sung",
+    "name_th": "โคกสูง",
+    "province_code": 27,
+    "subdistricts": [270801, 270802, 270803, 270804]
+  },
+  "2709": {
+    "code": 2709,
+    "name_en": "Wang Sombun",
+    "name_th": "วังสมบูรณ์",
+    "province_code": 27,
+    "subdistricts": [270901, 270902, 270903]
+  },
+  "3001": {
+    "code": 3001,
+    "name_en": "Mueang Nakhon Ratchasima",
+    "name_th": "เมืองนครราชสีมา",
+    "province_code": 30,
+    "subdistricts": [
+      300101, 300102, 300103, 300104, 300105, 300106, 300107, 300108, 300109, 300110, 300111,
+      300112, 300113, 300114, 300115, 300116, 300117, 300118, 300119, 300120, 300121, 300122,
+      300123, 300124, 300125
+    ]
+  },
+  "3002": {
+    "code": 3002,
+    "name_en": "Khon Buri",
+    "name_th": "ครบุรี",
+    "province_code": 30,
+    "subdistricts": [
+      300201, 300202, 300203, 300204, 300205, 300206, 300207, 300208, 300209, 300210, 300211, 300212
+    ]
+  },
+  "3003": {
+    "code": 3003,
+    "name_en": "Soeng Sang",
+    "name_th": "เสิงสาง",
+    "province_code": 30,
+    "subdistricts": [300301, 300302, 300303, 300304, 300305, 300306]
+  },
+  "3004": {
+    "code": 3004,
+    "name_en": "Khong",
+    "name_th": "คง",
+    "province_code": 30,
+    "subdistricts": [300401, 300402, 300403, 300404, 300405, 300406, 300407, 300408, 300409, 300410]
+  },
+  "3005": {
+    "code": 3005,
+    "name_en": "Ban Lueam",
+    "name_th": "บ้านเหลื่อม",
+    "province_code": 30,
+    "subdistricts": [300501, 300502, 300503, 300504]
+  },
+  "3006": {
+    "code": 3006,
+    "name_en": "Chakkarat",
+    "name_th": "จักราช",
+    "province_code": 30,
+    "subdistricts": [300601, 300603, 300604, 300605, 300607, 300610, 300611, 300613]
+  },
+  "3007": {
+    "code": 3007,
+    "name_en": "Chok Chai",
+    "name_th": "โชคชัย",
+    "province_code": 30,
+    "subdistricts": [300701, 300702, 300703, 300704, 300705, 300706, 300707, 300708, 300709, 300710]
+  },
+  "3008": {
+    "code": 3008,
+    "name_en": "Dan Khun Thot",
+    "name_th": "ด่านขุนทด",
+    "province_code": 30,
+    "subdistricts": [
+      300801, 300802, 300803, 300804, 300805, 300806, 300807, 300808, 300809, 300810, 300811,
+      300812, 300813, 300815, 300817, 300818
+    ]
+  },
+  "3009": {
+    "code": 3009,
+    "name_en": "Non Thai",
+    "name_th": "โนนไทย",
+    "province_code": 30,
+    "subdistricts": [300901, 300902, 300903, 300904, 300905, 300906, 300907, 300908, 300909, 300914]
+  },
+  "3010": {
+    "code": 3010,
+    "name_en": "Non Sung",
+    "name_th": "โนนสูง",
+    "province_code": 30,
+    "subdistricts": [
+      301001, 301002, 301003, 301004, 301005, 301006, 301007, 301008, 301009, 301010, 301011,
+      301012, 301013, 301014, 301015, 301016
+    ]
+  },
+  "3011": {
+    "code": 3011,
+    "name_en": "Kham Sakaesaeng",
+    "name_th": "ขามสะแกแสง",
+    "province_code": 30,
+    "subdistricts": [301101, 301102, 301103, 301104, 301105, 301106, 301107]
+  },
+  "3012": {
+    "code": 3012,
+    "name_en": "Bua Yai",
+    "name_th": "บัวใหญ่",
+    "province_code": 30,
+    "subdistricts": [301201, 301203, 301204, 301206, 301207, 301208, 301214, 301215, 301220, 301224]
+  },
+  "3013": {
+    "code": 3013,
+    "name_en": "Prathai",
+    "name_th": "ประทาย",
+    "province_code": 30,
+    "subdistricts": [
+      301301, 301303, 301304, 301306, 301307, 301308, 301309, 301310, 301313, 301314, 301315,
+      301317, 301318
+    ]
+  },
+  "3014": {
+    "code": 3014,
+    "name_en": "Pak Thong Chai",
+    "name_th": "ปักธงชัย",
+    "province_code": 30,
+    "subdistricts": [
+      301401, 301402, 301403, 301404, 301405, 301406, 301407, 301409, 301410, 301411, 301412,
+      301416, 301417, 301418, 301419, 301420
+    ]
+  },
+  "3015": {
+    "code": 3015,
+    "name_en": "Phimai",
+    "name_th": "พิมาย",
+    "province_code": 30,
+    "subdistricts": [
+      301501, 301502, 301503, 301504, 301505, 301506, 301507, 301508, 301509, 301510, 301511, 301512
+    ]
+  },
+  "3016": {
+    "code": 3016,
+    "name_en": "Huai Thalaeng",
+    "name_th": "ห้วยแถลง",
+    "province_code": 30,
+    "subdistricts": [301601, 301602, 301603, 301604, 301605, 301606, 301607, 301608, 301609, 301610]
+  },
+  "3017": {
+    "code": 3017,
+    "name_en": "Chum Phuang",
+    "name_th": "ชุมพวง",
+    "province_code": 30,
+    "subdistricts": [301701, 301702, 301703, 301704, 301705, 301710, 301714, 301716, 301717]
+  },
+  "3018": {
+    "code": 3018,
+    "name_en": "Sung Noen",
+    "name_th": "สูงเนิน",
+    "province_code": 30,
+    "subdistricts": [
+      301801, 301802, 301803, 301804, 301805, 301806, 301807, 301808, 301809, 301810, 301811
+    ]
+  },
+  "3019": {
+    "code": 3019,
+    "name_en": "Kham Thale So",
+    "name_th": "ขามทะเลสอ",
+    "province_code": 30,
+    "subdistricts": [301901, 301902, 301903, 301904, 301905]
+  },
+  "3020": {
+    "code": 3020,
+    "name_en": "Si Khio",
+    "name_th": "สีคิ้ว",
+    "province_code": 30,
+    "subdistricts": [
+      302001, 302002, 302003, 302004, 302005, 302006, 302007, 302008, 302009, 302010, 302011, 302012
+    ]
+  },
+  "3021": {
+    "code": 3021,
+    "name_en": "Pak Chong",
+    "name_th": "ปากช่อง",
+    "province_code": 30,
+    "subdistricts": [
+      302101, 302102, 302103, 302104, 302105, 302106, 302107, 302108, 302109, 302110, 302111, 302112
+    ]
+  },
+  "3022": {
+    "code": 3022,
+    "name_en": "Nong Bunmak",
+    "name_th": "หนองบุญมาก",
+    "province_code": 30,
+    "subdistricts": [302201, 302202, 302203, 302204, 302205, 302206, 302207, 302208, 302209]
+  },
+  "3023": {
+    "code": 3023,
+    "name_en": "Kaeng Sanam Nang",
+    "name_th": "แก้งสนามนาง",
+    "province_code": 30,
+    "subdistricts": [302301, 302302, 302303, 302304, 302305]
+  },
+  "3024": {
+    "code": 3024,
+    "name_en": "Non Daeng",
+    "name_th": "โนนแดง",
+    "province_code": 30,
+    "subdistricts": [302401, 302402, 302403, 302404, 302405]
+  },
+  "3025": {
+    "code": 3025,
+    "name_en": "Wang Nam Khiao",
+    "name_th": "วังน้ำเขียว",
+    "province_code": 30,
+    "subdistricts": [302501, 302502, 302503, 302504, 302505]
+  },
+  "3026": {
+    "code": 3026,
+    "name_en": "Thepharak",
+    "name_th": "เทพารักษ์",
+    "province_code": 30,
+    "subdistricts": [302601, 302602, 302603, 302604]
+  },
+  "3027": {
+    "code": 3027,
+    "name_en": "Mueang Yang",
+    "name_th": "เมืองยาง",
+    "province_code": 30,
+    "subdistricts": [302701, 302702, 302703, 302704]
+  },
+  "3028": {
+    "code": 3028,
+    "name_en": "Phra Thong Kham",
+    "name_th": "พระทองคำ",
+    "province_code": 30,
+    "subdistricts": [302801, 302802, 302803, 302804, 302805]
+  },
+  "3029": {
+    "code": 3029,
+    "name_en": "Lamtaman Chai",
+    "name_th": "ลำทะเมนชัย",
+    "province_code": 30,
+    "subdistricts": [302901, 302902, 302903, 302904]
+  },
+  "3030": {
+    "code": 3030,
+    "name_en": "Bua Lai",
+    "name_th": "บัวลาย",
+    "province_code": 30,
+    "subdistricts": [303001, 303002, 303003, 303004]
+  },
+  "3031": {
+    "code": 3031,
+    "name_en": "Sida",
+    "name_th": "สีดา",
+    "province_code": 30,
+    "subdistricts": [303101, 303102, 303103, 303104, 303105]
+  },
+  "3032": {
+    "code": 3032,
+    "name_en": "Chaloem Phra Kiet",
+    "name_th": "เฉลิมพระเกียรติ",
+    "province_code": 30,
+    "subdistricts": [303201, 303202, 303203, 303204, 303205]
+  },
+  "3101": {
+    "code": 3101,
+    "name_en": "Mueang Buri Ram",
+    "name_th": "เมืองบุรีรัมย์",
+    "province_code": 31,
+    "subdistricts": [
+      310101, 310102, 310103, 310104, 310105, 310106, 310108, 310112, 310113, 310114, 310117,
+      310118, 310119, 310120, 310122, 310125, 310126, 310127, 310128
+    ]
+  },
+  "3102": {
+    "code": 3102,
+    "name_en": "Khu Mueang",
+    "name_th": "คูเมือง",
+    "province_code": 31,
+    "subdistricts": [310201, 310202, 310203, 310204, 310205, 310206, 310207]
+  },
+  "3103": {
+    "code": 3103,
+    "name_en": "Krasang",
+    "name_th": "กระสัง",
+    "province_code": 31,
+    "subdistricts": [
+      310301, 310302, 310303, 310304, 310305, 310306, 310307, 310308, 310309, 310310, 310311
+    ]
+  },
+  "3104": {
+    "code": 3104,
+    "name_en": "Nang Rong",
+    "name_th": "นางรอง",
+    "province_code": 31,
+    "subdistricts": [
+      310401, 310403, 310405, 310406, 310408, 310413, 310414, 310415, 310416, 310417, 310418,
+      310424, 310425, 310426, 310427
+    ]
+  },
+  "3105": {
+    "code": 3105,
+    "name_en": "Nong Ki",
+    "name_th": "หนองกี่",
+    "province_code": 31,
+    "subdistricts": [310501, 310502, 310503, 310504, 310505, 310506, 310507, 310508, 310509, 310510]
+  },
+  "3106": {
+    "code": 3106,
+    "name_en": "Lahan Sai",
+    "name_th": "ละหานทราย",
+    "province_code": 31,
+    "subdistricts": [310601, 310603, 310604, 310607, 310610, 310611]
+  },
+  "3107": {
+    "code": 3107,
+    "name_en": "Prakhon Chai",
+    "name_th": "ประโคนชัย",
+    "province_code": 31,
+    "subdistricts": [
+      310701, 310702, 310703, 310705, 310706, 310707, 310708, 310710, 310713, 310714, 310715,
+      310716, 310718, 310719, 310720, 310721
+    ]
+  },
+  "3108": {
+    "code": 3108,
+    "name_en": "Ban Kruat",
+    "name_th": "บ้านกรวด",
+    "province_code": 31,
+    "subdistricts": [310801, 310802, 310803, 310804, 310805, 310806, 310807, 310808, 310809]
+  },
+  "3109": {
+    "code": 3109,
+    "name_en": "Phutthaisong",
+    "name_th": "พุทไธสง",
+    "province_code": 31,
+    "subdistricts": [310901, 310902, 310903, 310906, 310907, 310909, 310910]
+  },
+  "3110": {
+    "code": 3110,
+    "name_en": "Lam Plai Mat",
+    "name_th": "ลำปลายมาศ",
+    "province_code": 31,
+    "subdistricts": [
+      311001, 311002, 311003, 311004, 311005, 311006, 311007, 311008, 311009, 311010, 311011,
+      311012, 311013, 311014, 311015, 311016
+    ]
+  },
+  "3111": {
+    "code": 3111,
+    "name_en": "Satuek",
+    "name_th": "สตึก",
+    "province_code": 31,
+    "subdistricts": [
+      311101, 311102, 311103, 311104, 311105, 311106, 311109, 311110, 311111, 311112, 311114, 311115
+    ]
+  },
+  "3112": {
+    "code": 3112,
+    "name_en": "Pakham",
+    "name_th": "ปะคำ",
+    "province_code": 31,
+    "subdistricts": [311201, 311202, 311203, 311204, 311205]
+  },
+  "3113": {
+    "code": 3113,
+    "name_en": "Na Pho",
+    "name_th": "นาโพธิ์",
+    "province_code": 31,
+    "subdistricts": [311301, 311302, 311303, 311304, 311305]
+  },
+  "3114": {
+    "code": 3114,
+    "name_en": "Nong Hong",
+    "name_th": "หนองหงส์",
+    "province_code": 31,
+    "subdistricts": [311401, 311402, 311403, 311404, 311405, 311406, 311407]
+  },
+  "3115": {
+    "code": 3115,
+    "name_en": "Phlapphla Chai",
+    "name_th": "พลับพลาชัย",
+    "province_code": 31,
+    "subdistricts": [311501, 311502, 311503, 311504, 311505]
+  },
+  "3116": {
+    "code": 3116,
+    "name_en": "Huai Rat",
+    "name_th": "ห้วยราช",
+    "province_code": 31,
+    "subdistricts": [311601, 311602, 311603, 311604, 311605, 311606, 311607, 311608]
+  },
+  "3117": {
+    "code": 3117,
+    "name_en": "Non Din Daeng",
+    "name_th": "โนนสุวรรณ",
+    "province_code": 31,
+    "subdistricts": [311701, 311702, 311703, 311704]
+  },
+  "3118": {
+    "code": 3118,
+    "name_en": "Chamni",
+    "name_th": "ชำนิ",
+    "province_code": 31,
+    "subdistricts": [311801, 311802, 311803, 311804, 311805, 311806]
+  },
+  "3119": {
+    "code": 3119,
+    "name_en": "Ban Mai Chaiyaphot",
+    "name_th": "บ้านใหม่ไชยพจน์",
+    "province_code": 31,
+    "subdistricts": [311901, 311902, 311903, 311904, 311905]
+  },
+  "3120": {
+    "code": 3120,
+    "name_en": "Non Din Daeng",
+    "name_th": "โนนดินแดง",
+    "province_code": 31,
+    "subdistricts": [312001, 312002, 312003]
+  },
+  "3121": {
+    "code": 3121,
+    "name_en": "Ban Dan",
+    "name_th": "บ้านด่าน",
+    "province_code": 31,
+    "subdistricts": [312101, 312102, 312103, 312104]
+  },
+  "3122": {
+    "code": 3122,
+    "name_en": "Khaen Dong",
+    "name_th": "แคนดง",
+    "province_code": 31,
+    "subdistricts": [312201, 312202, 312203, 312204]
+  },
+  "3123": {
+    "code": 3123,
+    "name_en": "Chaloem Phra Kiet",
+    "name_th": "เฉลิมพระเกียรติ",
+    "province_code": 31,
+    "subdistricts": [312301, 312302, 312303, 312304, 312305]
+  },
+  "3201": {
+    "code": 3201,
+    "name_en": "Mueang Surin",
+    "name_th": "เมืองสุรินทร์",
+    "province_code": 32,
+    "subdistricts": [
+      320101, 320102, 320103, 320104, 320105, 320106, 320107, 320109, 320110, 320111, 320112,
+      320113, 320114, 320116, 320118, 320119, 320120, 320121, 320122, 320125, 320126
+    ]
+  },
+  "3202": {
+    "code": 3202,
+    "name_en": "Chumphon Buri",
+    "name_th": "ชุมพลบุรี",
+    "province_code": 32,
+    "subdistricts": [320201, 320202, 320203, 320204, 320205, 320206, 320207, 320208, 320209]
+  },
+  "3203": {
+    "code": 3203,
+    "name_en": "Tha Tum",
+    "name_th": "ท่าตูม",
+    "province_code": 32,
+    "subdistricts": [320301, 320302, 320303, 320304, 320305, 320306, 320307, 320308, 320309, 320310]
+  },
+  "3204": {
+    "code": 3204,
+    "name_en": "Chom Phra",
+    "name_th": "จอมพระ",
+    "province_code": 32,
+    "subdistricts": [320401, 320402, 320403, 320404, 320405, 320406, 320407, 320408, 320409]
+  },
+  "3205": {
+    "code": 3205,
+    "name_en": "Prasat",
+    "name_th": "ปราสาท",
+    "province_code": 32,
+    "subdistricts": [
+      320501, 320502, 320503, 320504, 320505, 320506, 320507, 320508, 320509, 320510, 320511,
+      320512, 320513, 320514, 320515, 320516, 320517, 320518
+    ]
+  },
+  "3206": {
+    "code": 3206,
+    "name_en": "Kap Choeng",
+    "name_th": "กาบเชิง",
+    "province_code": 32,
+    "subdistricts": [320601, 320604, 320605, 320606, 320607, 320610]
+  },
+  "3207": {
+    "code": 3207,
+    "name_en": "Rattanaburi",
+    "name_th": "รัตนบุรี",
+    "province_code": 32,
+    "subdistricts": [
+      320701, 320702, 320703, 320704, 320705, 320706, 320709, 320711, 320713, 320714, 320715, 320716
+    ]
+  },
+  "3208": {
+    "code": 3208,
+    "name_en": "Sanom",
+    "name_th": "สนม",
+    "province_code": 32,
+    "subdistricts": [320801, 320802, 320803, 320804, 320805, 320806, 320807]
+  },
+  "3209": {
+    "code": 3209,
+    "name_en": "Sikhoraphum",
+    "name_th": "ศีขรภูมิ",
+    "province_code": 32,
+    "subdistricts": [
+      320901, 320902, 320903, 320904, 320905, 320906, 320907, 320908, 320909, 320910, 320911,
+      320912, 320913, 320914, 320915
+    ]
+  },
+  "3210": {
+    "code": 3210,
+    "name_en": "Sangkha",
+    "name_th": "สังขะ",
+    "province_code": 32,
+    "subdistricts": [
+      321001, 321002, 321006, 321007, 321008, 321009, 321010, 321011, 321012, 321013, 321015, 321017
+    ]
+  },
+  "3211": {
+    "code": 3211,
+    "name_en": "Lamduan",
+    "name_th": "ลำดวน",
+    "province_code": 32,
+    "subdistricts": [321101, 321102, 321103, 321104, 321105]
+  },
+  "3212": {
+    "code": 3212,
+    "name_en": "Samrong Thap",
+    "name_th": "สำโรงทาบ",
+    "province_code": 32,
+    "subdistricts": [321201, 321202, 321203, 321204, 321205, 321206, 321207, 321208, 321209, 321210]
+  },
+  "3213": {
+    "code": 3213,
+    "name_en": "Buachet",
+    "name_th": "บัวเชด",
+    "province_code": 32,
+    "subdistricts": [321301, 321302, 321303, 321304, 321305, 321306]
+  },
+  "3214": {
+    "code": 3214,
+    "name_en": "Phanom Dong Rak",
+    "name_th": "พนมดงรัก",
+    "province_code": 32,
+    "subdistricts": [321401, 321402, 321403, 321404]
+  },
+  "3215": {
+    "code": 3215,
+    "name_en": "Si Narong",
+    "name_th": "ศรีณรงค์",
+    "province_code": 32,
+    "subdistricts": [321501, 321502, 321503, 321504, 321505]
+  },
+  "3216": {
+    "code": 3216,
+    "name_en": "Khwao Sinarin",
+    "name_th": "เขวาสินรินทร์",
+    "province_code": 32,
+    "subdistricts": [321601, 321602, 321603, 321604, 321605]
+  },
+  "3217": {
+    "code": 3217,
+    "name_en": "Non Narai",
+    "name_th": "โนนนารายณ์",
+    "province_code": 32,
+    "subdistricts": [321701, 321702, 321703, 321704, 321705]
+  },
+  "3301": {
+    "code": 3301,
+    "name_en": "Mueang Si Sa Ket",
+    "name_th": "เมืองศรีสะเกษ",
+    "province_code": 33,
+    "subdistricts": [
+      330101, 330102, 330103, 330104, 330105, 330106, 330107, 330111, 330112, 330115, 330116,
+      330118, 330119, 330121, 330122, 330123, 330124, 330127
+    ]
+  },
+  "3302": {
+    "code": 3302,
+    "name_en": "Yang Chum Noi",
+    "name_th": "ยางชุมน้อย",
+    "province_code": 33,
+    "subdistricts": [330201, 330202, 330203, 330204, 330205, 330206, 330207]
+  },
+  "3303": {
+    "code": 3303,
+    "name_en": "Kanthararom",
+    "name_th": "กันทรารมย์",
+    "province_code": 33,
+    "subdistricts": [
+      330301, 330302, 330303, 330304, 330305, 330306, 330307, 330308, 330309, 330310, 330311,
+      330312, 330313, 330314, 330315, 330320
+    ]
+  },
+  "3304": {
+    "code": 3304,
+    "name_en": "Kantharalak",
+    "name_th": "กันทรลักษ์",
+    "province_code": 33,
+    "subdistricts": [
+      330401, 330402, 330403, 330405, 330406, 330407, 330408, 330409, 330411, 330412, 330413,
+      330414, 330415, 330416, 330419, 330420, 330421, 330423, 330424, 330425
+    ]
+  },
+  "3305": {
+    "code": 3305,
+    "name_en": "Khukhan",
+    "name_th": "ขุขันธ์",
+    "province_code": 33,
+    "subdistricts": [
+      330501, 330502, 330503, 330504, 330505, 330506, 330507, 330508, 330509, 330510, 330511,
+      330513, 330515, 330517, 330518, 330521, 330522, 330524, 330525, 330526, 330527, 330528
+    ]
+  },
+  "3306": {
+    "code": 3306,
+    "name_en": "Phrai Bueng",
+    "name_th": "ไพรบึง",
+    "province_code": 33,
+    "subdistricts": [330601, 330602, 330603, 330604, 330605, 330606]
+  },
+  "3307": {
+    "code": 3307,
+    "name_en": "Prang Ku",
+    "name_th": "ปรางค์กู่",
+    "province_code": 33,
+    "subdistricts": [330701, 330702, 330703, 330704, 330705, 330706, 330707, 330708, 330709, 330710]
+  },
+  "3308": {
+    "code": 3308,
+    "name_en": "Khun Han",
+    "name_th": "ขุนหาญ",
+    "province_code": 33,
+    "subdistricts": [
+      330801, 330802, 330803, 330804, 330805, 330806, 330807, 330808, 330809, 330810, 330811, 330812
+    ]
+  },
+  "3309": {
+    "code": 3309,
+    "name_en": "Rasi Salai",
+    "name_th": "ราษีไศล",
+    "province_code": 33,
+    "subdistricts": [
+      330901, 330902, 330903, 330906, 330907, 330908, 330909, 330910, 330911, 330912, 330913,
+      330914, 330915
+    ]
+  },
+  "3310": {
+    "code": 3310,
+    "name_en": "Uthumphon Phisai",
+    "name_th": "อุทุมพรพิสัย",
+    "province_code": 33,
+    "subdistricts": [
+      331001, 331002, 331003, 331004, 331005, 331006, 331007, 331008, 331010, 331011, 331012,
+      331014, 331015, 331016, 331017, 331018, 331022, 331024, 331025
+    ]
+  },
+  "3311": {
+    "code": 3311,
+    "name_en": "Bueng Bun",
+    "name_th": "บึงบูรพ์",
+    "province_code": 33,
+    "subdistricts": [331101, 331102]
+  },
+  "3312": {
+    "code": 3312,
+    "name_en": "Huai Thap Than",
+    "name_th": "ห้วยทับทัน",
+    "province_code": 33,
+    "subdistricts": [331201, 331202, 331203, 331204, 331205, 331206]
+  },
+  "3313": {
+    "code": 3313,
+    "name_en": "Non Khun",
+    "name_th": "โนนคูณ",
+    "province_code": 33,
+    "subdistricts": [331301, 331302, 331303, 331304, 331305]
+  },
+  "3314": {
+    "code": 3314,
+    "name_en": "Si Rattana",
+    "name_th": "ศรีรัตนะ",
+    "province_code": 33,
+    "subdistricts": [331401, 331402, 331403, 331404, 331405, 331406, 331407]
+  },
+  "3315": {
+    "code": 3315,
+    "name_en": "Nam Kliang",
+    "name_th": "น้ำเกลี้ยง",
+    "province_code": 33,
+    "subdistricts": [331501, 331502, 331503, 331504, 331505, 331506]
+  },
+  "3316": {
+    "code": 3316,
+    "name_en": "Wang Hin",
+    "name_th": "วังหิน",
+    "province_code": 33,
+    "subdistricts": [331601, 331602, 331603, 331604, 331605, 331606, 331607, 331608]
+  },
+  "3317": {
+    "code": 3317,
+    "name_en": "Phu Sing",
+    "name_th": "ภูสิงห์",
+    "province_code": 33,
+    "subdistricts": [331701, 331702, 331703, 331704, 331705, 331706, 331707]
+  },
+  "3318": {
+    "code": 3318,
+    "name_en": "Mueang Chan",
+    "name_th": "เมืองจันทร์",
+    "province_code": 33,
+    "subdistricts": [331801, 331802, 331803]
+  },
+  "3319": {
+    "code": 3319,
+    "name_en": "Benchalak",
+    "name_th": "เบญจลักษ์",
+    "province_code": 33,
+    "subdistricts": [331901, 331902, 331903, 331904, 331905]
+  },
+  "3320": {
+    "code": 3320,
+    "name_en": "Phayu",
+    "name_th": "พยุห์",
+    "province_code": 33,
+    "subdistricts": [332001, 332002, 332003, 332004, 332005]
+  },
+  "3321": {
+    "code": 3321,
+    "name_en": "Pho Si Suwan",
+    "name_th": "โพธิ์ศรีสุวรรณ",
+    "province_code": 33,
+    "subdistricts": [332101, 332102, 332103, 332104, 332105]
+  },
+  "3322": {
+    "code": 3322,
+    "name_en": "Sila Lat",
+    "name_th": "ศิลาลาด",
+    "province_code": 33,
+    "subdistricts": [332201, 332202, 332203, 332204]
+  },
+  "3401": {
+    "code": 3401,
+    "name_en": "Mueang Ubon Ratchathani",
+    "name_th": "เมืองอุบลราชธานี",
+    "province_code": 34,
+    "subdistricts": [
+      340101, 340104, 340105, 340107, 340108, 340109, 340111, 340112, 340113, 340116, 340119, 340120
+    ]
+  },
+  "3402": {
+    "code": 3402,
+    "name_en": "Si Mueang Mai",
+    "name_th": "ศรีเมืองใหม่",
+    "province_code": 34,
+    "subdistricts": [
+      340201, 340202, 340203, 340204, 340205, 340206, 340207, 340208, 340209, 340210, 340211
+    ]
+  },
+  "3403": {
+    "code": 3403,
+    "name_en": "Khong Chiam",
+    "name_th": "โขงเจียม",
+    "province_code": 34,
+    "subdistricts": [340301, 340302, 340303, 340304, 340305]
+  },
+  "3404": {
+    "code": 3404,
+    "name_en": "Khueang Nai",
+    "name_th": "เขื่องใน",
+    "province_code": 34,
+    "subdistricts": [
+      340401, 340402, 340403, 340404, 340405, 340406, 340407, 340408, 340409, 340410, 340411,
+      340412, 340413, 340414, 340415, 340416, 340417, 340418
+    ]
+  },
+  "3405": {
+    "code": 3405,
+    "name_en": "Khemarat",
+    "name_th": "เขมราฐ",
+    "province_code": 34,
+    "subdistricts": [340501, 340503, 340504, 340507, 340508, 340510, 340511, 340512, 340513]
+  },
+  "3407": {
+    "code": 3407,
+    "name_en": "Det Udom",
+    "name_th": "เดชอุดม",
+    "province_code": 34,
+    "subdistricts": [
+      340701, 340702, 340704, 340706, 340708, 340709, 340710, 340711, 340712, 340713, 340715,
+      340716, 340717, 340720, 340721, 340723
+    ]
+  },
+  "3408": {
+    "code": 3408,
+    "name_en": "Na Chaluai",
+    "name_th": "นาจะหลวย",
+    "province_code": 34,
+    "subdistricts": [340801, 340802, 340803, 340804, 340805, 340806]
+  },
+  "3409": {
+    "code": 3409,
+    "name_en": "Nam Yuen",
+    "name_th": "น้ำยืน",
+    "province_code": 34,
+    "subdistricts": [340901, 340903, 340904, 340906, 340907, 340909, 340911]
+  },
+  "3410": {
+    "code": 3410,
+    "name_en": "Boontharik",
+    "name_th": "บุณฑริก",
+    "province_code": 34,
+    "subdistricts": [341001, 341002, 341003, 341004, 341005, 341006, 341007, 341008]
+  },
+  "3411": {
+    "code": 3411,
+    "name_en": "Trakan Phuet Phon",
+    "name_th": "ตระการพืชผล",
+    "province_code": 34,
+    "subdistricts": [
+      341101, 341102, 341103, 341104, 341105, 341106, 341107, 341108, 341109, 341110, 341111,
+      341112, 341113, 341114, 341115, 341116, 341117, 341118, 341119, 341120, 341121, 341122, 341123
+    ]
+  },
+  "3412": {
+    "code": 3412,
+    "name_en": "Kut Khaopun",
+    "name_th": "กุดข้าวปุ้น",
+    "province_code": 34,
+    "subdistricts": [341201, 341202, 341203, 341204, 341205]
+  },
+  "3414": {
+    "code": 3414,
+    "name_en": "Muang Sam Sip",
+    "name_th": "ม่วงสามสิบ",
+    "province_code": 34,
+    "subdistricts": [
+      341401, 341402, 341403, 341404, 341405, 341406, 341407, 341408, 341409, 341410, 341411,
+      341412, 341413, 341414
+    ]
+  },
+  "3415": {
+    "code": 3415,
+    "name_en": "Warin Chamrap",
+    "name_th": "วารินชำราบ",
+    "province_code": 34,
+    "subdistricts": [
+      341501, 341502, 341504, 341505, 341507, 341508, 341510, 341511, 341515, 341516, 341518,
+      341520, 341521, 341522, 341524, 341526
+    ]
+  },
+  "3419": {
+    "code": 3419,
+    "name_en": "Phibun Mangsahan",
+    "name_th": "พิบูลมังสาหาร",
+    "province_code": 34,
+    "subdistricts": [
+      341901, 341902, 341904, 341905, 341906, 341907, 341909, 341910, 341911, 341912, 341913,
+      341914, 341918, 341919
+    ]
+  },
+  "3420": {
+    "code": 3420,
+    "name_en": "Tan Sum",
+    "name_th": "ตาลสุม",
+    "province_code": 34,
+    "subdistricts": [342001, 342002, 342003, 342004, 342005, 342006]
+  },
+  "3421": {
+    "code": 3421,
+    "name_en": "Pho Sai",
+    "name_th": "โพธิ์ไทร",
+    "province_code": 34,
+    "subdistricts": [342101, 342102, 342103, 342104, 342105, 342106]
+  },
+  "3422": {
+    "code": 3422,
+    "name_en": "Samrong",
+    "name_th": "สำโรง",
+    "province_code": 34,
+    "subdistricts": [342201, 342202, 342203, 342204, 342205, 342206, 342207, 342208, 342209]
+  },
+  "3424": {
+    "code": 3424,
+    "name_en": "Don Mot Daeng",
+    "name_th": "ดอนมดแดง",
+    "province_code": 34,
+    "subdistricts": [342401, 342402, 342403, 342404]
+  },
+  "3425": {
+    "code": 3425,
+    "name_en": "Sirindhorn",
+    "name_th": "สิรินธร",
+    "province_code": 34,
+    "subdistricts": [342501, 342502, 342503, 342504, 342505, 342506]
+  },
+  "3426": {
+    "code": 3426,
+    "name_en": "Thung Si Udom",
+    "name_th": "ทุ่งศรีอุดม",
+    "province_code": 34,
+    "subdistricts": [342602, 342603, 342604, 342605, 342606]
+  },
+  "3429": {
+    "code": 3429,
+    "name_en": "Na Yia",
+    "name_th": "นาเยีย",
+    "province_code": 34,
+    "subdistricts": [342901, 342902, 342903]
+  },
+  "3430": {
+    "code": 3430,
+    "name_en": "Na Tan",
+    "name_th": "นาตาล",
+    "province_code": 34,
+    "subdistricts": [343001, 343002, 343003, 343004]
+  },
+  "3431": {
+    "code": 3431,
+    "name_en": "Lao Suea Kok",
+    "name_th": "เหล่าเสือโก้ก",
+    "province_code": 34,
+    "subdistricts": [343101, 343102, 343103, 343104]
+  },
+  "3432": {
+    "code": 3432,
+    "name_en": "Sawang Wirawong",
+    "name_th": "สว่างวีระวงศ์",
+    "province_code": 34,
+    "subdistricts": [343201, 343202, 343203, 343204]
+  },
+  "3433": {
+    "code": 3433,
+    "name_en": "Nam Khun",
+    "name_th": "น้ำขุ่น",
+    "province_code": 34,
+    "subdistricts": [343301, 343302, 343303, 343304]
+  },
+  "3501": {
+    "code": 3501,
+    "name_en": "Mueang Yasothon",
+    "name_th": "เมืองยโสธร",
+    "province_code": 35,
+    "subdistricts": [
+      350101, 350102, 350103, 350104, 350105, 350106, 350107, 350108, 350109, 350110, 350111,
+      350112, 350113, 350114, 350115, 350116, 350117, 350118
+    ]
+  },
+  "3502": {
+    "code": 3502,
+    "name_en": "Sai Mun",
+    "name_th": "ทรายมูล",
+    "province_code": 35,
+    "subdistricts": [350201, 350202, 350203, 350204, 350205]
+  },
+  "3503": {
+    "code": 3503,
+    "name_en": "Kut Chum",
+    "name_th": "กุดชุม",
+    "province_code": 35,
+    "subdistricts": [350301, 350302, 350303, 350304, 350305, 350306, 350307, 350308, 350309]
+  },
+  "3504": {
+    "code": 3504,
+    "name_en": "Kham Khuean Kaeo",
+    "name_th": "คำเขื่อนแก้ว",
+    "province_code": 35,
+    "subdistricts": [
+      350401, 350402, 350403, 350404, 350405, 350406, 350407, 350408, 350409, 350410, 350411,
+      350412, 350413
+    ]
+  },
+  "3505": {
+    "code": 3505,
+    "name_en": "Pa Tio",
+    "name_th": "ป่าติ้ว",
+    "province_code": 35,
+    "subdistricts": [350501, 350502, 350503, 350504, 350505]
+  },
+  "3506": {
+    "code": 3506,
+    "name_en": "Maha Chana Chai",
+    "name_th": "มหาชนะชัย",
+    "province_code": 35,
+    "subdistricts": [350601, 350602, 350603, 350604, 350605, 350606, 350607, 350608, 350609, 350610]
+  },
+  "3507": {
+    "code": 3507,
+    "name_en": "Kho Wang",
+    "name_th": "ค้อวัง",
+    "province_code": 35,
+    "subdistricts": [350701, 350702, 350703, 350704]
+  },
+  "3508": {
+    "code": 3508,
+    "name_en": "Loeng Nok Tha",
+    "name_th": "เลิงนกทา",
+    "province_code": 35,
+    "subdistricts": [350802, 350803, 350805, 350806, 350807, 350810, 350811, 350812, 350813, 350814]
+  },
+  "3509": {
+    "code": 3509,
+    "name_en": "Thai Charoen",
+    "name_th": "ไทยเจริญ",
+    "province_code": 35,
+    "subdistricts": [350901, 350902, 350903, 350904, 350905]
+  },
+  "3601": {
+    "code": 3601,
+    "name_en": "Mueang Chaiyaphum",
+    "name_th": "เมืองชัยภูมิ",
+    "province_code": 36,
+    "subdistricts": [
+      360101, 360102, 360103, 360104, 360105, 360106, 360107, 360108, 360109, 360110, 360111,
+      360112, 360113, 360114, 360115, 360116, 360117, 360118, 360119
+    ]
+  },
+  "3602": {
+    "code": 3602,
+    "name_en": "Ban Khwao",
+    "name_th": "บ้านเขว้า",
+    "province_code": 36,
+    "subdistricts": [360201, 360202, 360203, 360204, 360205, 360206]
+  },
+  "3603": {
+    "code": 3603,
+    "name_en": "Khon Sawan",
+    "name_th": "คอนสวรรค์",
+    "province_code": 36,
+    "subdistricts": [360301, 360302, 360303, 360304, 360305, 360306, 360307, 360308, 360309]
+  },
+  "3604": {
+    "code": 3604,
+    "name_en": "Kaset Sombun",
+    "name_th": "เกษตรสมบูรณ์",
+    "province_code": 36,
+    "subdistricts": [
+      360401, 360402, 360403, 360404, 360405, 360406, 360407, 360408, 360409, 360410, 360412
+    ]
+  },
+  "3605": {
+    "code": 3605,
+    "name_en": "Nong Bua Daeng",
+    "name_th": "หนองบัวแดง",
+    "province_code": 36,
+    "subdistricts": [360501, 360502, 360503, 360504, 360507, 360508, 360509, 360511]
+  },
+  "3606": {
+    "code": 3606,
+    "name_en": "Chatturat",
+    "name_th": "จัตุรัส",
+    "province_code": 36,
+    "subdistricts": [360601, 360602, 360603, 360605, 360606, 360607, 360610, 360611, 360613]
+  },
+  "3607": {
+    "code": 3607,
+    "name_en": "Bamnet Narong",
+    "name_th": "บำเหน็จณรงค์",
+    "province_code": 36,
+    "subdistricts": [360701, 360702, 360703, 360704, 360705, 360706, 360707]
+  },
+  "3608": {
+    "code": 3608,
+    "name_en": "Nong Bua Rawe",
+    "name_th": "หนองบัวระเหว",
+    "province_code": 36,
+    "subdistricts": [360801, 360802, 360803, 360804, 360805]
+  },
+  "3609": {
+    "code": 3609,
+    "name_en": "Thep Sathit",
+    "name_th": "เทพสถิต",
+    "province_code": 36,
+    "subdistricts": [360901, 360902, 360903, 360904, 360905]
+  },
+  "3610": {
+    "code": 3610,
+    "name_en": "Phu Khiao",
+    "name_th": "ภูเขียว",
+    "province_code": 36,
+    "subdistricts": [
+      361001, 361002, 361003, 361004, 361005, 361006, 361007, 361008, 361009, 361010, 361011
+    ]
+  },
+  "3611": {
+    "code": 3611,
+    "name_en": "Ban Thaen",
+    "name_th": "บ้านแท่น",
+    "province_code": 36,
+    "subdistricts": [361101, 361102, 361103, 361104, 361105]
+  },
+  "3612": {
+    "code": 3612,
+    "name_en": "Kaeng Khro",
+    "name_th": "แก้งคร้อ",
+    "province_code": 36,
+    "subdistricts": [361201, 361202, 361203, 361204, 361205, 361206, 361207, 361208, 361209, 361210]
+  },
+  "3613": {
+    "code": 3613,
+    "name_en": "Khon San",
+    "name_th": "คอนสาร",
+    "province_code": 36,
+    "subdistricts": [361301, 361302, 361303, 361304, 361305, 361306, 361307, 361308]
+  },
+  "3614": {
+    "code": 3614,
+    "name_en": "Phakdi Chumphon",
+    "name_th": "ภักดีชุมพล",
+    "province_code": 36,
+    "subdistricts": [361401, 361402, 361403, 361404]
+  },
+  "3615": {
+    "code": 3615,
+    "name_en": "Noen Sa-Nga",
+    "name_th": "เนินสง่า",
+    "province_code": 36,
+    "subdistricts": [361501, 361502, 361503, 361504]
+  },
+  "3616": {
+    "code": 3616,
+    "name_en": "Sap Yai",
+    "name_th": "ซับใหญ่",
+    "province_code": 36,
+    "subdistricts": [361601, 361602, 361603]
+  },
+  "3701": {
+    "code": 3701,
+    "name_en": "Mueang Amnat Charoen",
+    "name_th": "เมืองอำนาจเจริญ",
+    "province_code": 37,
+    "subdistricts": [
+      370101, 370102, 370103, 370104, 370105, 370106, 370107, 370108, 370109, 370110, 370111,
+      370112, 370113, 370114, 370115, 370116, 370117, 370118, 370119
+    ]
+  },
+  "3702": {
+    "code": 3702,
+    "name_en": "Chanuman",
+    "name_th": "ชานุมาน",
+    "province_code": 37,
+    "subdistricts": [370201, 370202, 370203, 370204, 370205]
+  },
+  "3703": {
+    "code": 3703,
+    "name_en": "Pathum Ratchawongsa",
+    "name_th": "ปทุมราชวงศา",
+    "province_code": 37,
+    "subdistricts": [370301, 370302, 370303, 370304, 370305, 370306, 370307]
+  },
+  "3704": {
+    "code": 3704,
+    "name_en": "Phana",
+    "name_th": "พนา",
+    "province_code": 37,
+    "subdistricts": [370401, 370402, 370403, 370404]
+  },
+  "3705": {
+    "code": 3705,
+    "name_en": "Senangkhanikhom",
+    "name_th": "เสนางคนิคม",
+    "province_code": 37,
+    "subdistricts": [370501, 370502, 370503, 370504, 370505, 370506]
+  },
+  "3706": {
+    "code": 3706,
+    "name_en": "Hua Taphan",
+    "name_th": "หัวตะพาน",
+    "province_code": 37,
+    "subdistricts": [370601, 370602, 370603, 370604, 370605, 370606, 370607, 370608]
+  },
+  "3707": {
+    "code": 3707,
+    "name_en": "Lue Amnat",
+    "name_th": "ลืออำนาจ",
+    "province_code": 37,
+    "subdistricts": [370701, 370702, 370703, 370704, 370705, 370706, 370707]
+  },
+  "3801": {
+    "code": 3801,
+    "name_en": "Bueng Kan",
+    "name_th": "เมืองบึงกาฬ",
+    "province_code": 38,
+    "subdistricts": [
+      380101, 380102, 380103, 380104, 380105, 380106, 380107, 380108, 380109, 380110, 380111, 380112
+    ]
+  },
+  "3802": {
+    "code": 3802,
+    "name_en": "Phon Charoen",
+    "name_th": "พรเจริญ",
+    "province_code": 38,
+    "subdistricts": [380201, 380202, 380203, 380204, 380205, 380206, 380207]
+  },
+  "3803": {
+    "code": 3803,
+    "name_en": "So Phisai",
+    "name_th": "โซ่พิสัย",
+    "province_code": 38,
+    "subdistricts": [380301, 380302, 380303, 380304, 380305, 380306, 380307]
+  },
+  "3804": {
+    "code": 3804,
+    "name_en": "Seka",
+    "name_th": "เซกา",
+    "province_code": 38,
+    "subdistricts": [380401, 380402, 380403, 380404, 380405, 380406, 380407, 380408, 380409]
+  },
+  "3805": {
+    "code": 3805,
+    "name_en": "Pak Khat",
+    "name_th": "ปากคาด",
+    "province_code": 38,
+    "subdistricts": [380501, 380502, 380503, 380504, 380505, 380506]
+  },
+  "3806": {
+    "code": 3806,
+    "name_en": "Bueng Khong Long",
+    "name_th": "บึงโขงหลง",
+    "province_code": 38,
+    "subdistricts": [380601, 380602, 380603, 380604]
+  },
+  "3807": {
+    "code": 3807,
+    "name_en": "Si Wilai",
+    "name_th": "ศรีวิไล",
+    "province_code": 38,
+    "subdistricts": [380701, 380702, 380703, 380704, 380705]
+  },
+  "3808": {
+    "code": 3808,
+    "name_en": "Bung Khla",
+    "name_th": "บุ่งคล้า",
+    "province_code": 38,
+    "subdistricts": [380801, 380802, 380803]
+  },
+  "3901": {
+    "code": 3901,
+    "name_en": "Mueang Nong Bua Lam Phu",
+    "name_th": "เมืองหนองบัวลำภู",
+    "province_code": 39,
+    "subdistricts": [
+      390101, 390102, 390103, 390104, 390105, 390106, 390107, 390108, 390109, 390110, 390111,
+      390112, 390113, 390114, 390115
+    ]
+  },
+  "3902": {
+    "code": 3902,
+    "name_en": "Na Klang",
+    "name_th": "นากลาง",
+    "province_code": 39,
+    "subdistricts": [390201, 390202, 390205, 390206, 390207, 390209, 390210, 390211, 390213]
+  },
+  "3903": {
+    "code": 3903,
+    "name_en": "Non Sang",
+    "name_th": "โนนสัง",
+    "province_code": 39,
+    "subdistricts": [390301, 390302, 390303, 390304, 390305, 390306, 390307, 390308, 390309, 390310]
+  },
+  "3904": {
+    "code": 3904,
+    "name_en": "Si Bun Rueang",
+    "name_th": "ศรีบุญเรือง",
+    "province_code": 39,
+    "subdistricts": [
+      390401, 390402, 390403, 390404, 390405, 390406, 390407, 390408, 390409, 390410, 390411, 390412
+    ]
+  },
+  "3905": {
+    "code": 3905,
+    "name_en": "Suwannakhuha",
+    "name_th": "สุวรรณคูหา",
+    "province_code": 39,
+    "subdistricts": [390501, 390502, 390503, 390504, 390505, 390506, 390507, 390508]
+  },
+  "3906": {
+    "code": 3906,
+    "name_en": "Na Wang",
+    "name_th": "นาวัง",
+    "province_code": 39,
+    "subdistricts": [390601, 390602, 390603, 390604, 390605]
+  },
+  "4001": {
+    "code": 4001,
+    "name_en": "Mueang Khon Kaen",
+    "name_th": "เมืองขอนแก่น",
+    "province_code": 40,
+    "subdistricts": [
+      400101, 400102, 400103, 400104, 400105, 400106, 400107, 400108, 400109, 400110, 400111,
+      400112, 400113, 400114, 400115, 400116, 400117, 400118
+    ]
+  },
+  "4002": {
+    "code": 4002,
+    "name_en": "Ban Fang",
+    "name_th": "บ้านฝาง",
+    "province_code": 40,
+    "subdistricts": [400201, 400202, 400203, 400204, 400205, 400206, 400207]
+  },
+  "4003": {
+    "code": 4003,
+    "name_en": "Phra Yuen",
+    "name_th": "พระยืน",
+    "province_code": 40,
+    "subdistricts": [400301, 400302, 400303, 400304, 400305]
+  },
+  "4004": {
+    "code": 4004,
+    "name_en": "Nong Ruea",
+    "name_th": "หนองเรือ",
+    "province_code": 40,
+    "subdistricts": [400401, 400402, 400403, 400404, 400405, 400406, 400407, 400408, 400409, 400410]
+  },
+  "4005": {
+    "code": 4005,
+    "name_en": "Chum Phae",
+    "name_th": "ชุมแพ",
+    "province_code": 40,
+    "subdistricts": [
+      400501, 400502, 400503, 400504, 400505, 400506, 400507, 400508, 400509, 400510, 400511, 400512
+    ]
+  },
+  "4006": {
+    "code": 4006,
+    "name_en": "Si Chomphu",
+    "name_th": "สีชมพู",
+    "province_code": 40,
+    "subdistricts": [400601, 400602, 400603, 400604, 400605, 400606, 400607, 400608, 400609, 400610]
+  },
+  "4007": {
+    "code": 4007,
+    "name_en": "Nam Phong",
+    "name_th": "น้ำพอง",
+    "province_code": 40,
+    "subdistricts": [
+      400701, 400702, 400703, 400704, 400705, 400706, 400707, 400708, 400709, 400710, 400711, 400712
+    ]
+  },
+  "4008": {
+    "code": 4008,
+    "name_en": "Ubolratana",
+    "name_th": "อุบลรัตน์",
+    "province_code": 40,
+    "subdistricts": [400801, 400802, 400803, 400804, 400805, 400806]
+  },
+  "4009": {
+    "code": 4009,
+    "name_en": "Kranuan",
+    "name_th": "กระนวน",
+    "province_code": 40,
+    "subdistricts": [400901, 400902, 400905, 400906, 400907, 400909, 400910, 400911, 400912]
+  },
+  "4010": {
+    "code": 4010,
+    "name_en": "Ban Phai",
+    "name_th": "บ้านไผ่",
+    "province_code": 40,
+    "subdistricts": [401001, 401002, 401005, 401009, 401010, 401011, 401013, 401014, 401016, 401017]
+  },
+  "4011": {
+    "code": 4011,
+    "name_en": "Pueai Noi",
+    "name_th": "เปือยน้อย",
+    "province_code": 40,
+    "subdistricts": [401101, 401102, 401103, 401104]
+  },
+  "4012": {
+    "code": 4012,
+    "name_en": "Phon",
+    "name_th": "พล",
+    "province_code": 40,
+    "subdistricts": [
+      401201, 401203, 401204, 401205, 401206, 401207, 401208, 401209, 401210, 401211, 401212, 401213
+    ]
+  },
+  "4013": {
+    "code": 4013,
+    "name_en": "Waeng Yai",
+    "name_th": "แวงใหญ่",
+    "province_code": 40,
+    "subdistricts": [401301, 401302, 401303, 401304, 401305]
+  },
+  "4014": {
+    "code": 4014,
+    "name_en": "Waeng Noi",
+    "name_th": "แวงน้อย",
+    "province_code": 40,
+    "subdistricts": [401401, 401402, 401403, 401404, 401405, 401406]
+  },
+  "4015": {
+    "code": 4015,
+    "name_en": "Nong Song Hong",
+    "name_th": "หนองสองห้อง",
+    "province_code": 40,
+    "subdistricts": [
+      401501, 401502, 401503, 401504, 401505, 401506, 401507, 401508, 401509, 401510, 401511, 401512
+    ]
+  },
+  "4016": {
+    "code": 4016,
+    "name_en": "Phu Wiang",
+    "name_th": "ภูเวียง",
+    "province_code": 40,
+    "subdistricts": [
+      401601, 401604, 401605, 401606, 401607, 401610, 401612, 401613, 401614, 401616, 401617
+    ]
+  },
+  "4017": {
+    "code": 4017,
+    "name_en": "Mancha Khiri",
+    "name_th": "มัญจาคีรี",
+    "province_code": 40,
+    "subdistricts": [401701, 401702, 401703, 401704, 401705, 401706, 401707, 401710]
+  },
+  "4018": {
+    "code": 4018,
+    "name_en": "Chonnabot",
+    "name_th": "ชนบท",
+    "province_code": 40,
+    "subdistricts": [401801, 401802, 401803, 401804, 401805, 401806, 401807, 401808]
+  },
+  "4019": {
+    "code": 4019,
+    "name_en": "Khao Suan Kwang",
+    "name_th": "เขาสวนกวาง",
+    "province_code": 40,
+    "subdistricts": [401901, 401902, 401903, 401904, 401905]
+  },
+  "4020": {
+    "code": 4020,
+    "name_en": "Phu Phaman",
+    "name_th": "ภูผาม่าน",
+    "province_code": 40,
+    "subdistricts": [402001, 402002, 402003, 402004, 402005]
+  },
+  "4021": {
+    "code": 4021,
+    "name_en": "Sam Sung",
+    "name_th": "ซำสูง",
+    "province_code": 40,
+    "subdistricts": [402101, 402102, 402103, 402104, 402105]
+  },
+  "4022": {
+    "code": 4022,
+    "name_en": "Khok Pho Chai",
+    "name_th": "โคกโพธิ์ไชย",
+    "province_code": 40,
+    "subdistricts": [402201, 402202, 402203, 402204]
+  },
+  "4023": {
+    "code": 4023,
+    "name_en": "Nong Na Kham",
+    "name_th": "หนองนาคำ",
+    "province_code": 40,
+    "subdistricts": [402301, 402302, 402303]
+  },
+  "4024": {
+    "code": 4024,
+    "name_en": "Ban Haet",
+    "name_th": "บ้านแฮด",
+    "province_code": 40,
+    "subdistricts": [402401, 402402, 402403, 402404]
+  },
+  "4025": {
+    "code": 4025,
+    "name_en": "Non Sila",
+    "name_th": "โนนศิลา",
+    "province_code": 40,
+    "subdistricts": [402501, 402502, 402503, 402504, 402505]
+  },
+  "4029": {
+    "code": 4029,
+    "name_en": "Wiang Kao",
+    "name_th": "เวียงเก่า",
+    "province_code": 40,
+    "subdistricts": [402901, 402902, 402903]
+  },
+  "4101": {
+    "code": 4101,
+    "name_en": "Mueang Udon Thani",
+    "name_th": "เมืองอุดรธานี",
+    "province_code": 41,
+    "subdistricts": [
+      410101, 410102, 410103, 410104, 410105, 410106, 410107, 410108, 410109, 410110, 410111,
+      410112, 410113, 410114, 410115, 410116, 410117, 410118, 410119, 410120, 410121
+    ]
+  },
+  "4102": {
+    "code": 4102,
+    "name_en": "Kut Chap",
+    "name_th": "กุดจับ",
+    "province_code": 41,
+    "subdistricts": [410201, 410202, 410203, 410204, 410205, 410206, 410207]
+  },
+  "4103": {
+    "code": 4103,
+    "name_en": "Nong Wua So",
+    "name_th": "หนองวัวซอ",
+    "province_code": 41,
+    "subdistricts": [410301, 410302, 410303, 410304, 410305, 410306, 410307, 410308]
+  },
+  "4104": {
+    "code": 4104,
+    "name_en": "Kumphawapi",
+    "name_th": "กุมภวาปี",
+    "province_code": 41,
+    "subdistricts": [
+      410401, 410402, 410403, 410404, 410406, 410407, 410409, 410410, 410411, 410413, 410414,
+      410415, 410416
+    ]
+  },
+  "4105": {
+    "code": 4105,
+    "name_en": "Non Sa-At",
+    "name_th": "โนนสะอาด",
+    "province_code": 41,
+    "subdistricts": [410501, 410502, 410503, 410504, 410505, 410506]
+  },
+  "4106": {
+    "code": 4106,
+    "name_en": "Nong Saeng",
+    "name_th": "หนองหาน",
+    "province_code": 41,
+    "subdistricts": [
+      410601, 410602, 410605, 410606, 410607, 410609, 410610, 410611, 410612, 410614, 410617, 410618
+    ]
+  },
+  "4107": {
+    "code": 4107,
+    "name_en": "Thung Fon",
+    "name_th": "ทุ่งฝน",
+    "province_code": 41,
+    "subdistricts": [410701, 410702, 410703, 410704]
+  },
+  "4108": {
+    "code": 4108,
+    "name_en": "Chai Wan",
+    "name_th": "ไชยวาน",
+    "province_code": 41,
+    "subdistricts": [410801, 410802, 410803, 410804]
+  },
+  "4109": {
+    "code": 4109,
+    "name_en": "Si That",
+    "name_th": "ศรีธาตุ",
+    "province_code": 41,
+    "subdistricts": [410901, 410902, 410903, 410904, 410905, 410906, 410907]
+  },
+  "4110": {
+    "code": 4110,
+    "name_en": "Wang Sam Mo",
+    "name_th": "วังสามหมอ",
+    "province_code": 41,
+    "subdistricts": [411001, 411002, 411003, 411004, 411005, 411006]
+  },
+  "4111": {
+    "code": 4111,
+    "name_en": "Ban Dung",
+    "name_th": "บ้านดุง",
+    "province_code": 41,
+    "subdistricts": [
+      411101, 411102, 411103, 411104, 411105, 411106, 411107, 411108, 411109, 411110, 411111,
+      411112, 411113
+    ]
+  },
+  "4117": {
+    "code": 4117,
+    "name_en": "Ban Phue",
+    "name_th": "บ้านผือ",
+    "province_code": 41,
+    "subdistricts": [
+      411701, 411702, 411703, 411704, 411705, 411706, 411707, 411708, 411709, 411710, 411711,
+      411712, 411713
+    ]
+  },
+  "4118": {
+    "code": 4118,
+    "name_en": "Nam Som",
+    "name_th": "น้ำโสม",
+    "province_code": 41,
+    "subdistricts": [411801, 411802, 411805, 411806, 411807, 411810, 411812]
+  },
+  "4119": {
+    "code": 4119,
+    "name_en": "Phen",
+    "name_th": "เพ็ญ",
+    "province_code": 41,
+    "subdistricts": [
+      411901, 411902, 411903, 411904, 411905, 411906, 411907, 411908, 411909, 411910, 411911
+    ]
+  },
+  "4120": {
+    "code": 4120,
+    "name_en": "Sang Khom",
+    "name_th": "สร้างคอม",
+    "province_code": 41,
+    "subdistricts": [412001, 412002, 412003, 412004, 412005, 412006]
+  },
+  "4121": {
+    "code": 4121,
+    "name_en": "Nong Saeng",
+    "name_th": "หนองแสง",
+    "province_code": 41,
+    "subdistricts": [412101, 412102, 412103, 412104]
+  },
+  "4122": {
+    "code": 4122,
+    "name_en": "Na Yung",
+    "name_th": "นายูง",
+    "province_code": 41,
+    "subdistricts": [412201, 412202, 412203, 412204]
+  },
+  "4123": {
+    "code": 4123,
+    "name_en": "Phibun Rak",
+    "name_th": "พิบูลย์รักษ์",
+    "province_code": 41,
+    "subdistricts": [412301, 412302, 412303]
+  },
+  "4124": {
+    "code": 4124,
+    "name_en": "Ku Kaeo",
+    "name_th": "กู่แก้ว",
+    "province_code": 41,
+    "subdistricts": [412401, 412402, 412403, 412404]
+  },
+  "4125": {
+    "code": 4125,
+    "name_en": "Prachaksinlapakhom",
+    "name_th": "ประจักษ์ศิลปาคม",
+    "province_code": 41,
+    "subdistricts": [412501, 412502, 412503]
+  },
+  "4201": {
+    "code": 4201,
+    "name_en": "Mueang Loei",
+    "name_th": "เมืองเลย",
+    "province_code": 42,
+    "subdistricts": [
+      420101, 420102, 420103, 420104, 420105, 420106, 420107, 420108, 420109, 420110, 420111,
+      420112, 420113, 420114
+    ]
+  },
+  "4202": {
+    "code": 4202,
+    "name_en": "Na Duang",
+    "name_th": "นาด้วง",
+    "province_code": 42,
+    "subdistricts": [420201, 420202, 420203, 420204]
+  },
+  "4203": {
+    "code": 4203,
+    "name_en": "Chiang Khan",
+    "name_th": "เชียงคาน",
+    "province_code": 42,
+    "subdistricts": [420301, 420302, 420303, 420304, 420305, 420306, 420307, 420308]
+  },
+  "4204": {
+    "code": 4204,
+    "name_en": "Pak Chom",
+    "name_th": "ปากชม",
+    "province_code": 42,
+    "subdistricts": [420401, 420402, 420403, 420404, 420405, 420406]
+  },
+  "4205": {
+    "code": 4205,
+    "name_en": "Dan Sai",
+    "name_th": "ด่านซ้าย",
+    "province_code": 42,
+    "subdistricts": [420501, 420502, 420503, 420504, 420505, 420506, 420507, 420508, 420509, 420510]
+  },
+  "4206": {
+    "code": 4206,
+    "name_en": "Na Haeo",
+    "name_th": "นาแห้ว",
+    "province_code": 42,
+    "subdistricts": [420601, 420602, 420603, 420604, 420605]
+  },
+  "4207": {
+    "code": 4207,
+    "name_en": "Phu Ruea",
+    "name_th": "ภูเรือ",
+    "province_code": 42,
+    "subdistricts": [420701, 420702, 420703, 420704, 420705, 420706]
+  },
+  "4208": {
+    "code": 4208,
+    "name_en": "Tha Li",
+    "name_th": "ท่าลี่",
+    "province_code": 42,
+    "subdistricts": [420801, 420802, 420803, 420804, 420805, 420806]
+  },
+  "4209": {
+    "code": 4209,
+    "name_en": "Wang Saphung",
+    "name_th": "วังสะพุง",
+    "province_code": 42,
+    "subdistricts": [420901, 420902, 420903, 420904, 420905, 420906, 420910, 420911, 420912, 420913]
+  },
+  "4210": {
+    "code": 4210,
+    "name_en": "Phu Kradueng",
+    "name_th": "ภูกระดึง",
+    "province_code": 42,
+    "subdistricts": [421001, 421005, 421007, 421010]
+  },
+  "4211": {
+    "code": 4211,
+    "name_en": "Phu Luang",
+    "name_th": "ภูหลวง",
+    "province_code": 42,
+    "subdistricts": [421101, 421102, 421104, 421105, 421106]
+  },
+  "4212": {
+    "code": 4212,
+    "name_en": "Pha Khao",
+    "name_th": "ผาขาว",
+    "province_code": 42,
+    "subdistricts": [421201, 421202, 421203, 421204, 421205]
+  },
+  "4213": {
+    "code": 4213,
+    "name_en": "Erawan",
+    "name_th": "เอราวัณ",
+    "province_code": 42,
+    "subdistricts": [421301, 421302, 421303, 421304]
+  },
+  "4214": {
+    "code": 4214,
+    "name_en": "Nong Hin",
+    "name_th": "หนองหิน",
+    "province_code": 42,
+    "subdistricts": [421401, 421402, 421403]
+  },
+  "4301": {
+    "code": 4301,
+    "name_en": "Mueang Nong Khai",
+    "name_th": "เมืองหนองคาย",
+    "province_code": 43,
+    "subdistricts": [
+      430101, 430102, 430103, 430104, 430105, 430106, 430107, 430108, 430109, 430110, 430111,
+      430113, 430116, 430117, 430118, 430119
+    ]
+  },
+  "4302": {
+    "code": 4302,
+    "name_en": "Tha Bo",
+    "name_th": "ท่าบ่อ",
+    "province_code": 43,
+    "subdistricts": [430201, 430202, 430203, 430204, 430205, 430206, 430207, 430208, 430209, 430210]
+  },
+  "4305": {
+    "code": 4305,
+    "name_en": "Phon Phisai",
+    "name_th": "โพนพิสัย",
+    "province_code": 43,
+    "subdistricts": [
+      430501, 430502, 430503, 430504, 430506, 430507, 430508, 430509, 430513, 430521, 430522
+    ]
+  },
+  "4307": {
+    "code": 4307,
+    "name_en": "Si Chiang Mai",
+    "name_th": "ศรีเชียงใหม่",
+    "province_code": 43,
+    "subdistricts": [430701, 430703, 430704, 430705]
+  },
+  "4308": {
+    "code": 4308,
+    "name_en": "Sangkhom",
+    "name_th": "สังคม",
+    "province_code": 43,
+    "subdistricts": [430801, 430802, 430803, 430804, 430805]
+  },
+  "4314": {
+    "code": 4314,
+    "name_en": "Sakhrai",
+    "name_th": "สระใคร",
+    "province_code": 43,
+    "subdistricts": [431401, 431402, 431403]
+  },
+  "4315": {
+    "code": 4315,
+    "name_en": "Fao Rai",
+    "name_th": "เฝ้าไร่",
+    "province_code": 43,
+    "subdistricts": [431501, 431502, 431503, 431504, 431505]
+  },
+  "4316": {
+    "code": 4316,
+    "name_en": "Rattanawapi",
+    "name_th": "รัตนวาปี",
+    "province_code": 43,
+    "subdistricts": [431601, 431602, 431603, 431604, 431605]
+  },
+  "4317": {
+    "code": 4317,
+    "name_en": "Pho Tak",
+    "name_th": "โพธิ์ตาก",
+    "province_code": 43,
+    "subdistricts": [431701, 431702, 431703]
+  },
+  "4401": {
+    "code": 4401,
+    "name_en": "Mueang Maha Sarakham",
+    "name_th": "เมืองมหาสารคาม",
+    "province_code": 44,
+    "subdistricts": [
+      440101, 440102, 440103, 440104, 440105, 440106, 440107, 440108, 440109, 440110, 440111,
+      440112, 440113, 440114
+    ]
+  },
+  "4402": {
+    "code": 4402,
+    "name_en": "Kae Dam",
+    "name_th": "แกดำ",
+    "province_code": 44,
+    "subdistricts": [440201, 440202, 440203, 440204, 440205]
+  },
+  "4403": {
+    "code": 4403,
+    "name_en": "Kosum Phisai",
+    "name_th": "โกสุมพิสัย",
+    "province_code": 44,
+    "subdistricts": [
+      440301, 440302, 440303, 440304, 440305, 440306, 440307, 440308, 440309, 440310, 440311,
+      440312, 440313, 440314, 440315, 440316, 440317
+    ]
+  },
+  "4404": {
+    "code": 4404,
+    "name_en": "Kantharawichai",
+    "name_th": "กันทรวิชัย",
+    "province_code": 44,
+    "subdistricts": [440401, 440402, 440403, 440404, 440405, 440406, 440407, 440408, 440409, 440410]
+  },
+  "4405": {
+    "code": 4405,
+    "name_en": "Chiang Yuen",
+    "name_th": "เชียงยืน",
+    "province_code": 44,
+    "subdistricts": [440501, 440503, 440505, 440506, 440507, 440508, 440511, 440512]
+  },
+  "4406": {
+    "code": 4406,
+    "name_en": "Borabue",
+    "name_th": "บรบือ",
+    "province_code": 44,
+    "subdistricts": [
+      440601, 440602, 440604, 440605, 440606, 440607, 440608, 440610, 440611, 440613, 440615,
+      440616, 440618, 440619, 440620
+    ]
+  },
+  "4407": {
+    "code": 4407,
+    "name_en": "Na Chueak",
+    "name_th": "นาเชือก",
+    "province_code": 44,
+    "subdistricts": [440701, 440702, 440703, 440704, 440705, 440706, 440707, 440708, 440709, 440710]
+  },
+  "4408": {
+    "code": 4408,
+    "name_en": "Phayakkhaphum Phisai",
+    "name_th": "พยัคฆภูมิพิสัย",
+    "province_code": 44,
+    "subdistricts": [
+      440801, 440802, 440803, 440804, 440805, 440809, 440810, 440812, 440815, 440816, 440817,
+      440818, 440819, 440820
+    ]
+  },
+  "4409": {
+    "code": 4409,
+    "name_en": "Wapi Pathum",
+    "name_th": "วาปีปทุม",
+    "province_code": 44,
+    "subdistricts": [
+      440901, 440902, 440903, 440904, 440905, 440906, 440907, 440908, 440909, 440910, 440911,
+      440912, 440913, 440914, 440915
+    ]
+  },
+  "4410": {
+    "code": 4410,
+    "name_en": "Na Dun",
+    "name_th": "นาดูน",
+    "province_code": 44,
+    "subdistricts": [441001, 441002, 441003, 441004, 441005, 441006, 441007, 441008, 441009]
+  },
+  "4411": {
+    "code": 4411,
+    "name_en": "Yang Sisurat",
+    "name_th": "ยางสีสุราช",
+    "province_code": 44,
+    "subdistricts": [441101, 441102, 441103, 441104, 441105, 441106, 441107]
+  },
+  "4412": {
+    "code": 4412,
+    "name_en": "Kut Rang",
+    "name_th": "กุดรัง",
+    "province_code": 44,
+    "subdistricts": [441201, 441202, 441203, 441204, 441205]
+  },
+  "4413": {
+    "code": 4413,
+    "name_en": "Chuen Chom",
+    "name_th": "ชื่นชม",
+    "province_code": 44,
+    "subdistricts": [441301, 441302, 441303, 441304]
+  },
+  "4501": {
+    "code": 4501,
+    "name_en": "Mueang Roi Et",
+    "name_th": "เมืองร้อยเอ็ด",
+    "province_code": 45,
+    "subdistricts": [
+      450101, 450102, 450103, 450104, 450105, 450106, 450108, 450109, 450110, 450117, 450118,
+      450120, 450123, 450124, 450125
+    ]
+  },
+  "4502": {
+    "code": 4502,
+    "name_en": "Kaset Wisai",
+    "name_th": "เกษตรวิสัย",
+    "province_code": 45,
+    "subdistricts": [
+      450201, 450202, 450203, 450204, 450205, 450206, 450207, 450208, 450209, 450210, 450211,
+      450212, 450213
+    ]
+  },
+  "4503": {
+    "code": 4503,
+    "name_en": "Pathum Rat",
+    "name_th": "ปทุมรัตต์",
+    "province_code": 45,
+    "subdistricts": [450301, 450302, 450303, 450304, 450305, 450306, 450307, 450308]
+  },
+  "4504": {
+    "code": 4504,
+    "name_en": "Chaturaphak Phiman",
+    "name_th": "จตุรพักตรพิมาน",
+    "province_code": 45,
+    "subdistricts": [
+      450401, 450402, 450403, 450404, 450405, 450406, 450407, 450408, 450409, 450410, 450411, 450412
+    ]
+  },
+  "4505": {
+    "code": 4505,
+    "name_en": "Thawat Buri",
+    "name_th": "ธวัชบุรี",
+    "province_code": 45,
+    "subdistricts": [
+      450501, 450502, 450503, 450504, 450506, 450507, 450510, 450515, 450517, 450520, 450522, 450524
+    ]
+  },
+  "4506": {
+    "code": 4506,
+    "name_en": "Phanom Phrai",
+    "name_th": "พนมไพร",
+    "province_code": 45,
+    "subdistricts": [
+      450601, 450602, 450603, 450604, 450605, 450606, 450607, 450611, 450612, 450613, 450614,
+      450615, 450617
+    ]
+  },
+  "4507": {
+    "code": 4507,
+    "name_en": "Phon Thong",
+    "name_th": "โพนทอง",
+    "province_code": 45,
+    "subdistricts": [
+      450701, 450702, 450703, 450704, 450705, 450706, 450707, 450708, 450709, 450710, 450711,
+      450712, 450713, 450714
+    ]
+  },
+  "4508": {
+    "code": 4508,
+    "name_en": "Pho Chai",
+    "name_th": "โพธิ์ชัย",
+    "province_code": 45,
+    "subdistricts": [450801, 450802, 450803, 450804, 450805, 450806, 450807, 450808, 450809]
+  },
+  "4509": {
+    "code": 4509,
+    "name_en": "Nong Phok",
+    "name_th": "หนองพอก",
+    "province_code": 45,
+    "subdistricts": [450901, 450902, 450903, 450904, 450905, 450906, 450907, 450908, 450909]
+  },
+  "4510": {
+    "code": 4510,
+    "name_en": "Selaphum",
+    "name_th": "เสลภูมิ",
+    "province_code": 45,
+    "subdistricts": [
+      451001, 451002, 451003, 451004, 451005, 451006, 451007, 451008, 451009, 451010, 451011,
+      451012, 451013, 451014, 451015, 451016, 451017, 451018
+    ]
+  },
+  "4511": {
+    "code": 4511,
+    "name_en": "Suwannaphum",
+    "name_th": "สุวรรณภูมิ",
+    "province_code": 45,
+    "subdistricts": [
+      451101, 451102, 451103, 451104, 451105, 451106, 451107, 451108, 451109, 451110, 451111,
+      451112, 451113, 451114, 451115
+    ]
+  },
+  "4512": {
+    "code": 4512,
+    "name_en": "Mueang Suang",
+    "name_th": "เมืองสรวง",
+    "province_code": 45,
+    "subdistricts": [451201, 451202, 451203, 451204, 451205]
+  },
+  "4513": {
+    "code": 4513,
+    "name_en": "Phon Sai",
+    "name_th": "โพนทราย",
+    "province_code": 45,
+    "subdistricts": [451301, 451302, 451303, 451304, 451305]
+  },
+  "4514": {
+    "code": 4514,
+    "name_en": "At Samat",
+    "name_th": "อาจสามารถ",
+    "province_code": 45,
+    "subdistricts": [451401, 451402, 451403, 451404, 451405, 451406, 451407, 451408, 451409, 451410]
+  },
+  "4515": {
+    "code": 4515,
+    "name_en": "Moei Wadi",
+    "name_th": "เมยวดี",
+    "province_code": 45,
+    "subdistricts": [451501, 451502, 451503, 451504]
+  },
+  "4516": {
+    "code": 4516,
+    "name_en": "Si Somdet",
+    "name_th": "ศรีสมเด็จ",
+    "province_code": 45,
+    "subdistricts": [451601, 451602, 451603, 451604, 451605, 451606, 451607, 451608]
+  },
+  "4517": {
+    "code": 4517,
+    "name_en": "Changhan",
+    "name_th": "จังหาร",
+    "province_code": 45,
+    "subdistricts": [451701, 451702, 451703, 451704, 451705, 451706, 451707, 451708]
+  },
+  "4518": {
+    "code": 4518,
+    "name_en": "Chiang Khwan",
+    "name_th": "เชียงขวัญ",
+    "province_code": 45,
+    "subdistricts": [451801, 451802, 451803, 451804, 451805, 451806]
+  },
+  "4519": {
+    "code": 4519,
+    "name_en": "Nong Hi",
+    "name_th": "หนองฮี",
+    "province_code": 45,
+    "subdistricts": [451901, 451902, 451903, 451904]
+  },
+  "4520": {
+    "code": 4520,
+    "name_en": "Thung Khao Luang",
+    "name_th": "ทุ่งเขาหลวง",
+    "province_code": 45,
+    "subdistricts": [452001, 452002, 452003, 452004, 452005]
+  },
+  "4601": {
+    "code": 4601,
+    "name_en": "Mueang Kalasin",
+    "name_th": "เมืองกาฬสินธุ์",
+    "province_code": 46,
+    "subdistricts": [
+      460101, 460102, 460103, 460104, 460105, 460106, 460107, 460108, 460109, 460111, 460113,
+      460115, 460116, 460117, 460119, 460120, 460121
+    ]
+  },
+  "4602": {
+    "code": 4602,
+    "name_en": "Na Mon",
+    "name_th": "นามน",
+    "province_code": 46,
+    "subdistricts": [460201, 460202, 460203, 460204, 460205]
+  },
+  "4603": {
+    "code": 4603,
+    "name_en": "Kamalasai",
+    "name_th": "กมลาไสย",
+    "province_code": 46,
+    "subdistricts": [460301, 460302, 460303, 460304, 460305, 460308, 460310, 460311]
+  },
+  "4604": {
+    "code": 4604,
+    "name_en": "Rong Kham",
+    "name_th": "ร่องคำ",
+    "province_code": 46,
+    "subdistricts": [460401, 460402, 460403]
+  },
+  "4605": {
+    "code": 4605,
+    "name_en": "Kuchinarai",
+    "name_th": "กุฉินารายณ์",
+    "province_code": 46,
+    "subdistricts": [
+      460501, 460502, 460503, 460504, 460505, 460506, 460507, 460508, 460509, 460510, 460511, 460512
+    ]
+  },
+  "4606": {
+    "code": 4606,
+    "name_en": "Khao Wong",
+    "name_th": "เขาวง",
+    "province_code": 46,
+    "subdistricts": [460601, 460602, 460603, 460606, 460608, 460611]
+  },
+  "4607": {
+    "code": 4607,
+    "name_en": "Yang Talat",
+    "name_th": "ยางตลาด",
+    "province_code": 46,
+    "subdistricts": [
+      460701, 460702, 460703, 460704, 460705, 460706, 460707, 460708, 460709, 460710, 460711,
+      460712, 460713, 460714, 460715
+    ]
+  },
+  "4608": {
+    "code": 4608,
+    "name_en": "Huai Mek",
+    "name_th": "ห้วยเม็ก",
+    "province_code": 46,
+    "subdistricts": [460801, 460802, 460803, 460804, 460805, 460806, 460807, 460808, 460809]
+  },
+  "4609": {
+    "code": 4609,
+    "name_en": "Sahatsakhan",
+    "name_th": "สหัสขันธ์",
+    "province_code": 46,
+    "subdistricts": [460901, 460902, 460903, 460904, 460905, 460906, 460907, 460908]
+  },
+  "4610": {
+    "code": 4610,
+    "name_en": "Kham Muang",
+    "name_th": "คำม่วง",
+    "province_code": 46,
+    "subdistricts": [461001, 461002, 461005, 461006, 461007, 461009]
+  },
+  "4611": {
+    "code": 4611,
+    "name_en": "Tha Khantho",
+    "name_th": "ท่าคันโท",
+    "province_code": 46,
+    "subdistricts": [461101, 461102, 461103, 461104, 461105, 461106]
+  },
+  "4612": {
+    "code": 4612,
+    "name_en": "Nong Kung Si",
+    "name_th": "หนองกุงศรี",
+    "province_code": 46,
+    "subdistricts": [461201, 461202, 461203, 461204, 461205, 461206, 461207, 461208, 461209]
+  },
+  "4613": {
+    "code": 4613,
+    "name_en": "Somdet",
+    "name_th": "สมเด็จ",
+    "province_code": 46,
+    "subdistricts": [461301, 461302, 461303, 461304, 461305, 461306, 461307, 461308]
+  },
+  "4614": {
+    "code": 4614,
+    "name_en": "Huai Phueng",
+    "name_th": "ห้วยผึ้ง",
+    "province_code": 46,
+    "subdistricts": [461401, 461402, 461403, 461404]
+  },
+  "4615": {
+    "code": 4615,
+    "name_en": "Sam Chai",
+    "name_th": "สามชัย",
+    "province_code": 46,
+    "subdistricts": [461501, 461502, 461503, 461504]
+  },
+  "4616": {
+    "code": 4616,
+    "name_en": "Na Khu",
+    "name_th": "นาคู",
+    "province_code": 46,
+    "subdistricts": [461601, 461602, 461603, 461604, 461605]
+  },
+  "4617": {
+    "code": 4617,
+    "name_en": "Don Chan",
+    "name_th": "ดอนจาน",
+    "province_code": 46,
+    "subdistricts": [461701, 461702, 461703, 461704, 461705]
+  },
+  "4618": {
+    "code": 4618,
+    "name_en": "Khong Chai",
+    "name_th": "ฆ้องชัย",
+    "province_code": 46,
+    "subdistricts": [461801, 461802, 461803, 461804, 461805]
+  },
+  "4701": {
+    "code": 4701,
+    "name_en": "Mueang Sakon Nakhon",
+    "name_th": "เมืองสกลนคร",
+    "province_code": 47,
+    "subdistricts": [
+      470101, 470102, 470103, 470104, 470106, 470107, 470109, 470111, 470112, 470113, 470115,
+      470116, 470117, 470118, 470120, 470121
+    ]
+  },
+  "4702": {
+    "code": 4702,
+    "name_en": "Kusuman",
+    "name_th": "กุสุมาลย์",
+    "province_code": 47,
+    "subdistricts": [470201, 470202, 470203, 470204, 470205]
+  },
+  "4703": {
+    "code": 4703,
+    "name_en": "Kut Bak",
+    "name_th": "กุดบาก",
+    "province_code": 47,
+    "subdistricts": [470301, 470303, 470305]
+  },
+  "4704": {
+    "code": 4704,
+    "name_en": "Phanna Nikhom",
+    "name_th": "พรรณานิคม",
+    "province_code": 47,
+    "subdistricts": [470401, 470402, 470403, 470404, 470405, 470406, 470407, 470408, 470409, 470410]
+  },
+  "4705": {
+    "code": 4705,
+    "name_en": "Phanh Khon",
+    "name_th": "พังโคน",
+    "province_code": 47,
+    "subdistricts": [470501, 470502, 470503, 470504, 470505]
+  },
+  "4706": {
+    "code": 4706,
+    "name_en": "Waritchaphum",
+    "name_th": "วาริชภูมิ",
+    "province_code": 47,
+    "subdistricts": [470601, 470602, 470603, 470604, 470605]
+  },
+  "4707": {
+    "code": 4707,
+    "name_en": "Nikhom Nam Un",
+    "name_th": "นิคมน้ำอูน",
+    "province_code": 47,
+    "subdistricts": [470701, 470702, 470703, 470704]
+  },
+  "4708": {
+    "code": 4708,
+    "name_en": "Wanon Niwat",
+    "name_th": "วานรนิวาส",
+    "province_code": 47,
+    "subdistricts": [
+      470801, 470802, 470803, 470804, 470805, 470806, 470807, 470808, 470809, 470810, 470811,
+      470812, 470813, 470814
+    ]
+  },
+  "4709": {
+    "code": 4709,
+    "name_en": "Kham Ta Kla",
+    "name_th": "คำตากล้า",
+    "province_code": 47,
+    "subdistricts": [470901, 470902, 470903, 470904]
+  },
+  "4710": {
+    "code": 4710,
+    "name_en": "Ban Muang",
+    "name_th": "บ้านม่วง",
+    "province_code": 47,
+    "subdistricts": [471001, 471002, 471003, 471004, 471005, 471006, 471007, 471008, 471009]
+  },
+  "4711": {
+    "code": 4711,
+    "name_en": "Akat Amnuai",
+    "name_th": "อากาศอำนวย",
+    "province_code": 47,
+    "subdistricts": [471101, 471102, 471103, 471104, 471105, 471106, 471107, 471108]
+  },
+  "4712": {
+    "code": 4712,
+    "name_en": "Sawang Daen Din",
+    "name_th": "สว่างแดนดิน",
+    "province_code": 47,
+    "subdistricts": [
+      471201, 471203, 471204, 471206, 471207, 471208, 471210, 471211, 471212, 471213, 471214,
+      471215, 471216, 471217, 471220, 471221
+    ]
+  },
+  "4713": {
+    "code": 4713,
+    "name_en": "Song Dao",
+    "name_th": "ส่องดาว",
+    "province_code": 47,
+    "subdistricts": [471301, 471302, 471303, 471304]
+  },
+  "4714": {
+    "code": 4714,
+    "name_en": "Tao Ngoi",
+    "name_th": "เต่างอย",
+    "province_code": 47,
+    "subdistricts": [471401, 471402, 471403, 471404]
+  },
+  "4715": {
+    "code": 4715,
+    "name_en": "Khok Si Suphan",
+    "name_th": "โคกศรีสุพรรณ",
+    "province_code": 47,
+    "subdistricts": [471501, 471502, 471503, 471504]
+  },
+  "4716": {
+    "code": 4716,
+    "name_en": "Charoen Sin",
+    "name_th": "เจริญศิลป์",
+    "province_code": 47,
+    "subdistricts": [471601, 471602, 471603, 471604, 471605]
+  },
+  "4717": {
+    "code": 4717,
+    "name_en": "Phon Na Kaeo",
+    "name_th": "โพนนาแก้ว",
+    "province_code": 47,
+    "subdistricts": [471701, 471702, 471703, 471704, 471705]
+  },
+  "4718": {
+    "code": 4718,
+    "name_en": "Phu Phan",
+    "name_th": "ภูพาน",
+    "province_code": 47,
+    "subdistricts": [471801, 471802, 471803, 471804]
+  },
+  "4801": {
+    "code": 4801,
+    "name_en": "Mueang Nakhon Phanom",
+    "name_th": "เมืองนครพนม",
+    "province_code": 48,
+    "subdistricts": [
+      480101, 480102, 480103, 480104, 480105, 480106, 480107, 480108, 480109, 480110, 480111,
+      480112, 480113, 480114, 480115
+    ]
+  },
+  "4802": {
+    "code": 4802,
+    "name_en": "Pla Pak",
+    "name_th": "ปลาปาก",
+    "province_code": 48,
+    "subdistricts": [480201, 480202, 480203, 480204, 480205, 480206, 480207, 480208]
+  },
+  "4803": {
+    "code": 4803,
+    "name_en": "Tha Uthen",
+    "name_th": "ท่าอุเทน",
+    "province_code": 48,
+    "subdistricts": [480301, 480302, 480303, 480304, 480305, 480306, 480311, 480312, 480314]
+  },
+  "4804": {
+    "code": 4804,
+    "name_en": "Ban Phaeng",
+    "name_th": "บ้านแพง",
+    "province_code": 48,
+    "subdistricts": [480401, 480402, 480403, 480404, 480408, 480409]
+  },
+  "4805": {
+    "code": 4805,
+    "name_en": "That Phanom",
+    "name_th": "ธาตุพนม",
+    "province_code": 48,
+    "subdistricts": [
+      480501, 480502, 480503, 480504, 480505, 480506, 480507, 480508, 480509, 480510, 480511, 480512
+    ]
+  },
+  "4806": {
+    "code": 4806,
+    "name_en": "Renu Nakhon",
+    "name_th": "เรณูนคร",
+    "province_code": 48,
+    "subdistricts": [480601, 480602, 480603, 480604, 480605, 480607, 480608, 480609]
+  },
+  "4807": {
+    "code": 4807,
+    "name_en": "Na Kae",
+    "name_th": "นาแก",
+    "province_code": 48,
+    "subdistricts": [
+      480701, 480702, 480703, 480704, 480705, 480706, 480707, 480708, 480709, 480712, 480713, 480715
+    ]
+  },
+  "4808": {
+    "code": 4808,
+    "name_en": "Si Songkhram",
+    "name_th": "ศรีสงคราม",
+    "province_code": 48,
+    "subdistricts": [480801, 480802, 480803, 480804, 480805, 480806, 480807, 480808, 480809]
+  },
+  "4809": {
+    "code": 4809,
+    "name_en": "Na Wa",
+    "name_th": "นาหว้า",
+    "province_code": 48,
+    "subdistricts": [480901, 480902, 480903, 480904, 480905, 480906]
+  },
+  "4810": {
+    "code": 4810,
+    "name_en": "Phon Sawan",
+    "name_th": "โพนสวรรค์",
+    "province_code": 48,
+    "subdistricts": [481001, 481002, 481003, 481004, 481005, 481006, 481007]
+  },
+  "4811": {
+    "code": 4811,
+    "name_en": "Na Thom",
+    "name_th": "นาทม",
+    "province_code": 48,
+    "subdistricts": [481101, 481102, 481103]
+  },
+  "4812": {
+    "code": 4812,
+    "name_en": "Wang Yang",
+    "name_th": "วังยาง",
+    "province_code": 48,
+    "subdistricts": [481201, 481202, 481203, 481204]
+  },
+  "4901": {
+    "code": 4901,
+    "name_en": "Mueang Mukdahan",
+    "name_th": "เมืองมุกดาหาร",
+    "province_code": 49,
+    "subdistricts": [
+      490101, 490102, 490103, 490104, 490105, 490106, 490107, 490108, 490109, 490110, 490111,
+      490112, 490113
+    ]
+  },
+  "4902": {
+    "code": 4902,
+    "name_en": "Nikhom Kham Soi",
+    "name_th": "นิคมคำสร้อย",
+    "province_code": 49,
+    "subdistricts": [490201, 490202, 490203, 490204, 490205, 490206, 490207]
+  },
+  "4903": {
+    "code": 4903,
+    "name_en": "Don Tan",
+    "name_th": "ดอนตาล",
+    "province_code": 49,
+    "subdistricts": [490301, 490302, 490303, 490304, 490305, 490306, 490307]
+  },
+  "4904": {
+    "code": 4904,
+    "name_en": "Don Tan",
+    "name_th": "ดงหลวง",
+    "province_code": 49,
+    "subdistricts": [490401, 490402, 490403, 490404, 490405, 490406]
+  },
+  "4905": {
+    "code": 4905,
+    "name_en": "Khamcha-I",
+    "name_th": "คำชะอี",
+    "province_code": 49,
+    "subdistricts": [490503, 490504, 490505, 490506, 490507, 490508, 490511, 490512, 490514]
+  },
+  "4906": {
+    "code": 4906,
+    "name_en": "Wan Yai",
+    "name_th": "หว้านใหญ่",
+    "province_code": 49,
+    "subdistricts": [490601, 490602, 490603, 490604, 490605]
+  },
+  "4907": {
+    "code": 4907,
+    "name_en": "Nong Sung",
+    "name_th": "หนองสูง",
+    "province_code": 49,
+    "subdistricts": [490701, 490702, 490703, 490704, 490705, 490706]
+  },
+  "5001": {
+    "code": 5001,
+    "name_en": "Mueang Chiang Mai",
+    "name_th": "เมืองเชียงใหม่",
+    "province_code": 50,
+    "subdistricts": [
+      500101, 500102, 500103, 500104, 500105, 500106, 500107, 500108, 500109, 500110, 500111,
+      500112, 500113, 500114, 500115, 500116
+    ]
+  },
+  "5002": {
+    "code": 5002,
+    "name_en": "Chom Thong",
+    "name_th": "จอมทอง",
+    "province_code": 50,
+    "subdistricts": [500203, 500204, 500205, 500206, 500207, 500209]
+  },
+  "5003": {
+    "code": 5003,
+    "name_en": "Mae Chaem",
+    "name_th": "แม่แจ่ม",
+    "province_code": 50,
+    "subdistricts": [500301, 500302, 500303, 500304, 500305, 500307, 500308]
+  },
+  "5004": {
+    "code": 5004,
+    "name_en": "Chiang Dao",
+    "name_th": "เชียงดาว",
+    "province_code": 50,
+    "subdistricts": [500401, 500402, 500403, 500404, 500405, 500406, 500407]
+  },
+  "5005": {
+    "code": 5005,
+    "name_en": "Doi Saket",
+    "name_th": "ดอยสะเก็ด",
+    "province_code": 50,
+    "subdistricts": [
+      500501, 500502, 500503, 500504, 500505, 500506, 500507, 500508, 500509, 500510, 500511,
+      500512, 500513, 500514
+    ]
+  },
+  "5006": {
+    "code": 5006,
+    "name_en": "Mae Taeng",
+    "name_th": "แม่แตง",
+    "province_code": 50,
+    "subdistricts": [
+      500601, 500602, 500603, 500604, 500605, 500606, 500607, 500608, 500609, 500610, 500611,
+      500612, 500613
+    ]
+  },
+  "5007": {
+    "code": 5007,
+    "name_en": "Mae Rim",
+    "name_th": "แม่ริม",
+    "province_code": 50,
+    "subdistricts": [
+      500701, 500702, 500703, 500704, 500705, 500706, 500707, 500708, 500709, 500710, 500711
+    ]
+  },
+  "5008": {
+    "code": 5008,
+    "name_en": "Samoeng",
+    "name_th": "สะเมิง",
+    "province_code": 50,
+    "subdistricts": [500801, 500802, 500803, 500804, 500805]
+  },
+  "5009": {
+    "code": 5009,
+    "name_en": "Fang",
+    "name_th": "ฝาง",
+    "province_code": 50,
+    "subdistricts": [500901, 500903, 500904, 500905, 500906, 500910, 500911, 500912]
+  },
+  "5010": {
+    "code": 5010,
+    "name_en": "Mae Ai",
+    "name_th": "แม่อาย",
+    "province_code": 50,
+    "subdistricts": [501001, 501002, 501003, 501004, 501005, 501006, 501007]
+  },
+  "5011": {
+    "code": 5011,
+    "name_en": "Phrao",
+    "name_th": "พร้าว",
+    "province_code": 50,
+    "subdistricts": [
+      501101, 501102, 501103, 501104, 501105, 501106, 501107, 501108, 501109, 501110, 501111
+    ]
+  },
+  "5012": {
+    "code": 5012,
+    "name_en": "San Pa Tong",
+    "name_th": "สันป่าตอง",
+    "province_code": 50,
+    "subdistricts": [
+      501201, 501202, 501203, 501204, 501205, 501206, 501207, 501208, 501210, 501214, 501215
+    ]
+  },
+  "5013": {
+    "code": 5013,
+    "name_en": "San Kamphaeng",
+    "name_th": "สันกำแพง",
+    "province_code": 50,
+    "subdistricts": [501301, 501302, 501303, 501304, 501305, 501306, 501310, 501311, 501312, 501313]
+  },
+  "5014": {
+    "code": 5014,
+    "name_en": "San Sai",
+    "name_th": "สันทราย",
+    "province_code": 50,
+    "subdistricts": [
+      501401, 501402, 501403, 501404, 501405, 501406, 501407, 501408, 501409, 501410, 501411, 501412
+    ]
+  },
+  "5015": {
+    "code": 5015,
+    "name_en": "Hang Dong",
+    "name_th": "หางดง",
+    "province_code": 50,
+    "subdistricts": [
+      501501, 501502, 501503, 501504, 501505, 501506, 501507, 501508, 501509, 501510, 501511
+    ]
+  },
+  "5016": {
+    "code": 5016,
+    "name_en": "Hot",
+    "name_th": "ฮอด",
+    "province_code": 50,
+    "subdistricts": [501601, 501602, 501603, 501604, 501605, 501606]
+  },
+  "5017": {
+    "code": 5017,
+    "name_en": "Doi Tao",
+    "name_th": "ดอยเต่า",
+    "province_code": 50,
+    "subdistricts": [501701, 501702, 501703, 501704, 501705, 501706]
+  },
+  "5018": {
+    "code": 5018,
+    "name_en": "Omkoi",
+    "name_th": "อมก๋อย",
+    "province_code": 50,
+    "subdistricts": [501801, 501802, 501803, 501804, 501805, 501806]
+  },
+  "5019": {
+    "code": 5019,
+    "name_en": "Saraphi",
+    "name_th": "สารภี",
+    "province_code": 50,
+    "subdistricts": [
+      501901, 501902, 501903, 501904, 501905, 501906, 501907, 501908, 501909, 501910, 501911, 501912
+    ]
+  },
+  "5020": {
+    "code": 5020,
+    "name_en": "Wiang Haeng",
+    "name_th": "เวียงแหง",
+    "province_code": 50,
+    "subdistricts": [502001, 502002, 502003]
+  },
+  "5021": {
+    "code": 5021,
+    "name_en": "Chai Prakan",
+    "name_th": "ไชยปราการ",
+    "province_code": 50,
+    "subdistricts": [502101, 502102, 502103, 502104]
+  },
+  "5022": {
+    "code": 5022,
+    "name_en": "Mae Wang",
+    "name_th": "แม่วาง",
+    "province_code": 50,
+    "subdistricts": [502201, 502202, 502203, 502204, 502205]
+  },
+  "5023": {
+    "code": 5023,
+    "name_en": "Mae On",
+    "name_th": "แม่ออน",
+    "province_code": 50,
+    "subdistricts": [502301, 502302, 502303, 502304, 502305, 502306]
+  },
+  "5024": {
+    "code": 5024,
+    "name_en": "Doi Lo",
+    "name_th": "ดอยหล่อ",
+    "province_code": 50,
+    "subdistricts": [502401, 502402, 502403, 502404]
+  },
+  "5025": {
+    "code": 5025,
+    "name_en": "Kanlayaniwatthana",
+    "name_th": "กัลยาณิวัฒนา",
+    "province_code": 50,
+    "subdistricts": [502501, 502502, 502503]
+  },
+  "5101": {
+    "code": 5101,
+    "name_en": "Mueang Lamphun",
+    "name_th": "เมืองลำพูน",
+    "province_code": 51,
+    "subdistricts": [
+      510101, 510102, 510103, 510104, 510105, 510106, 510107, 510108, 510109, 510110, 510111,
+      510112, 510113, 510116, 510117
+    ]
+  },
+  "5102": {
+    "code": 5102,
+    "name_en": "Mae Tha",
+    "name_th": "แม่ทา",
+    "province_code": 51,
+    "subdistricts": [510201, 510202, 510203, 510204, 510205, 510206]
+  },
+  "5103": {
+    "code": 5103,
+    "name_en": "Ban Hong",
+    "name_th": "บ้านโฮ่ง",
+    "province_code": 51,
+    "subdistricts": [510301, 510302, 510303, 510304, 510305]
+  },
+  "5104": {
+    "code": 5104,
+    "name_en": "Li",
+    "name_th": "ลี้",
+    "province_code": 51,
+    "subdistricts": [510401, 510402, 510403, 510404, 510405, 510406, 510408, 510409]
+  },
+  "5105": {
+    "code": 5105,
+    "name_en": "Thung Hua Chang",
+    "name_th": "ทุ่งหัวช้าง",
+    "province_code": 51,
+    "subdistricts": [510501, 510502, 510503]
+  },
+  "5106": {
+    "code": 5106,
+    "name_en": "Pa Sang",
+    "name_th": "ป่าซาง",
+    "province_code": 51,
+    "subdistricts": [510601, 510602, 510603, 510604, 510605, 510606, 510607, 510608, 510611]
+  },
+  "5107": {
+    "code": 5107,
+    "name_en": "Ban Thi",
+    "name_th": "บ้านธิ",
+    "province_code": 51,
+    "subdistricts": [510701, 510702]
+  },
+  "5108": {
+    "code": 5108,
+    "name_en": "Wiang Nong Long",
+    "name_th": "เวียงหนองล่อง",
+    "province_code": 51,
+    "subdistricts": [510801, 510802, 510803]
+  },
+  "5201": {
+    "code": 5201,
+    "name_en": "Mueang Lampang",
+    "name_th": "เมืองลำปาง",
+    "province_code": 52,
+    "subdistricts": [
+      520101, 520102, 520103, 520104, 520105, 520106, 520107, 520108, 520109, 520110, 520111,
+      520112, 520113, 520114, 520115, 520116, 520117, 520118, 520119
+    ]
+  },
+  "5202": {
+    "code": 5202,
+    "name_en": "Mae Mo",
+    "name_th": "แม่เมาะ",
+    "province_code": 52,
+    "subdistricts": [520201, 520202, 520203, 520204, 520205]
+  },
+  "5203": {
+    "code": 5203,
+    "name_en": "Ko Kha",
+    "name_th": "เกาะคา",
+    "province_code": 52,
+    "subdistricts": [520301, 520302, 520303, 520304, 520305, 520306, 520307, 520308, 520309]
+  },
+  "5204": {
+    "code": 5204,
+    "name_en": "Soem Ngam",
+    "name_th": "เสริมงาม",
+    "province_code": 52,
+    "subdistricts": [520401, 520402, 520403, 520404]
+  },
+  "5205": {
+    "code": 5205,
+    "name_en": "Ngao",
+    "name_th": "งาว",
+    "province_code": 52,
+    "subdistricts": [520501, 520502, 520503, 520504, 520505, 520506, 520507, 520508, 520509, 520510]
+  },
+  "5206": {
+    "code": 5206,
+    "name_en": "Chae Hom",
+    "name_th": "แจ้ห่ม",
+    "province_code": 52,
+    "subdistricts": [520601, 520602, 520603, 520604, 520605, 520606, 520607]
+  },
+  "5207": {
+    "code": 5207,
+    "name_en": "Wang Nuea",
+    "name_th": "วังเหนือ",
+    "province_code": 52,
+    "subdistricts": [520701, 520702, 520703, 520704, 520705, 520706, 520707, 520708]
+  },
+  "5208": {
+    "code": 5208,
+    "name_en": "Thoen",
+    "name_th": "เถิน",
+    "province_code": 52,
+    "subdistricts": [520801, 520802, 520803, 520804, 520805, 520806, 520807, 520808]
+  },
+  "5209": {
+    "code": 5209,
+    "name_en": "Mae Phrik",
+    "name_th": "แม่พริก",
+    "province_code": 52,
+    "subdistricts": [520901, 520902, 520903, 520904]
+  },
+  "5210": {
+    "code": 5210,
+    "name_en": "Mae Tha",
+    "name_th": "แม่ทะ",
+    "province_code": 52,
+    "subdistricts": [521001, 521002, 521003, 521004, 521005, 521006, 521007, 521008, 521010, 521011]
+  },
+  "5211": {
+    "code": 5211,
+    "name_en": "Sop Prap",
+    "name_th": "สบปราบ",
+    "province_code": 52,
+    "subdistricts": [521101, 521102, 521103, 521104]
+  },
+  "5212": {
+    "code": 5212,
+    "name_en": "Hang Chat",
+    "name_th": "ห้างฉัตร",
+    "province_code": 52,
+    "subdistricts": [521201, 521202, 521203, 521204, 521205, 521206, 521207]
+  },
+  "5213": {
+    "code": 5213,
+    "name_en": "Mueang Pan",
+    "name_th": "เมืองปาน",
+    "province_code": 52,
+    "subdistricts": [521301, 521302, 521303, 521304, 521305]
+  },
+  "5301": {
+    "code": 5301,
+    "name_en": "Mueang Uttaradit",
+    "name_th": "เมืองอุตรดิตถ์",
+    "province_code": 53,
+    "subdistricts": [
+      530101, 530102, 530103, 530104, 530105, 530106, 530107, 530108, 530109, 530110, 530111,
+      530112, 530113, 530114, 530115, 530116, 530117
+    ]
+  },
+  "5302": {
+    "code": 5302,
+    "name_en": "Tron",
+    "name_th": "ตรอน",
+    "province_code": 53,
+    "subdistricts": [530201, 530202, 530203, 530204, 530205]
+  },
+  "5303": {
+    "code": 5303,
+    "name_en": "Tha Pla",
+    "name_th": "ท่าปลา",
+    "province_code": 53,
+    "subdistricts": [530301, 530302, 530303, 530304, 530305, 530307, 530308]
+  },
+  "5304": {
+    "code": 5304,
+    "name_en": "Nam Pat",
+    "name_th": "น้ำปาด",
+    "province_code": 53,
+    "subdistricts": [530401, 530402, 530403, 530404, 530405, 530406, 530407]
+  },
+  "5305": {
+    "code": 5305,
+    "name_en": "Fak Tha",
+    "name_th": "ฟากท่า",
+    "province_code": 53,
+    "subdistricts": [530501, 530502, 530503, 530504]
+  },
+  "5306": {
+    "code": 5306,
+    "name_en": "Ban Khok",
+    "name_th": "บ้านโคก",
+    "province_code": 53,
+    "subdistricts": [530601, 530602, 530603, 530604]
+  },
+  "5307": {
+    "code": 5307,
+    "name_en": "Phichai",
+    "name_th": "พิชัย",
+    "province_code": 53,
+    "subdistricts": [
+      530701, 530702, 530703, 530704, 530705, 530706, 530707, 530708, 530709, 530710, 530711
+    ]
+  },
+  "5308": {
+    "code": 5308,
+    "name_en": "Laplae",
+    "name_th": "ลับแล",
+    "province_code": 53,
+    "subdistricts": [530801, 530802, 530803, 530804, 530805, 530806, 530807, 530808]
+  },
+  "5309": {
+    "code": 5309,
+    "name_en": "Thong Saen Khan",
+    "name_th": "ทองแสนขัน",
+    "province_code": 53,
+    "subdistricts": [530901, 530902, 530903, 530904]
+  },
+  "5401": {
+    "code": 5401,
+    "name_en": "Mueang Phrae",
+    "name_th": "เมืองแพร่",
+    "province_code": 54,
+    "subdistricts": [
+      540101, 540102, 540103, 540104, 540105, 540106, 540107, 540108, 540109, 540110, 540111,
+      540112, 540113, 540114, 540115, 540116, 540117, 540118, 540119, 540120
+    ]
+  },
+  "5402": {
+    "code": 5402,
+    "name_en": "Mueang Phrae",
+    "name_th": "ร้องกวาง",
+    "province_code": 54,
+    "subdistricts": [
+      540201, 540204, 540205, 540206, 540207, 540208, 540209, 540210, 540213, 540214, 540215
+    ]
+  },
+  "5403": {
+    "code": 5403,
+    "name_en": "Long",
+    "name_th": "ลอง",
+    "province_code": 54,
+    "subdistricts": [540301, 540302, 540303, 540304, 540305, 540306, 540307, 540308, 540309]
+  },
+  "5404": {
+    "code": 5404,
+    "name_en": "Sung Men",
+    "name_th": "สูงเม่น",
+    "province_code": 54,
+    "subdistricts": [
+      540401, 540402, 540403, 540404, 540405, 540406, 540407, 540408, 540409, 540410, 540411, 540412
+    ]
+  },
+  "5405": {
+    "code": 5405,
+    "name_en": "Den Chai",
+    "name_th": "เด่นชัย",
+    "province_code": 54,
+    "subdistricts": [540501, 540502, 540503, 540504, 540505]
+  },
+  "5406": {
+    "code": 5406,
+    "name_en": "Song",
+    "name_th": "สอง",
+    "province_code": 54,
+    "subdistricts": [540601, 540602, 540603, 540604, 540605, 540606, 540607, 540608]
+  },
+  "5407": {
+    "code": 5407,
+    "name_en": "Wang Chin",
+    "name_th": "วังชิ้น",
+    "province_code": 54,
+    "subdistricts": [540701, 540702, 540703, 540704, 540705, 540706, 540707]
+  },
+  "5408": {
+    "code": 5408,
+    "name_en": "Nong Muang Khai",
+    "name_th": "หนองม่วงไข่",
+    "province_code": 54,
+    "subdistricts": [540801, 540802, 540803, 540804, 540805, 540806]
+  },
+  "5501": {
+    "code": 5501,
+    "name_en": "Mueang Nan",
+    "name_th": "เมืองน่าน",
+    "province_code": 55,
+    "subdistricts": [
+      550101, 550102, 550103, 550104, 550105, 550106, 550107, 550108, 550109, 550116, 550117
+    ]
+  },
+  "5502": {
+    "code": 5502,
+    "name_en": "Mae Charim",
+    "name_th": "แม่จริม",
+    "province_code": 55,
+    "subdistricts": [550202, 550203, 550204, 550205, 550206]
+  },
+  "5503": {
+    "code": 5503,
+    "name_en": "Ban Luang",
+    "name_th": "บ้านหลวง",
+    "province_code": 55,
+    "subdistricts": [550301, 550302, 550303, 550304]
+  },
+  "5504": {
+    "code": 5504,
+    "name_en": "Na Noi",
+    "name_th": "นาน้อย",
+    "province_code": 55,
+    "subdistricts": [550401, 550402, 550403, 550404, 550405, 550406, 550407]
+  },
+  "5505": {
+    "code": 5505,
+    "name_en": "Pua",
+    "name_th": "ปัว",
+    "province_code": 55,
+    "subdistricts": [
+      550501, 550502, 550503, 550504, 550505, 550506, 550509, 550510, 550511, 550512, 550513, 550514
+    ]
+  },
+  "5506": {
+    "code": 5506,
+    "name_en": "Tha Wang Pha",
+    "name_th": "ท่าวังผา",
+    "province_code": 55,
+    "subdistricts": [550601, 550602, 550603, 550604, 550605, 550606, 550607, 550608, 550609, 550610]
+  },
+  "5507": {
+    "code": 5507,
+    "name_en": "Wiang Sa",
+    "name_th": "เวียงสา",
+    "province_code": 55,
+    "subdistricts": [
+      550701, 550702, 550703, 550704, 550705, 550706, 550707, 550708, 550709, 550710, 550711,
+      550712, 550713, 550714, 550715, 550716, 550717
+    ]
+  },
+  "5508": {
+    "code": 5508,
+    "name_en": "Thung Chang",
+    "name_th": "ทุ่งช้าง",
+    "province_code": 55,
+    "subdistricts": [550801, 550802, 550803, 550804]
+  },
+  "5509": {
+    "code": 5509,
+    "name_en": "Chiang Klang",
+    "name_th": "เชียงกลาง",
+    "province_code": 55,
+    "subdistricts": [550901, 550902, 550903, 550904, 550908, 550909]
+  },
+  "5510": {
+    "code": 5510,
+    "name_en": "Na Muen",
+    "name_th": "นาหมื่น",
+    "province_code": 55,
+    "subdistricts": [551001, 551002, 551003, 551004]
+  },
+  "5511": {
+    "code": 5511,
+    "name_en": "Santi Suk",
+    "name_th": "สันติสุข",
+    "province_code": 55,
+    "subdistricts": [551101, 551102, 551103]
+  },
+  "5512": {
+    "code": 5512,
+    "name_en": "Bo Kluea",
+    "name_th": "บ่อเกลือ",
+    "province_code": 55,
+    "subdistricts": [551201, 551202, 551204, 551205]
+  },
+  "5513": {
+    "code": 5513,
+    "name_en": "Song Khwae",
+    "name_th": "สองแคว",
+    "province_code": 55,
+    "subdistricts": [551301, 551302, 551303]
+  },
+  "5514": {
+    "code": 5514,
+    "name_en": "Phu Phiang",
+    "name_th": "ภูเพียง",
+    "province_code": 55,
+    "subdistricts": [551401, 551402, 551403, 551404, 551405, 551406, 551407]
+  },
+  "5515": {
+    "code": 5515,
+    "name_en": "Chaloem Phra Kiet",
+    "name_th": "เฉลิมพระเกียรติ",
+    "province_code": 55,
+    "subdistricts": [551501, 551502]
+  },
+  "5601": {
+    "code": 5601,
+    "name_en": "Mueang Phayao",
+    "name_th": "เมืองพะเยา",
+    "province_code": 56,
+    "subdistricts": [
+      560101, 560102, 560104, 560105, 560106, 560107, 560108, 560110, 560111, 560112, 560113,
+      560114, 560115, 560116, 560118
+    ]
+  },
+  "5602": {
+    "code": 5602,
+    "name_en": "Chun",
+    "name_th": "จุน",
+    "province_code": 56,
+    "subdistricts": [560201, 560202, 560203, 560204, 560205, 560206, 560207]
+  },
+  "5603": {
+    "code": 5603,
+    "name_en": "Chiang Kham",
+    "name_th": "เชียงคำ",
+    "province_code": 56,
+    "subdistricts": [560301, 560306, 560307, 560308, 560309, 560310, 560311, 560312, 560313, 560314]
+  },
+  "5604": {
+    "code": 5604,
+    "name_en": "Chiang Muan",
+    "name_th": "เชียงม่วน",
+    "province_code": 56,
+    "subdistricts": [560401, 560402, 560403]
+  },
+  "5605": {
+    "code": 5605,
+    "name_en": "Dok Khamtai",
+    "name_th": "ดอกคำใต้",
+    "province_code": 56,
+    "subdistricts": [
+      560501, 560502, 560503, 560504, 560505, 560506, 560507, 560508, 560509, 560510, 560511, 560512
+    ]
+  },
+  "5606": {
+    "code": 5606,
+    "name_en": "Pong",
+    "name_th": "ปง",
+    "province_code": 56,
+    "subdistricts": [560601, 560602, 560603, 560604, 560605, 560606, 560607]
+  },
+  "5607": {
+    "code": 5607,
+    "name_en": "Mae Chai",
+    "name_th": "แม่ใจ",
+    "province_code": 56,
+    "subdistricts": [560701, 560702, 560703, 560704, 560705, 560706]
+  },
+  "5608": {
+    "code": 5608,
+    "name_en": "Phu Sang",
+    "name_th": "ภูซาง",
+    "province_code": 56,
+    "subdistricts": [560801, 560802, 560803, 560804, 560805]
+  },
+  "5609": {
+    "code": 5609,
+    "name_en": "Phu Kamyao",
+    "name_th": "ภูกามยาว",
+    "province_code": 56,
+    "subdistricts": [560901, 560902, 560903]
+  },
+  "5701": {
+    "code": 5701,
+    "name_en": "Mueang Chiang Rai",
+    "name_th": "เมืองเชียงราย",
+    "province_code": 57,
+    "subdistricts": [
+      570101, 570102, 570103, 570104, 570105, 570106, 570107, 570111, 570112, 570113, 570114,
+      570115, 570116, 570118, 570120, 570121
+    ]
+  },
+  "5702": {
+    "code": 5702,
+    "name_en": "Wiang Chai",
+    "name_th": "เวียงชัย",
+    "province_code": 57,
+    "subdistricts": [570202, 570203, 570204, 570206, 570208]
+  },
+  "5703": {
+    "code": 5703,
+    "name_en": "Chiang Khong",
+    "name_th": "เชียงของ",
+    "province_code": 57,
+    "subdistricts": [570301, 570302, 570303, 570304, 570305, 570308, 570310]
+  },
+  "5704": {
+    "code": 5704,
+    "name_en": "Thoeng",
+    "name_th": "เทิง",
+    "province_code": 57,
+    "subdistricts": [570401, 570402, 570403, 570404, 570405, 570409, 570410, 570411, 570412, 570413]
+  },
+  "5705": {
+    "code": 5705,
+    "name_en": "Phan",
+    "name_th": "พาน",
+    "province_code": 57,
+    "subdistricts": [
+      570501, 570502, 570503, 570504, 570505, 570506, 570507, 570508, 570509, 570510, 570511,
+      570512, 570513, 570514, 570515
+    ]
+  },
+  "5706": {
+    "code": 5706,
+    "name_en": "Pa Daet",
+    "name_th": "ป่าแดด",
+    "province_code": 57,
+    "subdistricts": [570601, 570602, 570603, 570605, 570606]
+  },
+  "5707": {
+    "code": 5707,
+    "name_en": "Mae Chan",
+    "name_th": "แม่จัน",
+    "province_code": 57,
+    "subdistricts": [
+      570701, 570702, 570703, 570704, 570705, 570706, 570708, 570710, 570711, 570712, 570713
+    ]
+  },
+  "5708": {
+    "code": 5708,
+    "name_en": "Chiang Saen",
+    "name_th": "เชียงแสน",
+    "province_code": 57,
+    "subdistricts": [570801, 570802, 570803, 570804, 570805, 570806]
+  },
+  "5709": {
+    "code": 5709,
+    "name_en": "Mae Sai",
+    "name_th": "แม่สาย",
+    "province_code": 57,
+    "subdistricts": [570901, 570902, 570903, 570904, 570905, 570906, 570908, 570909]
+  },
+  "5710": {
+    "code": 5710,
+    "name_en": "Mae Suai",
+    "name_th": "แม่สรวย",
+    "province_code": 57,
+    "subdistricts": [571001, 571002, 571003, 571004, 571005, 571006, 571007]
+  },
+  "5711": {
+    "code": 5711,
+    "name_en": "Wiang Pa Pao",
+    "name_th": "เวียงป่าเป้า",
+    "province_code": 57,
+    "subdistricts": [571101, 571102, 571103, 571104, 571105, 571106, 571107]
+  },
+  "5712": {
+    "code": 5712,
+    "name_en": "Phaya Mengrai",
+    "name_th": "พญาเม็งราย",
+    "province_code": 57,
+    "subdistricts": [571201, 571202, 571203, 571204, 571205]
+  },
+  "5713": {
+    "code": 5713,
+    "name_en": "Wiang Kaen",
+    "name_th": "เวียงแก่น",
+    "province_code": 57,
+    "subdistricts": [571301, 571302, 571303, 571304]
+  },
+  "5714": {
+    "code": 5714,
+    "name_en": "Khun Tan",
+    "name_th": "ขุนตาล",
+    "province_code": 57,
+    "subdistricts": [571401, 571402, 571403]
+  },
+  "5715": {
+    "code": 5715,
+    "name_en": "Mae Fa Luang",
+    "name_th": "แม่ฟ้าหลวง",
+    "province_code": 57,
+    "subdistricts": [571501, 571502, 571503, 571504]
+  },
+  "5716": {
+    "code": 5716,
+    "name_en": "Mae Lao",
+    "name_th": "แม่ลาว",
+    "province_code": 57,
+    "subdistricts": [571601, 571602, 571603, 571604, 571605]
+  },
+  "5717": {
+    "code": 5717,
+    "name_en": "Wiang Chiang Rung",
+    "name_th": "เวียงเชียงรุ้ง",
+    "province_code": 57,
+    "subdistricts": [571701, 571702, 571703]
+  },
+  "5718": {
+    "code": 5718,
+    "name_en": "Doi Luang",
+    "name_th": "ดอยหลวง",
+    "province_code": 57,
+    "subdistricts": [571801, 571802, 571803]
+  },
+  "5801": {
+    "code": 5801,
+    "name_en": "Mueang Mae Hong Son",
+    "name_th": "เมืองแม่ฮ่องสอน",
+    "province_code": 58,
+    "subdistricts": [580101, 580102, 580103, 580104, 580105, 580106, 580109]
+  },
+  "5802": {
+    "code": 5802,
+    "name_en": "Khun Yuam",
+    "name_th": "ขุนยวม",
+    "province_code": 58,
+    "subdistricts": [580201, 580202, 580203, 580204, 580205, 580206]
+  },
+  "5803": {
+    "code": 5803,
+    "name_en": "Pai",
+    "name_th": "ปาย",
+    "province_code": 58,
+    "subdistricts": [580301, 580302, 580303, 580304, 580305, 580306, 580307]
+  },
+  "5804": {
+    "code": 5804,
+    "name_en": "Mae Sariang",
+    "name_th": "แม่สะเรียง",
+    "province_code": 58,
+    "subdistricts": [580401, 580402, 580403, 580404, 580405, 580406, 580408]
+  },
+  "5805": {
+    "code": 5805,
+    "name_en": "Mae La Noi",
+    "name_th": "แม่ลาน้อย",
+    "province_code": 58,
+    "subdistricts": [580501, 580502, 580503, 580504, 580505, 580506, 580507, 580508]
+  },
+  "5806": {
+    "code": 5806,
+    "name_en": "Sop Moei",
+    "name_th": "สบเมย",
+    "province_code": 58,
+    "subdistricts": [580601, 580602, 580603, 580604, 580605, 580606]
+  },
+  "5807": {
+    "code": 5807,
+    "name_en": "Pang Mapha",
+    "name_th": "ปางมะผ้า",
+    "province_code": 58,
+    "subdistricts": [580701, 580702, 580703, 580704]
+  },
+  "6001": {
+    "code": 6001,
+    "name_en": "Mueang Nakhon Sawan",
+    "name_th": "เมืองนครสวรรค์",
+    "province_code": 60,
+    "subdistricts": [
+      600101, 600102, 600103, 600104, 600105, 600106, 600107, 600108, 600109, 600110, 600111,
+      600112, 600113, 600114, 600115, 600116, 600117
+    ]
+  },
+  "6002": {
+    "code": 6002,
+    "name_en": "Krok Phra",
+    "name_th": "โกรกพระ",
+    "province_code": 60,
+    "subdistricts": [600201, 600202, 600203, 600204, 600205, 600206, 600207, 600208, 600209]
+  },
+  "6003": {
+    "code": 6003,
+    "name_en": "Chum Saeng",
+    "name_th": "ชุมแสง",
+    "province_code": 60,
+    "subdistricts": [
+      600301, 600302, 600303, 600304, 600305, 600306, 600307, 600308, 600309, 600310, 600311, 600312
+    ]
+  },
+  "6004": {
+    "code": 6004,
+    "name_en": "Nong Bua",
+    "name_th": "หนองบัว",
+    "province_code": 60,
+    "subdistricts": [600401, 600402, 600403, 600404, 600405, 600406, 600407, 600408, 600409]
+  },
+  "6005": {
+    "code": 6005,
+    "name_en": "Banphot Phisai",
+    "name_th": "บรรพตพิสัย",
+    "province_code": 60,
+    "subdistricts": [
+      600501, 600502, 600503, 600504, 600505, 600506, 600507, 600508, 600509, 600510, 600511,
+      600512, 600513
+    ]
+  },
+  "6006": {
+    "code": 6006,
+    "name_en": "Kao Liao",
+    "name_th": "เก้าเลี้ยว",
+    "province_code": 60,
+    "subdistricts": [600601, 600602, 600603, 600604, 600605]
+  },
+  "6007": {
+    "code": 6007,
+    "name_en": "Takhli",
+    "name_th": "ตาคลี",
+    "province_code": 60,
+    "subdistricts": [600701, 600702, 600703, 600704, 600705, 600706, 600707, 600708, 600709, 600710]
+  },
+  "6008": {
+    "code": 6008,
+    "name_en": "Tha Tako",
+    "name_th": "ท่าตะโก",
+    "province_code": 60,
+    "subdistricts": [600801, 600802, 600803, 600804, 600805, 600806, 600807, 600808, 600809, 600810]
+  },
+  "6009": {
+    "code": 6009,
+    "name_en": "Phaisali",
+    "name_th": "ไพศาลี",
+    "province_code": 60,
+    "subdistricts": [600901, 600902, 600903, 600904, 600905, 600906, 600907, 600908]
+  },
+  "6010": {
+    "code": 6010,
+    "name_en": "Phayuha Hkiri",
+    "name_th": "พยุหะคีรี",
+    "province_code": 60,
+    "subdistricts": [
+      601001, 601002, 601003, 601004, 601005, 601006, 601007, 601008, 601009, 601010, 601011
+    ]
+  },
+  "6011": {
+    "code": 6011,
+    "name_en": "Lat Yao",
+    "name_th": "ลาดยาว",
+    "province_code": 60,
+    "subdistricts": [
+      601101, 601102, 601103, 601104, 601105, 601106, 601107, 601108, 601109, 601110, 601116, 601117
+    ]
+  },
+  "6012": {
+    "code": 6012,
+    "name_en": "Tak Fa",
+    "name_th": "ตากฟ้า",
+    "province_code": 60,
+    "subdistricts": [601201, 601202, 601203, 601204, 601205, 601206, 601207]
+  },
+  "6013": {
+    "code": 6013,
+    "name_en": "Mae Wong",
+    "name_th": "แม่วงก์",
+    "province_code": 60,
+    "subdistricts": [601301, 601303, 601304, 601305]
+  },
+  "6014": {
+    "code": 6014,
+    "name_en": "Mae Pern",
+    "name_th": "แม่เปิน",
+    "province_code": 60,
+    "subdistricts": [601401]
+  },
+  "6015": {
+    "code": 6015,
+    "name_en": "Chum Ta Bong",
+    "name_th": "ชุมตาบง",
+    "province_code": 60,
+    "subdistricts": [601501, 601502]
+  },
+  "6101": {
+    "code": 6101,
+    "name_en": "Mueang Uthai Thani",
+    "name_th": "เมืองอุทัยธานี",
+    "province_code": 61,
+    "subdistricts": [
+      610101, 610102, 610103, 610104, 610105, 610106, 610107, 610108, 610109, 610110, 610111,
+      610112, 610113, 610114
+    ]
+  },
+  "6102": {
+    "code": 6102,
+    "name_en": "Thap Than",
+    "name_th": "ทัพทัน",
+    "province_code": 61,
+    "subdistricts": [610201, 610202, 610203, 610204, 610205, 610206, 610207, 610208, 610209, 610210]
+  },
+  "6103": {
+    "code": 6103,
+    "name_en": "Sawang Arom",
+    "name_th": "สว่างอารมณ์",
+    "province_code": 61,
+    "subdistricts": [610301, 610302, 610303, 610304, 610305]
+  },
+  "6104": {
+    "code": 6104,
+    "name_en": "Nong Chang",
+    "name_th": "หนองฉาง",
+    "province_code": 61,
+    "subdistricts": [610401, 610402, 610403, 610404, 610405, 610406, 610407, 610408, 610409, 610410]
+  },
+  "6105": {
+    "code": 6105,
+    "name_en": "Nong Khayang",
+    "name_th": "หนองขาหย่าง",
+    "province_code": 61,
+    "subdistricts": [610501, 610502, 610503, 610504, 610505, 610506, 610507, 610508, 610509]
+  },
+  "6106": {
+    "code": 6106,
+    "name_en": "Ban Rai",
+    "name_th": "บ้านไร่",
+    "province_code": 61,
+    "subdistricts": [
+      610601, 610602, 610603, 610604, 610605, 610606, 610607, 610609, 610610, 610611, 610612,
+      610613, 610614
+    ]
+  },
+  "6107": {
+    "code": 6107,
+    "name_en": "Lan Sak",
+    "name_th": "ลานสัก",
+    "province_code": 61,
+    "subdistricts": [610701, 610702, 610703, 610704, 610705, 610706]
+  },
+  "6108": {
+    "code": 6108,
+    "name_en": "Huai Khot",
+    "name_th": "ห้วยคต",
+    "province_code": 61,
+    "subdistricts": [610801, 610802, 610803]
+  },
+  "6201": {
+    "code": 6201,
+    "name_en": "Mueang Kamphaeng Phet",
+    "name_th": "เมืองกำแพงเพชร",
+    "province_code": 62,
+    "subdistricts": [
+      620101, 620102, 620103, 620104, 620105, 620106, 620107, 620110, 620111, 620112, 620113,
+      620114, 620115, 620117, 620118, 620119
+    ]
+  },
+  "6202": {
+    "code": 6202,
+    "name_en": "Sai Ngam",
+    "name_th": "ไทรงาม",
+    "province_code": 62,
+    "subdistricts": [620201, 620202, 620203, 620204, 620205, 620206, 620207]
+  },
+  "6203": {
+    "code": 6203,
+    "name_en": "Khlong Lan",
+    "name_th": "คลองลาน",
+    "province_code": 62,
+    "subdistricts": [620301, 620302, 620303, 620304]
+  },
+  "6204": {
+    "code": 6204,
+    "name_en": "Khanu Woralaksaburi",
+    "name_th": "ขาณุวรลักษบุรี",
+    "province_code": 62,
+    "subdistricts": [
+      620403, 620404, 620405, 620406, 620407, 620408, 620409, 620410, 620411, 620412, 620413
+    ]
+  },
+  "6205": {
+    "code": 6205,
+    "name_en": "Khlong Khlung",
+    "name_th": "คลองขลุง",
+    "province_code": 62,
+    "subdistricts": [620501, 620502, 620504, 620505, 620506, 620507, 620508, 620509, 620513, 620516]
+  },
+  "6206": {
+    "code": 6206,
+    "name_en": "Phran Kratai",
+    "name_th": "พรานกระต่าย",
+    "province_code": 62,
+    "subdistricts": [620601, 620602, 620603, 620604, 620605, 620606, 620607, 620608, 620609, 620610]
+  },
+  "6207": {
+    "code": 6207,
+    "name_en": "Lan Krabue",
+    "name_th": "ลานกระบือ",
+    "province_code": 62,
+    "subdistricts": [620701, 620702, 620703, 620704, 620705, 620706, 620707]
+  },
+  "6208": {
+    "code": 6208,
+    "name_en": "Sai Thong Watthana",
+    "name_th": "ทรายทองวัฒนา",
+    "province_code": 62,
+    "subdistricts": [620801, 620802, 620803]
+  },
+  "6209": {
+    "code": 6209,
+    "name_en": "Pang Sila Thong",
+    "name_th": "ปางศิลาทอง",
+    "province_code": 62,
+    "subdistricts": [620901, 620902, 620903]
+  },
+  "6210": {
+    "code": 6210,
+    "name_en": "Bueng Samakkhi",
+    "name_th": "บึงสามัคคี",
+    "province_code": 62,
+    "subdistricts": [621001, 621002, 621003, 621004]
+  },
+  "6211": {
+    "code": 6211,
+    "name_en": "Kosamphi Nakhon",
+    "name_th": "โกสัมพีนคร",
+    "province_code": 62,
+    "subdistricts": [621101, 621102, 621103]
+  },
+  "6301": {
+    "code": 6301,
+    "name_en": "Mueang Tak",
+    "name_th": "เมืองตาก",
+    "province_code": 63,
+    "subdistricts": [
+      630101, 630102, 630103, 630104, 630105, 630106, 630107, 630108, 630109, 630111, 630112,
+      630113, 630114, 630115
+    ]
+  },
+  "6302": {
+    "code": 6302,
+    "name_en": "Ban Tak",
+    "name_th": "บ้านตาก",
+    "province_code": 63,
+    "subdistricts": [630201, 630202, 630203, 630204, 630205, 630206, 630207]
+  },
+  "6303": {
+    "code": 6303,
+    "name_en": "Sam Ngao",
+    "name_th": "สามเงา",
+    "province_code": 63,
+    "subdistricts": [630301, 630302, 630303, 630304, 630305, 630306]
+  },
+  "6304": {
+    "code": 6304,
+    "name_en": "Mae Ramat",
+    "name_th": "แม่ระมาด",
+    "province_code": 63,
+    "subdistricts": [630401, 630402, 630403, 630404, 630405, 630406]
+  },
+  "6305": {
+    "code": 6305,
+    "name_en": "Tha Song Yang",
+    "name_th": "ท่าสองยาง",
+    "province_code": 63,
+    "subdistricts": [630501, 630502, 630503, 630504, 630505, 630506]
+  },
+  "6306": {
+    "code": 6306,
+    "name_en": "Mae Sot",
+    "name_th": "แม่สอด",
+    "province_code": 63,
+    "subdistricts": [630601, 630602, 630603, 630604, 630605, 630606, 630607, 630608, 630609, 630610]
+  },
+  "6307": {
+    "code": 6307,
+    "name_en": "Phop Phra",
+    "name_th": "พบพระ",
+    "province_code": 63,
+    "subdistricts": [630701, 630702, 630703, 630704, 630705]
+  },
+  "6308": {
+    "code": 6308,
+    "name_en": "Um Phang",
+    "name_th": "อุ้มผาง",
+    "province_code": 63,
+    "subdistricts": [630801, 630802, 630803, 630804, 630805, 630806]
+  },
+  "6309": {
+    "code": 6309,
+    "name_en": "Wang Chao",
+    "name_th": "วังเจ้า",
+    "province_code": 63,
+    "subdistricts": [630901, 630902, 630903]
+  },
+  "6401": {
+    "code": 6401,
+    "name_en": "Mueang Sukhothai",
+    "name_th": "เมืองสุโขทัย",
+    "province_code": 64,
+    "subdistricts": [640101, 640102, 640103, 640104, 640105, 640106, 640107, 640108, 640109, 640110]
+  },
+  "6402": {
+    "code": 6402,
+    "name_en": "Ban Dan Lan Hoi",
+    "name_th": "บ้านด่านลานหอย",
+    "province_code": 64,
+    "subdistricts": [640201, 640202, 640203, 640204, 640205, 640206, 640207]
+  },
+  "6403": {
+    "code": 6403,
+    "name_en": "Khiri Mat",
+    "name_th": "คีรีมาศ",
+    "province_code": 64,
+    "subdistricts": [640301, 640302, 640303, 640304, 640305, 640306, 640307, 640308, 640309, 640310]
+  },
+  "6404": {
+    "code": 6404,
+    "name_en": "Kong Krailat",
+    "name_th": "กงไกรลาศ",
+    "province_code": 64,
+    "subdistricts": [
+      640401, 640402, 640403, 640404, 640405, 640406, 640407, 640408, 640409, 640410, 640411
+    ]
+  },
+  "6405": {
+    "code": 6405,
+    "name_en": "Si Satchanalai",
+    "name_th": "ศรีสัชนาลัย",
+    "province_code": 64,
+    "subdistricts": [
+      640501, 640502, 640503, 640504, 640505, 640506, 640507, 640508, 640509, 640510, 640511
+    ]
+  },
+  "6406": {
+    "code": 6406,
+    "name_en": "Si Samrong",
+    "name_th": "ศรีสำโรง",
+    "province_code": 64,
+    "subdistricts": [
+      640601, 640602, 640603, 640604, 640605, 640606, 640607, 640608, 640609, 640610, 640611,
+      640612, 640613
+    ]
+  },
+  "6407": {
+    "code": 6407,
+    "name_en": "Sawankhalok",
+    "name_th": "สวรรคโลก",
+    "province_code": 64,
+    "subdistricts": [
+      640701, 640702, 640703, 640704, 640705, 640706, 640707, 640708, 640709, 640710, 640711,
+      640712, 640713, 640714
+    ]
+  },
+  "6408": {
+    "code": 6408,
+    "name_en": "Si Nakhon",
+    "name_th": "ศรีนคร",
+    "province_code": 64,
+    "subdistricts": [640801, 640802, 640803, 640804, 640805]
+  },
+  "6409": {
+    "code": 6409,
+    "name_en": "Thung Saliam",
+    "name_th": "ทุ่งเสลี่ยม",
+    "province_code": 64,
+    "subdistricts": [640901, 640902, 640903, 640904, 640905]
+  },
+  "6501": {
+    "code": 6501,
+    "name_en": "Mueang Phitsanulok",
+    "name_th": "เมืองพิษณุโลก",
+    "province_code": 65,
+    "subdistricts": [
+      650101, 650102, 650103, 650104, 650105, 650106, 650107, 650108, 650109, 650110, 650111,
+      650112, 650113, 650114, 650115, 650116, 650117, 650118, 650119, 650120
+    ]
+  },
+  "6502": {
+    "code": 6502,
+    "name_en": "Nakhon Thai",
+    "name_th": "นครไทย",
+    "province_code": 65,
+    "subdistricts": [
+      650201, 650202, 650203, 650204, 650205, 650206, 650207, 650208, 650209, 650210, 650211
+    ]
+  },
+  "6503": {
+    "code": 6503,
+    "name_en": "Chat Trakan",
+    "name_th": "ชาติตระการ",
+    "province_code": 65,
+    "subdistricts": [650301, 650302, 650303, 650304, 650305, 650306]
+  },
+  "6504": {
+    "code": 6504,
+    "name_en": "Bang Rakam",
+    "name_th": "บางระกำ",
+    "province_code": 65,
+    "subdistricts": [
+      650401, 650402, 650403, 650404, 650405, 650406, 650407, 650408, 650409, 650410, 650411
+    ]
+  },
+  "6505": {
+    "code": 6505,
+    "name_en": "Bang Krathum",
+    "name_th": "บางกระทุ่ม",
+    "province_code": 65,
+    "subdistricts": [650501, 650502, 650503, 650504, 650505, 650506, 650507, 650508, 650509]
+  },
+  "6506": {
+    "code": 6506,
+    "name_en": "Phrom Phiram",
+    "name_th": "พรหมพิราม",
+    "province_code": 65,
+    "subdistricts": [
+      650601, 650602, 650603, 650604, 650605, 650606, 650607, 650608, 650609, 650610, 650611, 650612
+    ]
+  },
+  "6507": {
+    "code": 6507,
+    "name_en": "Wat Bot",
+    "name_th": "วัดโบสถ์",
+    "province_code": 65,
+    "subdistricts": [650701, 650702, 650703, 650704, 650705, 650706]
+  },
+  "6508": {
+    "code": 6508,
+    "name_en": "Wang Thong",
+    "name_th": "วังทอง",
+    "province_code": 65,
+    "subdistricts": [
+      650801, 650802, 650803, 650804, 650805, 650806, 650807, 650808, 650809, 650810, 650811
+    ]
+  },
+  "6509": {
+    "code": 6509,
+    "name_en": "Noen Maprang",
+    "name_th": "เนินมะปราง",
+    "province_code": 65,
+    "subdistricts": [650901, 650902, 650903, 650904, 650905, 650906, 650907]
+  },
+  "6601": {
+    "code": 6601,
+    "name_en": "Mueang Phichit",
+    "name_th": "เมืองพิจิตร",
+    "province_code": 66,
+    "subdistricts": [
+      660101, 660102, 660103, 660104, 660105, 660106, 660107, 660108, 660109, 660110, 660111,
+      660112, 660113, 660115, 660119, 660120
+    ]
+  },
+  "6602": {
+    "code": 6602,
+    "name_en": "Wang Sai Phun",
+    "name_th": "วังทรายพูน",
+    "province_code": 66,
+    "subdistricts": [660201, 660202, 660203, 660204]
+  },
+  "6603": {
+    "code": 6603,
+    "name_en": "Pho Prathap Chang",
+    "name_th": "โพธิ์ประทับช้าง",
+    "province_code": 66,
+    "subdistricts": [660301, 660302, 660303, 660304, 660305, 660306, 660307]
+  },
+  "6604": {
+    "code": 6604,
+    "name_en": "Taphan Hin",
+    "name_th": "ตะพานหิน",
+    "province_code": 66,
+    "subdistricts": [
+      660401, 660402, 660403, 660404, 660405, 660406, 660407, 660408, 660409, 660410, 660411,
+      660412, 660413
+    ]
+  },
+  "6605": {
+    "code": 6605,
+    "name_en": "Bang Mun Nak",
+    "name_th": "บางมูลนาก",
+    "province_code": 66,
+    "subdistricts": [660501, 660502, 660503, 660504, 660505, 660506, 660507, 660508, 660509, 660514]
+  },
+  "6606": {
+    "code": 6606,
+    "name_en": "Pho Thale",
+    "name_th": "โพทะเล",
+    "province_code": 66,
+    "subdistricts": [
+      660601, 660602, 660603, 660604, 660605, 660606, 660607, 660608, 660611, 660612, 660613
+    ]
+  },
+  "6607": {
+    "code": 6607,
+    "name_en": "Sam Ngam",
+    "name_th": "สามง่าม",
+    "province_code": 66,
+    "subdistricts": [660701, 660702, 660703, 660706, 660707]
+  },
+  "6608": {
+    "code": 6608,
+    "name_en": "Tap Khlo",
+    "name_th": "ทับคล้อ",
+    "province_code": 66,
+    "subdistricts": [660801, 660802, 660803, 660804]
+  },
+  "6609": {
+    "code": 6609,
+    "name_en": "Sak Lek",
+    "name_th": "สากเหล็ก",
+    "province_code": 66,
+    "subdistricts": [660901, 660902, 660903, 660904, 660905]
+  },
+  "6610": {
+    "code": 6610,
+    "name_en": "Bueng Na Rang",
+    "name_th": "บึงนาราง",
+    "province_code": 66,
+    "subdistricts": [661001, 661002, 661003, 661004, 661005]
+  },
+  "6611": {
+    "code": 6611,
+    "name_en": "Dong Charoen",
+    "name_th": "ดงเจริญ",
+    "province_code": 66,
+    "subdistricts": [661101, 661102, 661103, 661104, 661105]
+  },
+  "6612": {
+    "code": 6612,
+    "name_en": "Wachirabarami",
+    "name_th": "วชิรบารมี",
+    "province_code": 66,
+    "subdistricts": [661201, 661202, 661203, 661204]
+  },
+  "6701": {
+    "code": 6701,
+    "name_en": "Mueang Phetchabun",
+    "name_th": "เมืองเพชรบูรณ์",
+    "province_code": 67,
+    "subdistricts": [
+      670101, 670102, 670103, 670104, 670105, 670106, 670107, 670108, 670109, 670110, 670111,
+      670112, 670113, 670114, 670115, 670116, 670117
+    ]
+  },
+  "6702": {
+    "code": 6702,
+    "name_en": "Chon Daen",
+    "name_th": "ชนแดน",
+    "province_code": 67,
+    "subdistricts": [670201, 670202, 670203, 670204, 670205, 670206, 670208, 670209, 670210]
+  },
+  "6703": {
+    "code": 6703,
+    "name_en": "Lom Sak",
+    "name_th": "หล่มสัก",
+    "province_code": 67,
+    "subdistricts": [
+      670301, 670302, 670303, 670304, 670305, 670306, 670307, 670308, 670309, 670310, 670311,
+      670312, 670313, 670314, 670315, 670316, 670317, 670318, 670319, 670320, 670321, 670322, 670323
+    ]
+  },
+  "6704": {
+    "code": 6704,
+    "name_en": "Lom Kao",
+    "name_th": "หล่มเก่า",
+    "province_code": 67,
+    "subdistricts": [670401, 670402, 670403, 670404, 670405, 670406, 670407, 670408, 670409]
+  },
+  "6705": {
+    "code": 6705,
+    "name_en": "Wichian Buri",
+    "name_th": "วิเชียรบุรี",
+    "province_code": 67,
+    "subdistricts": [
+      670501, 670502, 670503, 670504, 670505, 670506, 670507, 670508, 670509, 670510, 670511,
+      670512, 670513, 670514
+    ]
+  },
+  "6706": {
+    "code": 6706,
+    "name_en": "Si Thep",
+    "name_th": "ศรีเทพ",
+    "province_code": 67,
+    "subdistricts": [670601, 670602, 670603, 670604, 670605, 670606, 670607]
+  },
+  "6707": {
+    "code": 6707,
+    "name_en": "Nong Phai",
+    "name_th": "หนองไผ่",
+    "province_code": 67,
+    "subdistricts": [
+      670701, 670702, 670703, 670704, 670705, 670706, 670707, 670708, 670709, 670710, 670711,
+      670712, 670713
+    ]
+  },
+  "6708": {
+    "code": 6708,
+    "name_en": "Bueng Sam Phan",
+    "name_th": "บึงสามพัน",
+    "province_code": 67,
+    "subdistricts": [670801, 670802, 670803, 670804, 670805, 670806, 670807, 670808, 670809]
+  },
+  "6709": {
+    "code": 6709,
+    "name_en": "Nam Nao",
+    "name_th": "น้ำหนาว",
+    "province_code": 67,
+    "subdistricts": [670901, 670902, 670903, 670904]
+  },
+  "6710": {
+    "code": 6710,
+    "name_en": "Wang Pong",
+    "name_th": "วังโป่ง",
+    "province_code": 67,
+    "subdistricts": [671001, 671002, 671003, 671004, 671005]
+  },
+  "6711": {
+    "code": 6711,
+    "name_en": "Khao Kho",
+    "name_th": "เขาค้อ",
+    "province_code": 67,
+    "subdistricts": [671101, 671102, 671103, 671104, 671105, 671106, 671107]
+  },
+  "7001": {
+    "code": 7001,
+    "name_en": "Mueang Ratchaburi",
+    "name_th": "เมืองราชบุรี",
+    "province_code": 70,
+    "subdistricts": [
+      700101, 700102, 700103, 700104, 700105, 700106, 700107, 700108, 700109, 700110, 700111,
+      700112, 700113, 700114, 700115, 700116, 700117, 700118, 700119, 700120, 700121, 700122
+    ]
+  },
+  "7002": {
+    "code": 7002,
+    "name_en": "Chom Bueng",
+    "name_th": "จอมบึง",
+    "province_code": 70,
+    "subdistricts": [700201, 700202, 700203, 700204, 700205, 700206]
+  },
+  "7003": {
+    "code": 7003,
+    "name_en": "Suan Phueng",
+    "name_th": "สวนผึ้ง",
+    "province_code": 70,
+    "subdistricts": [700301, 700302, 700304, 700307]
+  },
+  "7004": {
+    "code": 7004,
+    "name_en": "Damnoen Saduak",
+    "name_th": "ดำเนินสะดวก",
+    "province_code": 70,
+    "subdistricts": [
+      700401, 700402, 700403, 700404, 700405, 700406, 700407, 700408, 700409, 700410, 700411,
+      700412, 700413
+    ]
+  },
+  "7005": {
+    "code": 7005,
+    "name_en": "Ban Pong",
+    "name_th": "บ้านโป่ง",
+    "province_code": 70,
+    "subdistricts": [
+      700501, 700502, 700503, 700504, 700505, 700506, 700507, 700508, 700509, 700510, 700511,
+      700512, 700513, 700514, 700515
+    ]
+  },
+  "7006": {
+    "code": 7006,
+    "name_en": "Bang Phae",
+    "name_th": "บางแพ",
+    "province_code": 70,
+    "subdistricts": [700601, 700602, 700603, 700604, 700605, 700606, 700607]
+  },
+  "7007": {
+    "code": 7007,
+    "name_en": "Photharam",
+    "name_th": "โพธาราม",
+    "province_code": 70,
+    "subdistricts": [
+      700701, 700702, 700703, 700704, 700705, 700706, 700707, 700708, 700709, 700710, 700711,
+      700712, 700713, 700714, 700715, 700716, 700717, 700718, 700719
+    ]
+  },
+  "7008": {
+    "code": 7008,
+    "name_en": "Pak Tho",
+    "name_th": "ปากท่อ",
+    "province_code": 70,
+    "subdistricts": [
+      700801, 700802, 700803, 700804, 700805, 700806, 700807, 700808, 700809, 700810, 700811, 700812
+    ]
+  },
+  "7009": {
+    "code": 7009,
+    "name_en": "Wat Phleng",
+    "name_th": "วัดเพลง",
+    "province_code": 70,
+    "subdistricts": [700901, 700902, 700903]
+  },
+  "7010": {
+    "code": 7010,
+    "name_en": "Ban Kha",
+    "name_th": "บ้านคา",
+    "province_code": 70,
+    "subdistricts": [701001, 701002, 701003]
+  },
+  "7101": {
+    "code": 7101,
+    "name_en": "Mueang Kanchanaburi",
+    "name_th": "เมืองกาญจนบุรี",
+    "province_code": 71,
+    "subdistricts": [
+      710101, 710102, 710103, 710104, 710105, 710106, 710107, 710108, 710109, 710110, 710111,
+      710113, 710116
+    ]
+  },
+  "7102": {
+    "code": 7102,
+    "name_en": "Sai Yok",
+    "name_th": "ไทรโยค",
+    "province_code": 71,
+    "subdistricts": [710201, 710202, 710203, 710204, 710205, 710206, 710207]
+  },
+  "7103": {
+    "code": 7103,
+    "name_en": "Bo Phloi",
+    "name_th": "บ่อพลอย",
+    "province_code": 71,
+    "subdistricts": [710301, 710302, 710303, 710305, 710308, 710309]
+  },
+  "7104": {
+    "code": 7104,
+    "name_en": "Si Sawat",
+    "name_th": "ศรีสวัสดิ์",
+    "province_code": 71,
+    "subdistricts": [710401, 710402, 710403, 710404, 710405, 710406]
+  },
+  "7105": {
+    "code": 7105,
+    "name_en": "Tha Maka",
+    "name_th": "ท่ามะกา",
+    "province_code": 71,
+    "subdistricts": [
+      710501, 710502, 710503, 710504, 710505, 710506, 710507, 710508, 710509, 710510, 710511,
+      710512, 710513, 710514, 710515, 710516, 710517
+    ]
+  },
+  "7106": {
+    "code": 7106,
+    "name_en": "Tha Muang",
+    "name_th": "ท่าม่วง",
+    "province_code": 71,
+    "subdistricts": [
+      710601, 710602, 710603, 710604, 710605, 710606, 710607, 710608, 710609, 710610, 710611,
+      710612, 710613
+    ]
+  },
+  "7107": {
+    "code": 7107,
+    "name_en": "Thong Pha Phum",
+    "name_th": "ทองผาภูมิ",
+    "province_code": 71,
+    "subdistricts": [710701, 710702, 710703, 710704, 710705, 710706, 710707]
+  },
+  "7108": {
+    "code": 7108,
+    "name_en": "Sangkhla Buri",
+    "name_th": "สังขละบุรี",
+    "province_code": 71,
+    "subdistricts": [710801, 710802, 710803]
+  },
+  "7109": {
+    "code": 7109,
+    "name_en": "Phanom Thuan",
+    "name_th": "พนมทวน",
+    "province_code": 71,
+    "subdistricts": [710901, 710902, 710903, 710904, 710905, 710906, 710911, 710912]
+  },
+  "7110": {
+    "code": 7110,
+    "name_en": "Lao Khwan",
+    "name_th": "เลาขวัญ",
+    "province_code": 71,
+    "subdistricts": [711001, 711002, 711003, 711004, 711005, 711006, 711007]
+  },
+  "7111": {
+    "code": 7111,
+    "name_en": "Dan Makham Tia",
+    "name_th": "ด่านมะขามเตี้ย",
+    "province_code": 71,
+    "subdistricts": [711101, 711102, 711103, 711104]
+  },
+  "7112": {
+    "code": 7112,
+    "name_en": "Nong Prue",
+    "name_th": "หนองปรือ",
+    "province_code": 71,
+    "subdistricts": [711201, 711202, 711203]
+  },
+  "7113": {
+    "code": 7113,
+    "name_en": "Huai Krachao",
+    "name_th": "ห้วยกระเจา",
+    "province_code": 71,
+    "subdistricts": [711301, 711302, 711303, 711304]
+  },
+  "7201": {
+    "code": 7201,
+    "name_en": "Mueang Saphan Buri",
+    "name_th": "เมืองสุพรรณบุรี",
+    "province_code": 72,
+    "subdistricts": [
+      720101, 720102, 720103, 720104, 720105, 720106, 720107, 720108, 720109, 720110, 720111,
+      720112, 720113, 720114, 720115, 720116, 720117, 720118, 720119, 720120
+    ]
+  },
+  "7202": {
+    "code": 7202,
+    "name_en": "Doem Bang Nang Buat",
+    "name_th": "เดิมบางนางบวช",
+    "province_code": 72,
+    "subdistricts": [
+      720201, 720202, 720203, 720204, 720205, 720206, 720207, 720208, 720209, 720210, 720211,
+      720212, 720213, 720214
+    ]
+  },
+  "7203": {
+    "code": 7203,
+    "name_en": "Dan Chang",
+    "name_th": "ด่านช้าง",
+    "province_code": 72,
+    "subdistricts": [720301, 720302, 720303, 720304, 720305, 720306, 720307]
+  },
+  "7204": {
+    "code": 7204,
+    "name_en": "Bang Pla Ma",
+    "name_th": "บางปลาม้า",
+    "province_code": 72,
+    "subdistricts": [
+      720401, 720402, 720403, 720404, 720405, 720406, 720407, 720408, 720409, 720410, 720411,
+      720412, 720413, 720414
+    ]
+  },
+  "7205": {
+    "code": 7205,
+    "name_en": "Si Prachan",
+    "name_th": "ศรีประจันต์",
+    "province_code": 72,
+    "subdistricts": [720501, 720502, 720503, 720504, 720505, 720506, 720507, 720508, 720509]
+  },
+  "7206": {
+    "code": 7206,
+    "name_en": "Don Chedi",
+    "name_th": "ดอนเจดีย์",
+    "province_code": 72,
+    "subdistricts": [720601, 720602, 720603, 720604, 720605]
+  },
+  "7207": {
+    "code": 7207,
+    "name_en": "Song Phi Nong",
+    "name_th": "สองพี่น้อง",
+    "province_code": 72,
+    "subdistricts": [
+      720701, 720702, 720703, 720704, 720705, 720706, 720707, 720708, 720709, 720710, 720711,
+      720712, 720713, 720714, 720715
+    ]
+  },
+  "7208": {
+    "code": 7208,
+    "name_en": "Sam Chuk",
+    "name_th": "สามชุก",
+    "province_code": 72,
+    "subdistricts": [720801, 720802, 720803, 720804, 720805, 720806, 720807]
+  },
+  "7209": {
+    "code": 7209,
+    "name_en": "U Thong",
+    "name_th": "อู่ทอง",
+    "province_code": 72,
+    "subdistricts": [
+      720901, 720902, 720903, 720904, 720905, 720906, 720907, 720908, 720909, 720910, 720911,
+      720912, 720913
+    ]
+  },
+  "7210": {
+    "code": 7210,
+    "name_en": "Nong Ya Sai",
+    "name_th": "หนองหญ้าไซ",
+    "province_code": 72,
+    "subdistricts": [721001, 721002, 721003, 721004, 721005, 721006]
+  },
+  "7301": {
+    "code": 7301,
+    "name_en": "Mueang Nakhon Pathom",
+    "name_th": "เมืองนครปฐม",
+    "province_code": 73,
+    "subdistricts": [
+      730101, 730102, 730103, 730104, 730105, 730106, 730107, 730108, 730109, 730110, 730111,
+      730112, 730113, 730114, 730115, 730116, 730117, 730118, 730119, 730120, 730121, 730122,
+      730123, 730124, 730125
+    ]
+  },
+  "7302": {
+    "code": 7302,
+    "name_en": "Kamphaeng Saen",
+    "name_th": "กำแพงแสน",
+    "province_code": 73,
+    "subdistricts": [
+      730201, 730202, 730203, 730204, 730205, 730206, 730207, 730208, 730209, 730210, 730211,
+      730212, 730213, 730214, 730215
+    ]
+  },
+  "7303": {
+    "code": 7303,
+    "name_en": "Nakhon Chai Si",
+    "name_th": "นครชัยศรี",
+    "province_code": 73,
+    "subdistricts": [
+      730301, 730302, 730303, 730304, 730305, 730306, 730307, 730308, 730309, 730310, 730311,
+      730312, 730313, 730314, 730315, 730316, 730317, 730318, 730319, 730320, 730321, 730322,
+      730323, 730324
+    ]
+  },
+  "7304": {
+    "code": 7304,
+    "name_en": "Don Tum",
+    "name_th": "ดอนตูม",
+    "province_code": 73,
+    "subdistricts": [730401, 730402, 730403, 730404, 730405, 730406, 730407, 730408]
+  },
+  "7305": {
+    "code": 7305,
+    "name_en": "Bang Len",
+    "name_th": "บางเลน",
+    "province_code": 73,
+    "subdistricts": [
+      730501, 730502, 730503, 730504, 730505, 730506, 730507, 730508, 730509, 730510, 730511,
+      730512, 730513, 730514, 730515
+    ]
+  },
+  "7306": {
+    "code": 7306,
+    "name_en": "Sam Phran",
+    "name_th": "สามพราน",
+    "province_code": 73,
+    "subdistricts": [
+      730601, 730602, 730603, 730604, 730605, 730606, 730607, 730608, 730609, 730610, 730611,
+      730612, 730613, 730614, 730615, 730616
+    ]
+  },
+  "7307": {
+    "code": 7307,
+    "name_en": "Phutthamonthon",
+    "name_th": "พุทธมณฑล",
+    "province_code": 73,
+    "subdistricts": [730701, 730702, 730703]
+  },
+  "7401": {
+    "code": 7401,
+    "name_en": "Mueang Samut Sakhon",
+    "name_th": "เมืองสมุทรสาคร",
+    "province_code": 74,
+    "subdistricts": [
+      740101, 740102, 740103, 740104, 740105, 740106, 740107, 740108, 740109, 740110, 740111,
+      740112, 740113, 740114, 740115, 740116, 740117, 740118
+    ]
+  },
+  "7402": {
+    "code": 7402,
+    "name_en": "Krathum Baen",
+    "name_th": "กระทุ่มแบน",
+    "province_code": 74,
+    "subdistricts": [740201, 740202, 740203, 740204, 740205, 740206, 740207, 740208, 740209, 740210]
+  },
+  "7403": {
+    "code": 7403,
+    "name_en": "Ban Phaeo",
+    "name_th": "บ้านแพ้ว",
+    "province_code": 74,
+    "subdistricts": [
+      740301, 740302, 740303, 740304, 740305, 740306, 740307, 740308, 740309, 740310, 740311, 740312
+    ]
+  },
+  "7501": {
+    "code": 7501,
+    "name_en": "Mueang Samut Songkhram",
+    "name_th": "เมืองสมุทรสงคราม",
+    "province_code": 75,
+    "subdistricts": [
+      750101, 750102, 750103, 750104, 750105, 750106, 750107, 750108, 750109, 750110, 750111
+    ]
+  },
+  "7502": {
+    "code": 7502,
+    "name_en": "Bang Khonthi",
+    "name_th": "บางคนที",
+    "province_code": 75,
+    "subdistricts": [
+      750201, 750202, 750203, 750204, 750205, 750206, 750207, 750208, 750209, 750210, 750211,
+      750212, 750213
+    ]
+  },
+  "7503": {
+    "code": 7503,
+    "name_en": "Amphawa",
+    "name_th": "อัมพวา",
+    "province_code": 75,
+    "subdistricts": [
+      750301, 750302, 750303, 750304, 750305, 750306, 750307, 750308, 750309, 750310, 750311, 750312
+    ]
+  },
+  "7601": {
+    "code": 7601,
+    "name_en": "Mueang Phetchaburi",
+    "name_th": "เมืองเพชรบุรี",
+    "province_code": 76,
+    "subdistricts": [
+      760101, 760102, 760103, 760104, 760105, 760106, 760107, 760108, 760109, 760110, 760111,
+      760112, 760113, 760114, 760115, 760116, 760117, 760118, 760119, 760120, 760121, 760122,
+      760123, 760124
+    ]
+  },
+  "7602": {
+    "code": 7602,
+    "name_en": "Khao Yoi",
+    "name_th": "เขาย้อย",
+    "province_code": 76,
+    "subdistricts": [760201, 760202, 760203, 760204, 760205, 760206, 760207, 760208, 760209, 760210]
+  },
+  "7603": {
+    "code": 7603,
+    "name_en": "Nong Ya Plong",
+    "name_th": "หนองหญ้าปล้อง",
+    "province_code": 76,
+    "subdistricts": [760301, 760302, 760303, 760304]
+  },
+  "7604": {
+    "code": 7604,
+    "name_en": "Cha-Am",
+    "name_th": "ชะอำ",
+    "province_code": 76,
+    "subdistricts": [760401, 760402, 760403, 760404, 760405, 760406, 760407, 760408, 760409]
+  },
+  "7605": {
+    "code": 7605,
+    "name_en": "Tha Yang",
+    "name_th": "ท่ายาง",
+    "province_code": 76,
+    "subdistricts": [
+      760501, 760502, 760503, 760504, 760505, 760506, 760507, 760511, 760512, 760513, 760514, 760515
+    ]
+  },
+  "7606": {
+    "code": 7606,
+    "name_en": "Ban Lat",
+    "name_th": "บ้านลาด",
+    "province_code": 76,
+    "subdistricts": [
+      760601, 760602, 760603, 760604, 760605, 760606, 760607, 760608, 760609, 760610, 760611,
+      760612, 760613, 760614, 760615, 760616, 760617, 760618
+    ]
+  },
+  "7607": {
+    "code": 7607,
+    "name_en": "Ban Laem",
+    "name_th": "บ้านแหลม",
+    "province_code": 76,
+    "subdistricts": [760701, 760702, 760703, 760704, 760705, 760706, 760707, 760708, 760709, 760710]
+  },
+  "7608": {
+    "code": 7608,
+    "name_en": "Kaeng Krachan",
+    "name_th": "แก่งกระจาน",
+    "province_code": 76,
+    "subdistricts": [760801, 760802, 760803, 760804, 760805, 760806]
+  },
+  "7701": {
+    "code": 7701,
+    "name_en": "Mueang Prachuap Khiri Khan",
+    "name_th": "เมืองประจวบคีรีขันธ์",
+    "province_code": 77,
+    "subdistricts": [770101, 770102, 770103, 770104, 770105, 770106]
+  },
+  "7702": {
+    "code": 7702,
+    "name_en": "Kui Buri",
+    "name_th": "กุยบุรี",
+    "province_code": 77,
+    "subdistricts": [770201, 770202, 770203, 770204, 770206, 770207]
+  },
+  "7703": {
+    "code": 7703,
+    "name_en": "Thap Sakae",
+    "name_th": "ทับสะแก",
+    "province_code": 77,
+    "subdistricts": [770301, 770302, 770303, 770304, 770305, 770306]
+  },
+  "7704": {
+    "code": 7704,
+    "name_en": "Bang Saphan",
+    "name_th": "บางสะพาน",
+    "province_code": 77,
+    "subdistricts": [770401, 770402, 770403, 770404, 770405, 770406, 770407]
+  },
+  "7705": {
+    "code": 7705,
+    "name_en": "Bang Saphan Noi",
+    "name_th": "บางสะพานน้อย",
+    "province_code": 77,
+    "subdistricts": [770501, 770502, 770503, 770504, 770505]
+  },
+  "7706": {
+    "code": 7706,
+    "name_en": "Pran Buri",
+    "name_th": "ปราณบุรี",
+    "province_code": 77,
+    "subdistricts": [770601, 770602, 770604, 770607, 770608, 770609]
+  },
+  "7707": {
+    "code": 7707,
+    "name_en": "Hua Hin",
+    "name_th": "หัวหิน",
+    "province_code": 77,
+    "subdistricts": [770701, 770702, 770703, 770704, 770705, 770706, 770707]
+  },
+  "7708": {
+    "code": 7708,
+    "name_en": "Sam Roi Yot",
+    "name_th": "สามร้อยยอด",
+    "province_code": 77,
+    "subdistricts": [770801, 770802, 770803, 770804, 770805]
+  },
+  "8001": {
+    "code": 8001,
+    "name_en": "Mueang Nakhon Si Thammarat",
+    "name_th": "เมืองนครศรีธรรมราช",
+    "province_code": 80,
+    "subdistricts": [
+      800101, 800102, 800103, 800106, 800107, 800108, 800112, 800113, 800114, 800115, 800116,
+      800118, 800119, 800120, 800121, 800122
+    ]
+  },
+  "8002": {
+    "code": 8002,
+    "name_en": "Phrom Khiri",
+    "name_th": "พรหมคีรี",
+    "province_code": 80,
+    "subdistricts": [800201, 800202, 800203, 800204, 800205]
+  },
+  "8003": {
+    "code": 8003,
+    "name_en": "Lan Saka",
+    "name_th": "ลานสกา",
+    "province_code": 80,
+    "subdistricts": [800301, 800302, 800303, 800304, 800305]
+  },
+  "8004": {
+    "code": 8004,
+    "name_en": "Chawang",
+    "name_th": "ฉวาง",
+    "province_code": 80,
+    "subdistricts": [800401, 800403, 800404, 800405, 800406, 800407, 800409, 800410, 800415, 800416]
+  },
+  "8005": {
+    "code": 8005,
+    "name_en": "Phipun",
+    "name_th": "พิปูน",
+    "province_code": 80,
+    "subdistricts": [800501, 800502, 800503, 800504, 800505]
+  },
+  "8006": {
+    "code": 8006,
+    "name_en": "Chian Yai",
+    "name_th": "เชียรใหญ่",
+    "province_code": 80,
+    "subdistricts": [800601, 800603, 800604, 800605, 800606, 800607, 800610, 800611, 800612, 800613]
+  },
+  "8007": {
+    "code": 8007,
+    "name_en": "Cha-Uat",
+    "name_th": "ชะอวด",
+    "province_code": 80,
+    "subdistricts": [
+      800701, 800702, 800703, 800704, 800705, 800706, 800707, 800708, 800709, 800710, 800711
+    ]
+  },
+  "8008": {
+    "code": 8008,
+    "name_en": "Tha Sala",
+    "name_th": "ท่าศาลา",
+    "province_code": 80,
+    "subdistricts": [800801, 800802, 800803, 800804, 800806, 800807, 800809, 800810, 800811, 800813]
+  },
+  "8009": {
+    "code": 8009,
+    "name_en": "Thung Song",
+    "name_th": "ทุ่งสง",
+    "province_code": 80,
+    "subdistricts": [
+      800901, 800902, 800903, 800904, 800905, 800906, 800907, 800908, 800909, 800910, 800911,
+      800912, 800913
+    ]
+  },
+  "8010": {
+    "code": 8010,
+    "name_en": "Na Bon",
+    "name_th": "นาบอน",
+    "province_code": 80,
+    "subdistricts": [801001, 801002, 801003]
+  },
+  "8011": {
+    "code": 8011,
+    "name_en": "Thung Yai",
+    "name_th": "ทุ่งใหญ่",
+    "province_code": 80,
+    "subdistricts": [801101, 801102, 801103, 801104, 801105, 801106, 801107]
+  },
+  "8012": {
+    "code": 8012,
+    "name_en": "Pak Phanang",
+    "name_th": "ปากพนัง",
+    "province_code": 80,
+    "subdistricts": [
+      801201, 801202, 801203, 801204, 801205, 801206, 801207, 801208, 801209, 801210, 801211,
+      801212, 801213, 801214, 801215, 801216, 801217, 801218
+    ]
+  },
+  "8013": {
+    "code": 8013,
+    "name_en": "Ron Phibun",
+    "name_th": "ร่อนพิบูลย์",
+    "province_code": 80,
+    "subdistricts": [801301, 801302, 801303, 801304, 801305, 801306]
+  },
+  "8014": {
+    "code": 8014,
+    "name_en": "Sichon",
+    "name_th": "สิชล",
+    "province_code": 80,
+    "subdistricts": [801401, 801402, 801403, 801404, 801405, 801406, 801407, 801408, 801409]
+  },
+  "8015": {
+    "code": 8015,
+    "name_en": "Khanom",
+    "name_th": "ขนอม",
+    "province_code": 80,
+    "subdistricts": [801501, 801502, 801503]
+  },
+  "8016": {
+    "code": 8016,
+    "name_en": "Hua Sai",
+    "name_th": "หัวไทร",
+    "province_code": 80,
+    "subdistricts": [
+      801601, 801602, 801603, 801604, 801605, 801606, 801607, 801608, 801609, 801610, 801611
+    ]
+  },
+  "8017": {
+    "code": 8017,
+    "name_en": "Bang Khan",
+    "name_th": "บางขัน",
+    "province_code": 80,
+    "subdistricts": [801701, 801702, 801703, 801704]
+  },
+  "8018": {
+    "code": 8018,
+    "name_en": "Tham Phannara",
+    "name_th": "ถ้ำพรรณรา",
+    "province_code": 80,
+    "subdistricts": [801801, 801802, 801803]
+  },
+  "8019": {
+    "code": 8019,
+    "name_en": "Chulabhorn",
+    "name_th": "จุฬาภรณ์",
+    "province_code": 80,
+    "subdistricts": [801901, 801902, 801903, 801904, 801905, 801906]
+  },
+  "8020": {
+    "code": 8020,
+    "name_en": "Phra Phrom",
+    "name_th": "พระพรหม",
+    "province_code": 80,
+    "subdistricts": [802001, 802002, 802003, 802004]
+  },
+  "8021": {
+    "code": 8021,
+    "name_en": "Nopphitam",
+    "name_th": "นบพิตำ",
+    "province_code": 80,
+    "subdistricts": [802101, 802102, 802103, 802104]
+  },
+  "8022": {
+    "code": 8022,
+    "name_en": "Chang Klang",
+    "name_th": "ช้างกลาง",
+    "province_code": 80,
+    "subdistricts": [802201, 802202, 802203]
+  },
+  "8023": {
+    "code": 8023,
+    "name_en": "Chaloem Phra Kiet",
+    "name_th": "เฉลิมพระเกียรติ",
+    "province_code": 80,
+    "subdistricts": [802301, 802302, 802303, 802304]
+  },
+  "8101": {
+    "code": 8101,
+    "name_en": "Mueang Krabi",
+    "name_th": "เมืองกระบี่",
+    "province_code": 81,
+    "subdistricts": [810101, 810102, 810103, 810105, 810106, 810111, 810115, 810116, 810117, 810118]
+  },
+  "8102": {
+    "code": 8102,
+    "name_en": "Khao Phanom",
+    "name_th": "เขาพนม",
+    "province_code": 81,
+    "subdistricts": [810201, 810202, 810203, 810204, 810205, 810206]
+  },
+  "8103": {
+    "code": 8103,
+    "name_en": "Ko Lanta",
+    "name_th": "เกาะลันตา",
+    "province_code": 81,
+    "subdistricts": [810301, 810302, 810303, 810304, 810305]
+  },
+  "8104": {
+    "code": 8104,
+    "name_en": "Khlong Thom",
+    "name_th": "คลองท่อม",
+    "province_code": 81,
+    "subdistricts": [810401, 810402, 810403, 810404, 810405, 810406, 810407]
+  },
+  "8105": {
+    "code": 8105,
+    "name_en": "Ao Luek",
+    "name_th": "อ่าวลึก",
+    "province_code": 81,
+    "subdistricts": [810501, 810502, 810503, 810504, 810505, 810506, 810507, 810508, 810509]
+  },
+  "8106": {
+    "code": 8106,
+    "name_en": "Plai Phraya",
+    "name_th": "ปลายพระยา",
+    "province_code": 81,
+    "subdistricts": [810601, 810602, 810603, 810604]
+  },
+  "8107": {
+    "code": 8107,
+    "name_en": "Lam Thap",
+    "name_th": "ลำทับ",
+    "province_code": 81,
+    "subdistricts": [810701, 810702, 810703, 810704]
+  },
+  "8108": {
+    "code": 8108,
+    "name_en": "Nuea Khlong",
+    "name_th": "เหนือคลอง",
+    "province_code": 81,
+    "subdistricts": [810801, 810802, 810803, 810804, 810805, 810806, 810807, 810808]
+  },
+  "8201": {
+    "code": 8201,
+    "name_en": "Mueang Phang-Nga",
+    "name_th": "เมืองพังงา",
+    "province_code": 82,
+    "subdistricts": [820101, 820102, 820103, 820104, 820105, 820106, 820107, 820108, 820109]
+  },
+  "8202": {
+    "code": 8202,
+    "name_en": "Ko Yao",
+    "name_th": "เกาะยาว",
+    "province_code": 82,
+    "subdistricts": [820201, 820202, 820203]
+  },
+  "8203": {
+    "code": 8203,
+    "name_en": "Kapong",
+    "name_th": "กะปง",
+    "province_code": 82,
+    "subdistricts": [820301, 820302, 820303, 820304, 820305]
+  },
+  "8204": {
+    "code": 8204,
+    "name_en": "Takua Thung",
+    "name_th": "ตะกั่วทุ่ง",
+    "province_code": 82,
+    "subdistricts": [820401, 820402, 820403, 820404, 820405, 820406, 820407]
+  },
+  "8205": {
+    "code": 8205,
+    "name_en": "Takua Pa",
+    "name_th": "ตะกั่วป่า",
+    "province_code": 82,
+    "subdistricts": [820501, 820502, 820503, 820504, 820505, 820506, 820507, 820508]
+  },
+  "8206": {
+    "code": 8206,
+    "name_en": "Khura Buri",
+    "name_th": "คุระบุรี",
+    "province_code": 82,
+    "subdistricts": [820601, 820602, 820603, 820605]
+  },
+  "8207": {
+    "code": 8207,
+    "name_en": "Thap Put",
+    "name_th": "ทับปุด",
+    "province_code": 82,
+    "subdistricts": [820701, 820702, 820703, 820704, 820705, 820706]
+  },
+  "8208": {
+    "code": 8208,
+    "name_en": "Thai Mueang",
+    "name_th": "ท้ายเหมือง",
+    "province_code": 82,
+    "subdistricts": [820801, 820802, 820803, 820804, 820805, 820806]
+  },
+  "8301": {
+    "code": 8301,
+    "name_en": "Mueang Phuket",
+    "name_th": "เมืองภูเก็ต",
+    "province_code": 83,
+    "subdistricts": [830101, 830102, 830103, 830104, 830105, 830106, 830107, 830108]
+  },
+  "8302": {
+    "code": 8302,
+    "name_en": "Kathu",
+    "name_th": "กะทู้",
+    "province_code": 83,
+    "subdistricts": [830201, 830202, 830203]
+  },
+  "8303": {
+    "code": 8303,
+    "name_en": "Thalang",
+    "name_th": "ถลาง",
+    "province_code": 83,
+    "subdistricts": [830301, 830302, 830303, 830304, 830305, 830306]
+  },
+  "8401": {
+    "code": 8401,
+    "name_en": "Mueang Surat Thani",
+    "name_th": "เมืองสุราษฎร์ธานี",
+    "province_code": 84,
+    "subdistricts": [
+      840101, 840102, 840103, 840104, 840105, 840106, 840107, 840108, 840109, 840110, 840111
+    ]
+  },
+  "8402": {
+    "code": 8402,
+    "name_en": "Kanchanadit",
+    "name_th": "กาญจนดิษฐ์",
+    "province_code": 84,
+    "subdistricts": [
+      840201, 840202, 840203, 840204, 840205, 840206, 840207, 840208, 840209, 840210, 840211,
+      840212, 840213
+    ]
+  },
+  "8403": {
+    "code": 8403,
+    "name_en": "Don Sak",
+    "name_th": "ดอนสัก",
+    "province_code": 84,
+    "subdistricts": [840301, 840302, 840303, 840304]
+  },
+  "8404": {
+    "code": 8404,
+    "name_en": "Ko Samui",
+    "name_th": "เกาะสมุย",
+    "province_code": 84,
+    "subdistricts": [840401, 840402, 840403, 840404, 840405, 840406, 840407]
+  },
+  "8405": {
+    "code": 8405,
+    "name_en": "Ko Pha-Ngan",
+    "name_th": "เกาะพะงัน",
+    "province_code": 84,
+    "subdistricts": [840501, 840502, 840503]
+  },
+  "8406": {
+    "code": 8406,
+    "name_en": "Chaiya",
+    "name_th": "ไชยา",
+    "province_code": 84,
+    "subdistricts": [840601, 840602, 840603, 840604, 840605, 840606, 840607, 840608, 840609]
+  },
+  "8407": {
+    "code": 8407,
+    "name_en": "Tha Chana",
+    "name_th": "ท่าชนะ",
+    "province_code": 84,
+    "subdistricts": [840701, 840702, 840703, 840704, 840705, 840706]
+  },
+  "8408": {
+    "code": 8408,
+    "name_en": "Khiri Rat Nikhom",
+    "name_th": "คีรีรัฐนิคม",
+    "province_code": 84,
+    "subdistricts": [840801, 840802, 840803, 840806, 840807, 840808, 840809, 840810]
+  },
+  "8409": {
+    "code": 8409,
+    "name_en": "Ban Ta Khun",
+    "name_th": "บ้านตาขุน",
+    "province_code": 84,
+    "subdistricts": [840901, 840902, 840903, 840904]
+  },
+  "8410": {
+    "code": 8410,
+    "name_en": "Phanom",
+    "name_th": "พนม",
+    "province_code": 84,
+    "subdistricts": [841001, 841002, 841003, 841004, 841005, 841006]
+  },
+  "8411": {
+    "code": 8411,
+    "name_en": "Tha Chang",
+    "name_th": "ท่าฉาง",
+    "province_code": 84,
+    "subdistricts": [841101, 841102, 841103, 841104, 841105, 841106]
+  },
+  "8412": {
+    "code": 8412,
+    "name_en": "Ban Na San",
+    "name_th": "บ้านนาสาร",
+    "province_code": 84,
+    "subdistricts": [
+      841201, 841202, 841203, 841204, 841205, 841206, 841207, 841208, 841209, 841210, 841211
+    ]
+  },
+  "8413": {
+    "code": 8413,
+    "name_en": "Ban Na Doem",
+    "name_th": "บ้านนาเดิม",
+    "province_code": 84,
+    "subdistricts": [841301, 841302, 841303, 841304]
+  },
+  "8414": {
+    "code": 8414,
+    "name_en": "Khian Sa",
+    "name_th": "เคียนซา",
+    "province_code": 84,
+    "subdistricts": [841401, 841402, 841403, 841404, 841405]
+  },
+  "8415": {
+    "code": 8415,
+    "name_en": "Wiang Sa",
+    "name_th": "เวียงสระ",
+    "province_code": 84,
+    "subdistricts": [841501, 841502, 841503, 841504, 841505]
+  },
+  "8416": {
+    "code": 8416,
+    "name_en": "Phrasaeng",
+    "name_th": "พระแสง",
+    "province_code": 84,
+    "subdistricts": [841601, 841602, 841603, 841604, 841605, 841606, 841607]
+  },
+  "8417": {
+    "code": 8417,
+    "name_en": "Phunphin",
+    "name_th": "พุนพิน",
+    "province_code": 84,
+    "subdistricts": [
+      841701, 841702, 841703, 841704, 841705, 841706, 841707, 841708, 841709, 841710, 841711,
+      841712, 841713, 841714, 841715, 841716
+    ]
+  },
+  "8418": {
+    "code": 8418,
+    "name_en": "Chai Buri",
+    "name_th": "ชัยบุรี",
+    "province_code": 84,
+    "subdistricts": [841801, 841802, 841803, 841804]
+  },
+  "8419": {
+    "code": 8419,
+    "name_en": "Chai Buri",
+    "name_th": "วิภาวดี",
+    "province_code": 84,
+    "subdistricts": [841901, 841902]
+  },
+  "8501": {
+    "code": 8501,
+    "name_en": "Mueang Ranong",
+    "name_th": "เมืองระนอง",
+    "province_code": 85,
+    "subdistricts": [850101, 850102, 850103, 850104, 850105, 850106, 850107, 850108, 850109]
+  },
+  "8502": {
+    "code": 8502,
+    "name_en": "La-Un",
+    "name_th": "ละอุ่น",
+    "province_code": 85,
+    "subdistricts": [850201, 850202, 850203, 850204, 850205, 850206, 850207]
+  },
+  "8503": {
+    "code": 8503,
+    "name_en": "Papoe",
+    "name_th": "กะเปอร์",
+    "province_code": 85,
+    "subdistricts": [850301, 850302, 850303, 850304, 850305]
+  },
+  "8504": {
+    "code": 8504,
+    "name_en": "Kra Buri",
+    "name_th": "กระบุรี",
+    "province_code": 85,
+    "subdistricts": [850401, 850402, 850403, 850404, 850405, 850406, 850407]
+  },
+  "8505": {
+    "code": 8505,
+    "name_en": "Suk Samran",
+    "name_th": "สุขสำราญ",
+    "province_code": 85,
+    "subdistricts": [850501, 850502]
+  },
+  "8601": {
+    "code": 8601,
+    "name_en": "Mueang Chumphon",
+    "name_th": "เมืองชุมพร",
+    "province_code": 86,
+    "subdistricts": [
+      860101, 860102, 860103, 860104, 860105, 860106, 860107, 860108, 860109, 860110, 860111,
+      860112, 860113, 860114, 860115, 860116, 860117
+    ]
+  },
+  "8602": {
+    "code": 8602,
+    "name_en": "Tha Sae",
+    "name_th": "ท่าแซะ",
+    "province_code": 86,
+    "subdistricts": [860201, 860202, 860203, 860204, 860205, 860206, 860207, 860208, 860209, 860210]
+  },
+  "8603": {
+    "code": 8603,
+    "name_en": "Pathio",
+    "name_th": "ปะทิว",
+    "province_code": 86,
+    "subdistricts": [860301, 860302, 860303, 860304, 860305, 860306, 860307]
+  },
+  "8604": {
+    "code": 8604,
+    "name_en": "Lang Suan",
+    "name_th": "หลังสวน",
+    "province_code": 86,
+    "subdistricts": [
+      860401, 860402, 860403, 860404, 860405, 860406, 860407, 860408, 860409, 860410, 860411,
+      860412, 860413
+    ]
+  },
+  "8605": {
+    "code": 8605,
+    "name_en": "Lamae",
+    "name_th": "ละแม",
+    "province_code": 86,
+    "subdistricts": [860501, 860502, 860503, 860504]
+  },
+  "8606": {
+    "code": 8606,
+    "name_en": "Phato",
+    "name_th": "พะโต๊ะ",
+    "province_code": 86,
+    "subdistricts": [860601, 860602, 860603, 860604]
+  },
+  "8607": {
+    "code": 8607,
+    "name_en": "Sawi",
+    "name_th": "สวี",
+    "province_code": 86,
+    "subdistricts": [
+      860701, 860702, 860703, 860704, 860705, 860706, 860707, 860708, 860709, 860710, 860711
+    ]
+  },
+  "8608": {
+    "code": 8608,
+    "name_en": "Thung Tako",
+    "name_th": "ทุ่งตะโก",
+    "province_code": 86,
+    "subdistricts": [860801, 860802, 860803, 860804]
+  },
+  "9001": {
+    "code": 9001,
+    "name_en": "Muaeng Songkhla",
+    "name_th": "เมืองสงขลา",
+    "province_code": 90,
+    "subdistricts": [900101, 900102, 900103, 900104, 900105, 900106]
+  },
+  "9002": {
+    "code": 9002,
+    "name_en": "Sathing Phra",
+    "name_th": "สทิงพระ",
+    "province_code": 90,
+    "subdistricts": [
+      900201, 900202, 900203, 900204, 900205, 900206, 900207, 900208, 900209, 900210, 900211
+    ]
+  },
+  "9003": {
+    "code": 9003,
+    "name_en": "Chana",
+    "name_th": "จะนะ",
+    "province_code": 90,
+    "subdistricts": [
+      900301, 900302, 900303, 900304, 900305, 900306, 900307, 900308, 900309, 900310, 900311,
+      900312, 900313, 900314
+    ]
+  },
+  "9004": {
+    "code": 9004,
+    "name_en": "Na Thawi",
+    "name_th": "นาทวี",
+    "province_code": 90,
+    "subdistricts": [900401, 900402, 900403, 900404, 900405, 900406, 900407, 900408, 900409, 900410]
+  },
+  "9005": {
+    "code": 9005,
+    "name_en": "Thepha",
+    "name_th": "เทพา",
+    "province_code": 90,
+    "subdistricts": [900501, 900502, 900503, 900504, 900505, 900506, 900507]
+  },
+  "9006": {
+    "code": 9006,
+    "name_en": "Saba Yoi",
+    "name_th": "สะบ้าย้อย",
+    "province_code": 90,
+    "subdistricts": [900601, 900602, 900603, 900604, 900605, 900606, 900607, 900608, 900609]
+  },
+  "9007": {
+    "code": 9007,
+    "name_en": "Ranot",
+    "name_th": "ระโนด",
+    "province_code": 90,
+    "subdistricts": [
+      900701, 900702, 900703, 900704, 900705, 900706, 900707, 900708, 900709, 900710, 900711, 900712
+    ]
+  },
+  "9008": {
+    "code": 9008,
+    "name_en": "Krasae Sin",
+    "name_th": "กระแสสินธุ์",
+    "province_code": 90,
+    "subdistricts": [900801, 900802, 900803, 900804]
+  },
+  "9009": {
+    "code": 9009,
+    "name_en": "Rattaphum",
+    "name_th": "รัตภูมิ",
+    "province_code": 90,
+    "subdistricts": [900901, 900902, 900903, 900904, 900909]
+  },
+  "9010": {
+    "code": 9010,
+    "name_en": "Sadao",
+    "name_th": "สะเดา",
+    "province_code": 90,
+    "subdistricts": [901001, 901002, 901003, 901004, 901005, 901006, 901007, 901008, 901009]
+  },
+  "9011": {
+    "code": 9011,
+    "name_en": "Hat Yai",
+    "name_th": "หาดใหญ่",
+    "province_code": 90,
+    "subdistricts": [
+      901101, 901102, 901103, 901104, 901105, 901107, 901108, 901111, 901112, 901113, 901114,
+      901116, 901118
+    ]
+  },
+  "9012": {
+    "code": 9012,
+    "name_en": "Na Mom",
+    "name_th": "นาหม่อม",
+    "province_code": 90,
+    "subdistricts": [901201, 901202, 901203, 901204]
+  },
+  "9013": {
+    "code": 9013,
+    "name_en": "Khuan Niang",
+    "name_th": "ควนเนียง",
+    "province_code": 90,
+    "subdistricts": [901301, 901302, 901303, 901304]
+  },
+  "9014": {
+    "code": 9014,
+    "name_en": "Bang Klam",
+    "name_th": "บางกล่ำ",
+    "province_code": 90,
+    "subdistricts": [901401, 901402, 901403, 901404]
+  },
+  "9015": {
+    "code": 9015,
+    "name_en": "Singhanakhon",
+    "name_th": "สิงหนคร",
+    "province_code": 90,
+    "subdistricts": [
+      901501, 901502, 901503, 901504, 901505, 901506, 901507, 901508, 901509, 901510, 901511
+    ]
+  },
+  "9016": {
+    "code": 9016,
+    "name_en": "Khlong Hoi Khong",
+    "name_th": "คลองหอยโข่ง",
+    "province_code": 90,
+    "subdistricts": [901601, 901602, 901603, 901604]
+  },
+  "9101": {
+    "code": 9101,
+    "name_en": "Mueang Satun",
+    "name_th": "เมืองสตูล",
+    "province_code": 91,
+    "subdistricts": [
+      910101, 910102, 910103, 910104, 910105, 910106, 910107, 910108, 910109, 910110, 910111, 910112
+    ]
+  },
+  "9102": {
+    "code": 9102,
+    "name_en": "Khuan Don",
+    "name_th": "ควนโดน",
+    "province_code": 91,
+    "subdistricts": [910201, 910202, 910203, 910204]
+  },
+  "9103": {
+    "code": 9103,
+    "name_en": "Khuan Kalong",
+    "name_th": "ควนกาหลง",
+    "province_code": 91,
+    "subdistricts": [910301, 910302, 910303]
+  },
+  "9104": {
+    "code": 9104,
+    "name_en": "Tha Phae",
+    "name_th": "ท่าแพ",
+    "province_code": 91,
+    "subdistricts": [910401, 910402, 910403, 910404]
+  },
+  "9105": {
+    "code": 9105,
+    "name_en": "La-Ngu",
+    "name_th": "ละงู",
+    "province_code": 91,
+    "subdistricts": [910501, 910502, 910503, 910504, 910505, 910506]
+  },
+  "9106": {
+    "code": 9106,
+    "name_en": "Thung Wa",
+    "name_th": "ทุ่งหว้า",
+    "province_code": 91,
+    "subdistricts": [910601, 910602, 910603, 910604, 910605]
+  },
+  "9107": {
+    "code": 9107,
+    "name_en": "Manang",
+    "name_th": "มะนัง",
+    "province_code": 91,
+    "subdistricts": [910701, 910702]
+  },
+  "9201": {
+    "code": 9201,
+    "name_en": "Mueang Trang",
+    "name_th": "เมืองตรัง",
+    "province_code": 92,
+    "subdistricts": [
+      920101, 920104, 920105, 920106, 920107, 920108, 920109, 920110, 920113, 920114, 920115,
+      920117, 920118, 920119, 920120
+    ]
+  },
+  "9202": {
+    "code": 9202,
+    "name_en": "Kantang",
+    "name_th": "กันตัง",
+    "province_code": 92,
+    "subdistricts": [
+      920201, 920202, 920203, 920204, 920205, 920206, 920207, 920208, 920209, 920210, 920211,
+      920212, 920213, 920214
+    ]
+  },
+  "9203": {
+    "code": 9203,
+    "name_en": "Yan Ta Khao",
+    "name_th": "ย่านตาขาว",
+    "province_code": 92,
+    "subdistricts": [920301, 920302, 920303, 920304, 920305, 920306, 920307, 920308]
+  },
+  "9204": {
+    "code": 9204,
+    "name_en": "Palian",
+    "name_th": "ปะเหลียน",
+    "province_code": 92,
+    "subdistricts": [920401, 920402, 920403, 920404, 920407, 920409, 920410, 920411, 920412, 920413]
+  },
+  "9205": {
+    "code": 9205,
+    "name_en": "Sikao",
+    "name_th": "สิเกา",
+    "province_code": 92,
+    "subdistricts": [920501, 920502, 920503, 920504, 920505]
+  },
+  "9206": {
+    "code": 9206,
+    "name_en": "Huai Yot",
+    "name_th": "ห้วยยอด",
+    "province_code": 92,
+    "subdistricts": [
+      920601, 920602, 920605, 920606, 920607, 920608, 920609, 920610, 920611, 920614, 920615,
+      920616, 920617, 920619, 920620, 920621
+    ]
+  },
+  "9207": {
+    "code": 9207,
+    "name_en": "Wang Wiset",
+    "name_th": "วังวิเศษ",
+    "province_code": 92,
+    "subdistricts": [920701, 920702, 920703, 920704, 920705]
+  },
+  "9208": {
+    "code": 9208,
+    "name_en": "Na Yong",
+    "name_th": "นาโยง",
+    "province_code": 92,
+    "subdistricts": [920801, 920802, 920803, 920804, 920805, 920806]
+  },
+  "9209": {
+    "code": 9209,
+    "name_en": "Ratsada",
+    "name_th": "รัษฎา",
+    "province_code": 92,
+    "subdistricts": [920901, 920902, 920903, 920904, 920905]
+  },
+  "9210": {
+    "code": 9210,
+    "name_en": "Hat Samran",
+    "name_th": "หาดสำราญ",
+    "province_code": 92,
+    "subdistricts": [921001, 921002, 921003]
+  },
+  "9301": {
+    "code": 9301,
+    "name_en": "Mueang Phatthalung",
+    "name_th": "เมืองพัทลุง",
+    "province_code": 93,
+    "subdistricts": [
+      930101, 930103, 930104, 930105, 930106, 930107, 930108, 930109, 930110, 930111, 930112,
+      930113, 930114, 930115
+    ]
+  },
+  "9302": {
+    "code": 9302,
+    "name_en": "Kong Ra",
+    "name_th": "กงหรา",
+    "province_code": 93,
+    "subdistricts": [930201, 930202, 930203, 930204, 930205]
+  },
+  "9303": {
+    "code": 9303,
+    "name_en": "Khao Chaison",
+    "name_th": "เขาชัยสน",
+    "province_code": 93,
+    "subdistricts": [930301, 930302, 930305, 930306, 930307]
+  },
+  "9304": {
+    "code": 9304,
+    "name_en": "Tamot",
+    "name_th": "ตะโหมด",
+    "province_code": 93,
+    "subdistricts": [930401, 930402, 930403]
+  },
+  "9305": {
+    "code": 9305,
+    "name_en": "Khuan Khanun",
+    "name_th": "ควนขนุน",
+    "province_code": 93,
+    "subdistricts": [
+      930501, 930502, 930504, 930505, 930506, 930508, 930509, 930510, 930511, 930512, 930513, 930516
+    ]
+  },
+  "9306": {
+    "code": 9306,
+    "name_en": "Pak Phayun",
+    "name_th": "ปากพะยูน",
+    "province_code": 93,
+    "subdistricts": [930601, 930602, 930603, 930604, 930605, 930606, 930607]
+  },
+  "9307": {
+    "code": 9307,
+    "name_en": "Si Banphot",
+    "name_th": "ศรีบรรพต",
+    "province_code": 93,
+    "subdistricts": [930701, 930702, 930703]
+  },
+  "9308": {
+    "code": 9308,
+    "name_en": "Pa Bon",
+    "name_th": "ป่าบอน",
+    "province_code": 93,
+    "subdistricts": [930801, 930802, 930803, 930804, 930806]
+  },
+  "9309": {
+    "code": 9309,
+    "name_en": "Bang Kaeo",
+    "name_th": "บางแก้ว",
+    "province_code": 93,
+    "subdistricts": [930901, 930902, 930903]
+  },
+  "9310": {
+    "code": 9310,
+    "name_en": "Pa Phayom",
+    "name_th": "ป่าพะยอม",
+    "province_code": 93,
+    "subdistricts": [931001, 931002, 931003, 931004]
+  },
+  "9311": {
+    "code": 9311,
+    "name_en": "Srinagarindra",
+    "name_th": "ศรีนครินทร์",
+    "province_code": 93,
+    "subdistricts": [931101, 931102, 931103, 931104]
+  },
+  "9401": {
+    "code": 9401,
+    "name_en": "Mueang Pattani",
+    "name_th": "เมืองปัตตานี",
+    "province_code": 94,
+    "subdistricts": [
+      940101, 940102, 940103, 940104, 940105, 940106, 940107, 940108, 940109, 940110, 940111,
+      940112, 940113
+    ]
+  },
+  "9402": {
+    "code": 9402,
+    "name_en": "Khok Pho",
+    "name_th": "โคกโพธิ์",
+    "province_code": 94,
+    "subdistricts": [
+      940201, 940202, 940203, 940204, 940205, 940206, 940207, 940208, 940211, 940213, 940214, 940215
+    ]
+  },
+  "9403": {
+    "code": 9403,
+    "name_en": "Nong Chik",
+    "name_th": "หนองจิก",
+    "province_code": 94,
+    "subdistricts": [
+      940301, 940302, 940303, 940304, 940305, 940306, 940307, 940308, 940309, 940310, 940311, 940312
+    ]
+  },
+  "9404": {
+    "code": 9404,
+    "name_en": "Panare",
+    "name_th": "ปะนาเระ",
+    "province_code": 94,
+    "subdistricts": [940401, 940402, 940403, 940404, 940405, 940406, 940407, 940408, 940409, 940410]
+  },
+  "9405": {
+    "code": 9405,
+    "name_en": "Mayo",
+    "name_th": "มายอ",
+    "province_code": 94,
+    "subdistricts": [
+      940501, 940502, 940503, 940504, 940505, 940506, 940507, 940508, 940509, 940510, 940511,
+      940512, 940513
+    ]
+  },
+  "9406": {
+    "code": 9406,
+    "name_en": "Thung Yang Daeng",
+    "name_th": "ทุ่งยางแดง",
+    "province_code": 94,
+    "subdistricts": [940601, 940602, 940603, 940604]
+  },
+  "9407": {
+    "code": 9407,
+    "name_en": "Sai Buri",
+    "name_th": "สายบุรี",
+    "province_code": 94,
+    "subdistricts": [
+      940701, 940702, 940703, 940704, 940705, 940706, 940707, 940708, 940709, 940710, 940711
+    ]
+  },
+  "9408": {
+    "code": 9408,
+    "name_en": "Mai Kaen",
+    "name_th": "ไม้แก่น",
+    "province_code": 94,
+    "subdistricts": [940801, 940802, 940803, 940804]
+  },
+  "9409": {
+    "code": 9409,
+    "name_en": "Yaring",
+    "name_th": "ยะหริ่ง",
+    "province_code": 94,
+    "subdistricts": [
+      940901, 940902, 940903, 940904, 940905, 940906, 940907, 940908, 940909, 940910, 940911,
+      940912, 940913, 940914, 940915, 940916, 940917, 940918
+    ]
+  },
+  "9410": {
+    "code": 9410,
+    "name_en": "Yarang",
+    "name_th": "ยะรัง",
+    "province_code": 94,
+    "subdistricts": [
+      941001, 941002, 941003, 941004, 941005, 941006, 941007, 941008, 941009, 941010, 941011, 941012
+    ]
+  },
+  "9411": {
+    "code": 9411,
+    "name_en": "Kapho",
+    "name_th": "กะพ้อ",
+    "province_code": 94,
+    "subdistricts": [941101, 941102, 941103]
+  },
+  "9412": {
+    "code": 9412,
+    "name_en": "Mae Lan",
+    "name_th": "แม่ลาน",
+    "province_code": 94,
+    "subdistricts": [941201, 941202, 941203]
+  },
+  "9501": {
+    "code": 9501,
+    "name_en": "Mueang Yala",
+    "name_th": "เมืองยะลา",
+    "province_code": 95,
+    "subdistricts": [
+      950101, 950102, 950103, 950104, 950106, 950108, 950109, 950110, 950111, 950112, 950114,
+      950115, 950116, 950118
+    ]
+  },
+  "9502": {
+    "code": 9502,
+    "name_en": "Betong",
+    "name_th": "เบตง",
+    "province_code": 95,
+    "subdistricts": [950201, 950202, 950203, 950204, 950205]
+  },
+  "9503": {
+    "code": 9503,
+    "name_en": "Bannang Sata",
+    "name_th": "บันนังสตา",
+    "province_code": 95,
+    "subdistricts": [950301, 950302, 950303, 950304, 950305, 950306]
+  },
+  "9504": {
+    "code": 9504,
+    "name_en": "Than To",
+    "name_th": "ธารโต",
+    "province_code": 95,
+    "subdistricts": [950401, 950402, 950403, 950404]
+  },
+  "9505": {
+    "code": 9505,
+    "name_en": "Yaha",
+    "name_th": "ยะหา",
+    "province_code": 95,
+    "subdistricts": [950501, 950502, 950503, 950504, 950506, 950507, 950508]
+  },
+  "9506": {
+    "code": 9506,
+    "name_en": "Raman",
+    "name_th": "รามัน",
+    "province_code": 95,
+    "subdistricts": [
+      950601, 950602, 950603, 950604, 950605, 950606, 950607, 950608, 950609, 950610, 950611,
+      950612, 950613, 950614, 950615, 950616
+    ]
+  },
+  "9507": {
+    "code": 9507,
+    "name_en": "Kabang",
+    "name_th": "กาบัง",
+    "province_code": 95,
+    "subdistricts": [950701, 950702]
+  },
+  "9508": {
+    "code": 9508,
+    "name_en": "Krong Pinang",
+    "name_th": "กรงปินัง",
+    "province_code": 95,
+    "subdistricts": [950801, 950802, 950803, 950804]
+  },
+  "9601": {
+    "code": 9601,
+    "name_en": "Mueang Narathiwat",
+    "name_th": "เมืองนราธิวาส",
+    "province_code": 96,
+    "subdistricts": [960101, 960102, 960103, 960104, 960105, 960106, 960107]
+  },
+  "9602": {
+    "code": 9602,
+    "name_en": "Tak Bai",
+    "name_th": "ตากใบ",
+    "province_code": 96,
+    "subdistricts": [960201, 960202, 960203, 960204, 960205, 960206, 960207, 960208]
+  },
+  "9603": {
+    "code": 9603,
+    "name_en": "Tak Bai",
+    "name_th": "บาเจาะ",
+    "province_code": 96,
+    "subdistricts": [960301, 960302, 960303, 960304, 960305, 960306]
+  },
+  "9604": {
+    "code": 9604,
+    "name_en": "Yi-Ngo",
+    "name_th": "ยี่งอ",
+    "province_code": 96,
+    "subdistricts": [960401, 960402, 960403, 960404, 960405, 960406]
+  },
+  "9605": {
+    "code": 9605,
+    "name_en": "Ra-Ngae",
+    "name_th": "ระแงะ",
+    "province_code": 96,
+    "subdistricts": [960501, 960502, 960506, 960507, 960508, 960509, 960510]
+  },
+  "9606": {
+    "code": 9606,
+    "name_en": "Rueso",
+    "name_th": "รือเสาะ",
+    "province_code": 96,
+    "subdistricts": [960601, 960602, 960603, 960604, 960605, 960606, 960607, 960608, 960609]
+  },
+  "9607": {
+    "code": 9607,
+    "name_en": "Si Sakhon",
+    "name_th": "ศรีสาคร",
+    "province_code": 96,
+    "subdistricts": [960701, 960702, 960703, 960704, 960705, 960706]
+  },
+  "9608": {
+    "code": 9608,
+    "name_en": "Waeng",
+    "name_th": "แว้ง",
+    "province_code": 96,
+    "subdistricts": [960801, 960802, 960803, 960804, 960805, 960806]
+  },
+  "9609": {
+    "code": 9609,
+    "name_en": "Sukhirin",
+    "name_th": "สุคิริน",
+    "province_code": 96,
+    "subdistricts": [960901, 960902, 960903, 960904, 960905]
+  },
+  "9610": {
+    "code": 9610,
+    "name_en": "Su-Ngai Kolok",
+    "name_th": "สุไหงโก-ลก",
+    "province_code": 96,
+    "subdistricts": [961001, 961002, 961003, 961004]
+  },
+  "9611": {
+    "code": 9611,
+    "name_en": "Su-Ngai Padi",
+    "name_th": "สุไหงปาดี",
+    "province_code": 96,
+    "subdistricts": [961101, 961102, 961103, 961104, 961105, 961106]
+  },
+  "9612": {
+    "code": 9612,
+    "name_en": "Chanae",
+    "name_th": "จะแนะ",
+    "province_code": 96,
+    "subdistricts": [961201, 961202, 961203, 961204]
+  },
+  "9613": {
+    "code": 9613,
+    "name_en": "Cho-Airong",
+    "name_th": "เจาะไอร้อง",
+    "province_code": 96,
+    "subdistricts": [961301, 961302, 961303]
+  }
+}

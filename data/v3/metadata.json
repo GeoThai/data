@@ -1,0 +1,11 @@
+{
+  "version": "3.0.0",
+  "last_updated": "2025-05-07 06:43:03",
+  "source": "GeoThai Team (https://github.com/GeoThai/data.git)",
+  "stats": {
+    "provinces": 77,
+    "districts": 928,
+    "subdistricts": 7436,
+    "postal_codes": 954
+  }
+}
