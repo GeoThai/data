@@ -112,6 +112,6 @@ This dataset is licensed under the [MIT License](../../LICENSE). See the LICENSE
 
 ## 🙋‍♂️ Contact
 
-Have questions or feedback? Reach out to us at [contact@fasu.dev](mailto:contact@fasu.dev).
+Have questions or feedback? Reach out to us at [geothai@fasu.dev](mailto:geothai@fasu.dev).
 
 Thank you for using GeoThai Data Version 3! 🚀
