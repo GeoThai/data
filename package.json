@@ -16,19 +16,21 @@
     "node": ">=22"
   },
   "scripts": {
-    "format": "prettier --write . --list-different --cache",
     "prepare": "husky",
-    "lint": "eslint scripts",
-    "lint:fix": "eslint scripts --fix",
+    "lint": "biome check",
+    "lint:fix": "biome check --fix",
+    "format": "biome format --write",
     "knip": "knip",
     "validate": "bun run scripts/validate",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
+    "@biomejs/biome": "2.2.6",
     "@commitlint/cli": "^19.8.0",
     "@commitlint/config-conventional": "^19.8.0",
     "@eslint/js": "^9.26.0",
     "@total-typescript/tsconfig": "^1.0.4",
+    "@types/bun": "latest",
     "@types/node": "^22.15.3",
     "eslint": "^9.26.0",
     "eslint-plugin-perfectionist": "^4.12.3",
@@ -40,8 +42,7 @@
     "prettier": "^3.5.3",
     "prettier-plugin-pkg": "^0.18.1",
     "tsx": "^4.19.4",
-    "typescript-eslint": "^8.31.1",
-    "@types/bun": "latest"
+    "typescript-eslint": "^8.31.1"
   },
   "dependencies": {
     "ajv": "^8.17.1",

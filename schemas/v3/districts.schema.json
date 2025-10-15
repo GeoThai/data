@@ -28,7 +28,13 @@
           }
         }
       },
-      "required": ["code", "name_en", "name_th", "province_code", "subdistricts"],
+      "required": [
+        "code",
+        "name_en",
+        "name_th",
+        "province_code",
+        "subdistricts"
+      ],
       "title": "DistrictsSchemaValue"
     }
   }

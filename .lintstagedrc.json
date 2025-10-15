@@ -1,4 +1,3 @@
 {
-  "**/*.(md|json|ts|js)": "bun run prettier --write",
-  "**/*.(ts|js)": "bun run eslint --fix"
+  "**/*.(md|json|ts|js)": "bun run biome check --fix"
 }

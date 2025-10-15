@@ -28,7 +28,14 @@
           "type": "integer"
         }
       },
-      "required": ["code", "district_code", "name_en", "name_th", "postal_code", "province_code"],
+      "required": [
+        "code",
+        "district_code",
+        "name_en",
+        "name_th",
+        "postal_code",
+        "province_code"
+      ],
       "title": "SubdistrictsSchemaValue"
     }
   }
