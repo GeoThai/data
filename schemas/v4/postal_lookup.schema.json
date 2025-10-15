@@ -1,0 +1,71 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/definitions/PostalLookup"
+  },
+  "definitions": {
+    "PostalLookup": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "postal_code": {
+          "type": "integer"
+        },
+        "addresses": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Address"
+          }
+        }
+      },
+      "required": ["addresses", "postal_code"],
+      "title": "PostalLookup"
+    },
+    "Address": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "province_code": {
+          "type": "integer"
+        },
+        "province_name_en": {
+          "type": "string"
+        },
+        "province_name_th": {
+          "type": "string"
+        },
+        "district_code": {
+          "type": "integer"
+        },
+        "district_name_en": {
+          "type": "string"
+        },
+        "district_name_th": {
+          "type": "string"
+        },
+        "subdistrict_code": {
+          "type": "integer"
+        },
+        "subdistrict_name_en": {
+          "type": "string"
+        },
+        "subdistrict_name_th": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "district_code",
+        "district_name_en",
+        "district_name_th",
+        "province_code",
+        "province_name_en",
+        "province_name_th",
+        "subdistrict_code",
+        "subdistrict_name_en",
+        "subdistrict_name_th"
+      ],
+      "title": "Address"
+    }
+  }
+}

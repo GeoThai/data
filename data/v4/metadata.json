@@ -1,0 +1,20 @@
+{
+  "version": "4.0.0",
+  "last_updated": "2025-10-15T11:54:20.791Z",
+  "source": "GeoThai Team (https://github.com/GeoThai/data.git)",
+  "stats": {
+    "provinces": 77,
+    "districts": 928,
+    "subdistricts": 7436,
+    "postal_codes": 954
+  },
+  "description": "Version 4: Ultra-fast lookup optimized structure with denormalized data, embedded hierarchies, and multiple access patterns",
+  "features": [
+    "Denormalized hierarchical structure for minimal lookups",
+    "Embedded full province/district/subdistrict relationships",
+    "Fast postal code to complete address lookup",
+    "Case-insensitive search index with normalized keys",
+    "Single-file operations for common queries",
+    "Pre-computed lowercase keys for search optimization"
+  ]
+}

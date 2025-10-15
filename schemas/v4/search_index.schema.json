@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "provinces": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/definitions/ProvinceEntry"
+      }
+    },
+    "districts": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/definitions/DistrictEntry"
+      }
+    },
+    "subdistricts": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/definitions/SubdistrictEntry"
+      }
+    }
+  },
+  "required": ["districts", "provinces", "subdistricts"],
+  "definitions": {
+    "ProvinceEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "type": "integer"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "name_th": {
+          "type": "string"
+        }
+      },
+      "required": ["code", "name_en", "name_th"],
+      "title": "ProvinceEntry"
+    },
+    "DistrictEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "type": "integer"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "name_th": {
+          "type": "string"
+        },
+        "province_code": {
+          "type": "integer"
+        }
+      },
+      "required": ["code", "name_en", "name_th", "province_code"],
+      "title": "DistrictEntry"
+    },
+    "SubdistrictEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "type": "integer"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "name_th": {
+          "type": "string"
+        },
+        "district_code": {
+          "type": "integer"
+        },
+        "province_code": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "code",
+        "district_code",
+        "name_en",
+        "name_th",
+        "province_code"
+      ],
+      "title": "SubdistrictEntry"
+    }
+  }
+}

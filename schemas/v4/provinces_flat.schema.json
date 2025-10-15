@@ -1,0 +1,126 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/definitions/Province"
+  },
+  "definitions": {
+    "Province": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "type": "integer"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "name_th": {
+          "type": "string"
+        },
+        "name_en_lower": {
+          "type": "string"
+        },
+        "name_th_lower": {
+          "type": "string"
+        },
+        "districts": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/District"
+          }
+        }
+      },
+      "required": [
+        "code",
+        "districts",
+        "name_en",
+        "name_en_lower",
+        "name_th",
+        "name_th_lower"
+      ],
+      "title": "Province"
+    },
+    "District": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "type": "integer"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "name_th": {
+          "type": "string"
+        },
+        "name_en_lower": {
+          "type": "string"
+        },
+        "name_th_lower": {
+          "type": "string"
+        },
+        "province_code": {
+          "type": "integer"
+        },
+        "subdistricts": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Subdistrict"
+          }
+        }
+      },
+      "required": [
+        "code",
+        "name_en",
+        "name_en_lower",
+        "name_th",
+        "name_th_lower",
+        "province_code",
+        "subdistricts"
+      ],
+      "title": "District"
+    },
+    "Subdistrict": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "type": "integer"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "name_th": {
+          "type": "string"
+        },
+        "name_en_lower": {
+          "type": "string"
+        },
+        "name_th_lower": {
+          "type": "string"
+        },
+        "district_code": {
+          "type": "integer"
+        },
+        "province_code": {
+          "type": "integer"
+        },
+        "postal_code": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "code",
+        "district_code",
+        "name_en",
+        "name_en_lower",
+        "name_th",
+        "name_th_lower",
+        "postal_code",
+        "province_code"
+      ],
+      "title": "Subdistrict"
+    }
+  }
+}

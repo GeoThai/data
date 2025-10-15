@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$ref": "#/definitions/MetadataSchema",
+  "definitions": {
+    "MetadataSchema": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "version": {
+          "type": "string"
+        },
+        "last_updated": {
+          "type": "string"
+        },
+        "source": {
+          "type": "string"
+        },
+        "stats": {
+          "$ref": "#/definitions/Stats"
+        },
+        "description": {
+          "type": "string"
+        },
+        "features": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "description",
+        "features",
+        "last_updated",
+        "source",
+        "stats",
+        "version"
+      ],
+      "title": "MetadataSchema"
+    },
+    "Stats": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "provinces": {
+          "type": "integer"
+        },
+        "districts": {
+          "type": "integer"
+        },
+        "subdistricts": {
+          "type": "integer"
+        },
+        "postal_codes": {
+          "type": "integer"
+        }
+      },
+      "required": ["districts", "postal_codes", "provinces", "subdistricts"],
+      "title": "Stats"
+    }
+  }
+}

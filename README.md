@@ -1,14 +1,15 @@
 # GeoThai Data Repository
 
-Welcome to the **GeoThai Data Repository**! 🌏📊 This repository contains geographic data for Thailand, organized into three versions: v1, v2, and v3. Each version provides different structures and datasets to support various geographic analyses and applications.
+Welcome to the **GeoThai Data Repository**! 🌏📊 This repository contains geographic data for Thailand, organized into four versions: v1, v2, v3, and v4. Each version provides different structures and datasets to support various geographic analyses and applications.
 
 ## 📂 Repository Structure
 
-This repository is organized into three main versions, each with its own set of files:
+This repository is organized into four main versions, each with its own set of files:
 
 - **[v1](data/v1/README.md)**: Contains individual JSON files for provinces, districts, and subdistricts.
 - **[v2](data/v2/README.md)**: Features a more integrated structure with nested relationships and additional postal code data.
 - **[v3](data/v3/README.md)**: Introduces indexed mappings ideal for optimized lookups and programmatic use.
+- **[v4](data/v4/README.md)**: Ultra-fast lookup optimized structure with denormalized data and embedded hierarchies.
 
 ## 🗺️ Data Overview
 
@@ -46,9 +47,19 @@ This version includes all core data with improved indexing and name/code maps:
 - **Code Maps**: `data/v3/*_code_map.json`
 - **Metadata**: `data/v3/metadata.json`
 
-Schemas for each file are available under `schemas/v3/*.schema.json`.
-
 For more details, refer to the [v3 README](data/v3/README.md).
+
+### **Version 4 (v4)**
+
+This version provides ultra-fast lookup optimization with fully denormalized data:
+
+- **Complete Hierarchy**: `data/v4/geo.json`
+- **Provinces by Code**: `data/v4/provinces_flat.json`
+- **Postal Code Lookup**: `data/v4/postal_lookup.json`
+- **Search Index**: `data/v4/search_index.json`
+- **Metadata**: `data/v4/metadata.json`
+
+For more details, refer to the [v4 README](data/v4/README.md).
 
 ## 📝 Metadata
 
@@ -73,7 +84,12 @@ To use the data, follow these steps:
    **Note**: Ensure you have [Git](https://git-scm.com/) installed on your system.
 
 2. **Select the version**:
-   Choose either `v1`, `v2`, or `v3` based on your needs.
+   Choose `v1`, `v2`, `v3`, or `v4` based on your needs:
+
+   - **v1**: Simple flat files for basic use cases
+   - **v2**: Nested structure with postal codes
+   - **v3**: Optimized with indexes and maps
+   - **v4**: Ultra-fast denormalized structure for high-performance applications
 
 3. **Access Data**:
    Navigate to the relevant directory and access the JSON files as required.
