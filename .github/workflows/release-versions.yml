@@ -1,4 +1,4 @@
-name: Create Version Releases
+name: 📦 Create Version Releases
 
 on:
   # Manually trigger the workflow
@@ -19,24 +19,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: 📥 Checkout code
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0 # Fetch all history to properly identify changes
 
-      - name: Set up Git
+      - name: ⚙️ Set up Git
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-      - name: Get version directories
+      - name: 📂 Get version directories
         id: get-versions
         run: |
           cd data
           VERSIONS=$(ls -d v* | jq -R -s -c 'split("\n") | map(select(length > 0))')
           echo "versions=$VERSIONS" >> $GITHUB_OUTPUT
 
-      - name: Create and publish releases
+      - name: 🚀 Create and publish releases
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: |
