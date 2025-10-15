@@ -1,3 +1,0 @@
-{
-  "**/*.(md|json|ts|js)": "bun run biome check --fix"
-}

@@ -1,0 +1,15 @@
+pre-commit:
+  parallel: true
+  commands:
+    biome-check:
+      glob: "*.{md,json,ts,js}"
+      run: bun run biome check --fix {staged_files}
+      stage_fixed: true
+
+    validate:
+      run: bun run validate
+
+commit-msg:
+  commands:
+    commitlint:
+      run: bun run commitlint --edit {1}
