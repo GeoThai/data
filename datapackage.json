@@ -1,0 +1,472 @@
+{
+  "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
+  "name": "geothai",
+  "title": "GeoThai",
+  "description": "Every province, district, subdistrict and postal code of Thailand, checked against official sources.",
+  "version": "2026.10.20",
+  "created": "2026-10-20T08:35:50.574Z",
+  "homepage": "https://github.com/GeoThai/data",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "dopa-ccaatt",
+      "path": "https://stat.bora.dopa.go.th/dload/ccaatt.xlsx",
+      "version": "2023-09-01"
+    },
+    {
+      "title": "thailand-geography-json",
+      "path": "https://raw.githubusercontent.com/thailand-geography-data/thailand-geography-json/b8b3fb91c7df1129ff5b43cb46f7fcffadd2156b/src/subdistricts.json"
+    },
+    {
+      "title": "thailandpost-postcode-2558",
+      "path": "https://file.thailandpost.com/upload/content/2558_56a9d444d5276.pdf",
+      "version": "2015-09-01"
+    }
+  ],
+  "counts": {
+    "provinces": 77,
+    "districts": 928,
+    "subdistricts": 7436,
+    "abolished": 1583
+  },
+  "resources": [
+    {
+      "name": "provinces-csv",
+      "path": "csv/provinces.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "code",
+            "type": "string",
+            "description": "DOPA province code",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{2}"
+            }
+          },
+          {
+            "name": "name_th",
+            "type": "string",
+            "description": "Thai name",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "name_en",
+            "type": "string",
+            "description": "English name",
+            "constraints": {
+              "required": true
+            }
+          }
+        ],
+        "primaryKey": [
+          "code"
+        ]
+      }
+    },
+    {
+      "name": "provinces-json",
+      "path": "json/provinces.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "schema": {
+        "fields": [
+          {
+            "name": "code",
+            "type": "string",
+            "description": "DOPA province code",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{2}"
+            }
+          },
+          {
+            "name": "name_th",
+            "type": "string",
+            "description": "Thai name",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "name_en",
+            "type": "string",
+            "description": "English name",
+            "constraints": {
+              "required": true
+            }
+          }
+        ],
+        "primaryKey": [
+          "code"
+        ]
+      }
+    },
+    {
+      "name": "districts-csv",
+      "path": "csv/districts.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "code",
+            "type": "string",
+            "description": "DOPA district code",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{4}"
+            }
+          },
+          {
+            "name": "name_th",
+            "type": "string",
+            "description": "Thai name",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "name_en",
+            "type": "string",
+            "description": "English name",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "province_code",
+            "type": "string",
+            "description": "Parent province",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{2}"
+            }
+          }
+        ],
+        "primaryKey": [
+          "code"
+        ]
+      }
+    },
+    {
+      "name": "districts-json",
+      "path": "json/districts.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "schema": {
+        "fields": [
+          {
+            "name": "code",
+            "type": "string",
+            "description": "DOPA district code",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{4}"
+            }
+          },
+          {
+            "name": "name_th",
+            "type": "string",
+            "description": "Thai name",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "name_en",
+            "type": "string",
+            "description": "English name",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "province_code",
+            "type": "string",
+            "description": "Parent province",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{2}"
+            }
+          }
+        ],
+        "primaryKey": [
+          "code"
+        ]
+      }
+    },
+    {
+      "name": "subdistricts-csv",
+      "path": "csv/subdistricts.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "code",
+            "type": "string",
+            "description": "DOPA subdistrict code",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{6}"
+            }
+          },
+          {
+            "name": "name_th",
+            "type": "string",
+            "description": "Thai name",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "name_en",
+            "type": "string",
+            "description": "English name",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "district_code",
+            "type": "string",
+            "description": "Parent district",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{4}"
+            }
+          },
+          {
+            "name": "province_code",
+            "type": "string",
+            "description": "Parent province",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{2}"
+            }
+          },
+          {
+            "name": "postal_codes",
+            "type": "string",
+            "description": "Thailand Post codes. More than one when the subdistrict spans post office zones. Codes are separated by a space",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{5}( \\d{5})*"
+            }
+          }
+        ],
+        "primaryKey": [
+          "code"
+        ]
+      }
+    },
+    {
+      "name": "subdistricts-json",
+      "path": "json/subdistricts.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "schema": {
+        "fields": [
+          {
+            "name": "code",
+            "type": "string",
+            "description": "DOPA subdistrict code",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{6}"
+            }
+          },
+          {
+            "name": "name_th",
+            "type": "string",
+            "description": "Thai name",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "name_en",
+            "type": "string",
+            "description": "English name",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "district_code",
+            "type": "string",
+            "description": "Parent district",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{4}"
+            }
+          },
+          {
+            "name": "province_code",
+            "type": "string",
+            "description": "Parent province",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{2}"
+            }
+          },
+          {
+            "name": "postal_codes",
+            "type": "array",
+            "description": "Thailand Post codes. More than one when the subdistrict spans post office zones",
+            "constraints": {
+              "required": true
+            }
+          }
+        ],
+        "primaryKey": [
+          "code"
+        ]
+      }
+    },
+    {
+      "name": "abolished-csv",
+      "path": "csv/abolished.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "code",
+            "type": "string",
+            "description": "DOPA code",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{2}|\\d{4}|\\d{6}"
+            }
+          },
+          {
+            "name": "name_th",
+            "type": "string",
+            "description": "Thai name",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "name_en",
+            "type": "string",
+            "description": "English name, empty when DOPA gives none"
+          },
+          {
+            "name": "level",
+            "type": "string",
+            "description": "Area level",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "province",
+                "district",
+                "subdistrict"
+              ]
+            }
+          },
+          {
+            "name": "parent_code",
+            "type": "string",
+            "description": "Parent area, empty for a province"
+          },
+          {
+            "name": "abolished_on",
+            "type": "date",
+            "description": "Date the area was abolished",
+            "constraints": {
+              "required": true
+            }
+          }
+        ],
+        "primaryKey": [
+          "code"
+        ]
+      }
+    },
+    {
+      "name": "abolished-json",
+      "path": "json/abolished.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "schema": {
+        "fields": [
+          {
+            "name": "code",
+            "type": "string",
+            "description": "DOPA code",
+            "constraints": {
+              "required": true,
+              "pattern": "\\d{2}|\\d{4}|\\d{6}"
+            }
+          },
+          {
+            "name": "name_th",
+            "type": "string",
+            "description": "Thai name",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "name_en",
+            "type": "string",
+            "description": "English name, empty when DOPA gives none"
+          },
+          {
+            "name": "level",
+            "type": "string",
+            "description": "Area level",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "province",
+                "district",
+                "subdistrict"
+              ]
+            }
+          },
+          {
+            "name": "parent_code",
+            "type": "string",
+            "description": "Parent area, empty for a province"
+          },
+          {
+            "name": "abolished_on",
+            "type": "date",
+            "description": "Date the area was abolished",
+            "constraints": {
+              "required": true
+            }
+          }
+        ],
+        "primaryKey": [
+          "code"
+        ]
+      }
+    },
+    {
+      "name": "tree",
+      "path": "json/tree.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "description": "Active areas nested province > district > subdistrict, for address forms"
+    }
+  ]
+}

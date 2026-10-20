@@ -1,0 +1,19 @@
+{
+  "name": "@geothai/data",
+  "private": true,
+  "description": "Checks for the GeoThai data files.",
+  "license": "CC-BY-4.0",
+  "type": "module",
+  "scripts": {
+    "check": "bun run scripts/check.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.3",
+    "typescript": "7.0.2"
+  },
+  "packageManager": "bun@1.4.2",
+  "changelogithub": {
+    "contributors": false
+  }
+}
