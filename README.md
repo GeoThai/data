@@ -44,9 +44,18 @@ A subdistrict looks like this:
 
 Codes nest: `84` is a province, `8405` a district in it, `840503` a subdistrict in that district.
 
+## Packages
+
+The same data as a package for JavaScript and Python, with types, lookups by code and postal code, and search by Thai or English name. Each data release ships as a patch version.
+
+| Language   | Install               | Package                                                                                                        |
+| ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
+| JavaScript | `npm install geothai` | [npm](https://www.npmjs.com/package/geothai), [GeoThai/npm-packages](https://github.com/GeoThai/npm-packages)  |
+| Python     | `pip install geothai` | [PyPI](https://pypi.org/project/geothai/), [GeoThai/python-library](https://github.com/GeoThai/python-library) |
+
 ## Usage
 
-Pin a release, so your data does not change under you. The latest release is on the [releases page](https://github.com/GeoThai/data/releases).
+To read the files without a package, pin a release, so your data does not change under you. The latest release is on the [releases page](https://github.com/GeoThai/data/releases).
 
 ```js
 const url =
