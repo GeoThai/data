@@ -17,15 +17,15 @@ Every province, district, subdistrict and postal code of Thailand, checked again
 
 ## Files
 
-| File                                                 | Content                                                      | Rows  |
-| ---------------------------------------------------- | ------------------------------------------------------------ | ----- |
-| [`json/provinces.json`](./json/provinces.json)       | Provinces                                                    | 77    |
-| [`json/districts.json`](./json/districts.json)       | Districts, with their province                               | 928   |
-| [`json/subdistricts.json`](./json/subdistricts.json) | Subdistricts, with their district, province and postal codes | 7,436 |
-| [`json/tree.json`](./json/tree.json)                 | Province > district > subdistrict in one nested file         | 7,436 |
+| File                                                 | Content                                                                   | Rows  |
+| ---------------------------------------------------- | ------------------------------------------------------------------------- | ----- |
+| [`json/provinces.json`](./json/provinces.json)       | Provinces                                                                 | 77    |
+| [`json/districts.json`](./json/districts.json)       | Districts, with their province                                            | 928   |
+| [`json/subdistricts.json`](./json/subdistricts.json) | Subdistricts, with their district, province and postal codes              | 7,436 |
+| [`json/tree.json`](./json/tree.json)                 | Province > district > subdistrict in one nested file                      | 7,436 |
 | [`json/abolished.json`](./json/abolished.json)       | Areas that no longer exist, with the date they ended and their successors | 1,583 |
-| [`csv/`](./csv)                                      | The same tables as CSV, UTF-8 with a BOM so Excel shows Thai |       |
-| [`datapackage.json`](./datapackage.json)             | Field types, sources, license and row counts                 |       |
+| [`csv/`](./csv)                                      | The same tables as CSV, UTF-8 with a BOM so Excel shows Thai              |       |
+| [`datapackage.json`](./datapackage.json)             | Field types, sources, license and row counts                              |       |
 
 The main files hold active areas only. Codes are strings, and every list field (`postal_codes`, `successors`) is always an array, empty when there is none.
 
@@ -63,9 +63,9 @@ An abolished area keeps its old code and lists the codes that took its place:
 
 `successors_basis` tells you how sure the link is:
 
-| Basis    | Meaning                                                                                                                       | Areas |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------- | ----- |
-| `notice` | From a Royal Gazette notice that GeoThai read. `successors_in_force` is the date the change took legal effect                 | 111   |
+| Basis    | Meaning                                                                                                                            | Areas |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| `notice` | From a Royal Gazette notice that GeoThai read. `successors_in_force` is the date the change took legal effect                      | 111   |
 | `name`   | For codes DOPA dropped in its 2006 cleanup: the one active subdistrict with the same Thai name in the province. Likely, not proven | 1,071 |
 
 The other 401 abolished areas have no clear successor yet, so `successors` is empty.
@@ -97,6 +97,44 @@ subdistricts = json.load(urllib.request.urlopen(url))
 ```
 
 Each release also has `geothai-json.zip` and `geothai-csv.zip` to download.
+
+## How it is built
+
+A private pipeline builds this data. The code stays private, but the steps and the evidence are here, so you can judge the result yourself.
+
+```mermaid
+flowchart TD
+  dopa[DOPA registry<br/>codes, names, abolish dates]
+  postal[Postal codes<br/>thailand-geography-json + Thailand Post booklet]
+  checks[Seven checks<br/>DOPA population file, Thailand Post booklet,<br/>post office list, Wikipedia, kongvut,<br/>jquery.Thailand.js, name lint]
+  decide{Do they agree?}
+  ledger[Decision by hand, with a reason<br/>pinned to both values]
+  gazette[Royal Gazette notices<br/>successors of abolished codes]
+  stop([Stop: no release])
+  release([Release, only if a value changed])
+
+  dopa --> checks
+  postal --> checks
+  checks --> decide
+  decide -- yes --> gazette
+  decide -- no --> ledger
+  ledger -- decided --> gazette
+  ledger -- open, or a source changed --> stop
+  gazette --> release
+```
+
+| Decision            | Count |
+| ------------------- | ----- |
+| Fix a postal code   | 163   |
+| Fix an English name | 32    |
+| Keep our value      | 290   |
+| Remove a code       | 1     |
+
+You can check the work yourself:
+
+- [`datapackage.json`](./datapackage.json) lists each source file with its URL, SHA-256 and license.
+- [`CHANGELOG.md`](./CHANGELOG.md) names every changed area in every release, and the reason.
+- `successors_source` in `abolished.json` names the Royal Gazette notice behind each link.
 
 ## Versions
 
