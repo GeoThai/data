@@ -3,8 +3,8 @@
   "name": "geothai",
   "title": "GeoThai",
   "description": "Every province, district, subdistrict and postal code of Thailand, checked against official sources.",
-  "version": "2026.10.20",
-  "created": "2026-10-20T08:35:50.574Z",
+  "version": "2026.10.22",
+  "created": "2026-10-22T04:31:33.623Z",
   "homepage": "https://github.com/GeoThai/data",
   "licenses": [
     {
@@ -366,7 +366,7 @@
           {
             "name": "name_en",
             "type": "string",
-            "description": "English name, empty when DOPA gives none"
+            "description": "English name. Null in JSON and empty in CSV when DOPA gives none"
           },
           {
             "name": "level",
@@ -384,7 +384,7 @@
           {
             "name": "parent_code",
             "type": "string",
-            "description": "Parent area, empty for a province"
+            "description": "Parent area. Null in JSON and empty in CSV for a province"
           },
           {
             "name": "abolished_on",
@@ -393,6 +393,35 @@
             "constraints": {
               "required": true
             }
+          },
+          {
+            "name": "successors",
+            "type": "string",
+            "description": "Areas that took its place. Empty when GeoThai has no notice for the change and no clear name match. Codes are separated by a space",
+            "constraints": {
+              "pattern": "(\\d{2}|\\d{4}|\\d{6})( (\\d{2}|\\d{4}|\\d{6}))*"
+            }
+          },
+          {
+            "name": "successors_basis",
+            "type": "string",
+            "description": "notice: from a reviewed notice, see successors_source. name: the one active subdistrict with the same Thai name in the province, for codes DOPA dropped in its 2006 cleanup; likely but not proven",
+            "constraints": {
+              "enum": [
+                "notice",
+                "name"
+              ]
+            }
+          },
+          {
+            "name": "successors_in_force",
+            "type": "date",
+            "description": "Date the change took legal effect. DOPA often updates its list later, so it can be earlier than abolished_on"
+          },
+          {
+            "name": "successors_source",
+            "type": "string",
+            "description": "The notice that made the change: title, Royal Gazette volume, part, page and URL"
           }
         ],
         "primaryKey": [
@@ -427,7 +456,7 @@
           {
             "name": "name_en",
             "type": "string",
-            "description": "English name, empty when DOPA gives none"
+            "description": "English name. Null in JSON and empty in CSV when DOPA gives none"
           },
           {
             "name": "level",
@@ -445,7 +474,7 @@
           {
             "name": "parent_code",
             "type": "string",
-            "description": "Parent area, empty for a province"
+            "description": "Parent area. Null in JSON and empty in CSV for a province"
           },
           {
             "name": "abolished_on",
@@ -454,6 +483,32 @@
             "constraints": {
               "required": true
             }
+          },
+          {
+            "name": "successors",
+            "type": "array",
+            "description": "Areas that took its place. Empty when GeoThai has no notice for the change and no clear name match"
+          },
+          {
+            "name": "successors_basis",
+            "type": "string",
+            "description": "notice: from a reviewed notice, see successors_source. name: the one active subdistrict with the same Thai name in the province, for codes DOPA dropped in its 2006 cleanup; likely but not proven",
+            "constraints": {
+              "enum": [
+                "notice",
+                "name"
+              ]
+            }
+          },
+          {
+            "name": "successors_in_force",
+            "type": "date",
+            "description": "Date the change took legal effect. DOPA often updates its list later, so it can be earlier than abolished_on"
+          },
+          {
+            "name": "successors_source",
+            "type": "string",
+            "description": "The notice that made the change: title, Royal Gazette volume, part, page and URL"
           }
         ],
         "primaryKey": [
