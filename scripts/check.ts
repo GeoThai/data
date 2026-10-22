@@ -2,7 +2,7 @@
 type Field = {
   name: string;
   type: string;
-  constraints?: { required?: boolean; pattern?: string; enum?: string[] };
+  constraints?: { required?: boolean; minLength?: number; pattern?: string; enum?: string[] };
 };
 type Resource = { name: string; path: string; format: string; schema?: { fields: Field[] } };
 type Row = Record<string, unknown>;
@@ -83,11 +83,16 @@ function checkRows(r: Resource, rows: Row[]) {
     for (const f of r.schema?.fields ?? []) {
       const v = row[f.name];
       const c = f.constraints ?? {};
-      const empty = v === null || v === undefined || v === '' || (Array.isArray(v) && !v.length);
-      if (empty) {
+      // As in the Data Package spec, required means not null. An empty list is a value.
+      const missing = v === null || v === undefined || v === '';
+      if (missing) {
         if (c.required) fail(`${where}: ${f.name} is empty`);
         continue;
       }
+      if (Array.isArray(v) && v.length < (c.minLength ?? 0)) {
+        fail(`${where}: ${f.name} has fewer than ${c.minLength} items`);
+      }
+      if (Array.isArray(v) && !v.length) continue;
       if (
         Array.isArray(v) !==
         (f.type === 'array' || arrays.has(`${r.name.replace(/-(csv|json)$/, '')}.${f.name}`))
