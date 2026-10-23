@@ -1,5 +1,9 @@
 # Changelog
 
+## v2026.10.23
+
+Only datapackage.json changed. Every area, name and postal code is the same as in the last release.
+
 ## v2026.10.22
 
 Successors of abolished areas changed: 111 from Royal Gazette notices, and 1071 matched by Thai name, with no notice reviewed yet.

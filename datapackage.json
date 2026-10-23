@@ -3,7 +3,7 @@
   "name": "geothai",
   "title": "GeoThai",
   "description": "Every province, district, subdistrict and postal code of Thailand, checked against official sources.",
-  "version": "2026.10.22",
+  "version": "2026.10.23",
   "created": "2026-10-22T04:31:33.623Z",
   "homepage": "https://github.com/GeoThai/data",
   "licenses": [
@@ -17,16 +17,50 @@
     {
       "title": "dopa-ccaatt",
       "path": "https://stat.bora.dopa.go.th/dload/ccaatt.xlsx",
-      "version": "2023-09-01"
+      "version": "2023-09-01",
+      "hash": "sha256:5977e39e689d229668dabb2ff47f1a1a4bec341bd1efa0792cb45cad8e16d6e9",
+      "license": "No license stated by the publisher. Area names, codes and dates are facts and a government compilation, not copyright works under the Thai Copyright Act B.E. 2537 section 7 (1), (3), (5). Attribution: Department of Provincial Administration (กรมการปกครอง).",
+      "role": "data"
     },
     {
       "title": "thailand-geography-json",
-      "path": "https://raw.githubusercontent.com/thailand-geography-data/thailand-geography-json/b8b3fb91c7df1129ff5b43cb46f7fcffadd2156b/src/subdistricts.json"
+      "path": "https://raw.githubusercontent.com/thailand-geography-data/thailand-geography-json/b8b3fb91c7df1129ff5b43cb46f7fcffadd2156b/src/subdistricts.json",
+      "hash": "sha256:c7f0e62ab7ccaf135a11a48105e62f846c633103ce21e933d5e5227b143a2916",
+      "license": "MIT, Copyright (c) 2023-Present Joe Takara",
+      "role": "data"
     },
     {
       "title": "thailandpost-postcode-2558",
       "path": "https://file.thailandpost.com/upload/content/2558_56a9d444d5276.pdf",
-      "version": "2015-09-01"
+      "version": "2015-09-01",
+      "hash": "sha256:e5b017025bb759070a03385abbb4e7d0154071ad7ead0e63e9171ecdbb4ce8f7",
+      "license": "No license stated by the publisher. Only the postal codes are used, which are facts under the Thai Copyright Act B.E. 2537 section 7 (1); the booklet text and layout are not copied. Attribution: Thailand Post Co., Ltd. (บริษัท ไปรษณีย์ไทย จำกัด).",
+      "role": "data"
+    },
+    {
+      "title": "DOPA population file",
+      "path": "https://stat.bora.dopa.go.th/new_stat/webPage/statByYear.php",
+      "role": "check"
+    },
+    {
+      "title": "Thailand Post office lists",
+      "path": "https://data.go.th/dataset/thp-02",
+      "role": "check"
+    },
+    {
+      "title": "Thai Wikipedia postal code list",
+      "path": "https://th.wikipedia.org/wiki/รายการรหัสไปรษณีย์ไทย",
+      "role": "check"
+    },
+    {
+      "title": "kongvut/thai-province-data",
+      "path": "https://github.com/kongvut/thai-province-data",
+      "role": "check"
+    },
+    {
+      "title": "jquery.Thailand.js",
+      "path": "https://github.com/earthchie/jquery.Thailand.js",
+      "role": "check"
     }
   ],
   "counts": {
@@ -265,6 +299,7 @@
             "description": "Thailand Post codes. More than one when the subdistrict spans post office zones. Codes are separated by a space",
             "constraints": {
               "required": true,
+              "minLength": 1,
               "pattern": "\\d{5}( \\d{5})*"
             }
           }
@@ -329,7 +364,8 @@
             "type": "array",
             "description": "Thailand Post codes. More than one when the subdistrict spans post office zones",
             "constraints": {
-              "required": true
+              "required": true,
+              "minLength": 1
             }
           }
         ],
@@ -487,7 +523,10 @@
           {
             "name": "successors",
             "type": "array",
-            "description": "Areas that took its place. Empty when GeoThai has no notice for the change and no clear name match"
+            "description": "Areas that took its place. Empty when GeoThai has no notice for the change and no clear name match",
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "successors_basis",
