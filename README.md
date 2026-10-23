@@ -74,10 +74,10 @@ The other 401 abolished areas have no clear successor yet, so `successors` is em
 
 The same data as a package for JavaScript and Python, with types, lookups by code and postal code, search by Thai or English name, and a match for hand-written and old names. Each data release ships as a patch version.
 
-| Language   | Install               | Package                                                                                                        |
-| ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
-| JavaScript | `npm install geothai` | [npm](https://www.npmjs.com/package/geothai), [GeoThai/npm-packages](https://github.com/GeoThai/npm-packages)  |
-| Python     | `pip install geothai` | [PyPI](https://pypi.org/project/geothai/), [GeoThai/python-library](https://github.com/GeoThai/python-library) |
+| Language   | Install                     | Package                                                                                                             |
+| ---------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| JavaScript | `npm install @geothai/core` | [npm](https://www.npmjs.com/package/@geothai/core), [GeoThai/npm-packages](https://github.com/GeoThai/npm-packages) |
+| Python     | `pip install geothai`       | [PyPI](https://pypi.org/project/geothai/), [GeoThai/python-library](https://github.com/GeoThai/python-library)      |
 
 The boundaries of every area are in [GeoThai/boundaries](https://github.com/GeoThai/boundaries), on the same codes. For maps in code, use [`@geothai/maps`](https://github.com/GeoThai/maps).
 
