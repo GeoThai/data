@@ -72,12 +72,14 @@ The other 401 abolished areas have no clear successor yet, so `successors` is em
 
 ## Packages
 
-The same data as a package for JavaScript and Python, with types, lookups by code and postal code, and search by Thai or English name. Each data release ships as a patch version.
+The same data as a package for JavaScript and Python, with types, lookups by code and postal code, search by Thai or English name, and a match for hand-written and old names. Each data release ships as a patch version.
 
 | Language   | Install               | Package                                                                                                        |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
 | JavaScript | `npm install geothai` | [npm](https://www.npmjs.com/package/geothai), [GeoThai/npm-packages](https://github.com/GeoThai/npm-packages)  |
 | Python     | `pip install geothai` | [PyPI](https://pypi.org/project/geothai/), [GeoThai/python-library](https://github.com/GeoThai/python-library) |
+
+The boundaries of every area are in [GeoThai/boundaries](https://github.com/GeoThai/boundaries), on the same codes. For maps in code, use [`@geothai/maps`](https://github.com/GeoThai/maps).
 
 ## Usage
 
@@ -85,14 +87,14 @@ To read the files without a package, pin a release, so your data does not change
 
 ```js
 const url =
-  "https://cdn.jsdelivr.net/gh/GeoThai/data@v2026.10.22/json/subdistricts.json";
+  "https://cdn.jsdelivr.net/gh/GeoThai/data@v2026.10.23/json/subdistricts.json";
 const subdistricts = await (await fetch(url)).json();
 ```
 
 ```python
 import json, urllib.request
 
-url = "https://cdn.jsdelivr.net/gh/GeoThai/data@v2026.10.22/json/subdistricts.json"
+url = "https://cdn.jsdelivr.net/gh/GeoThai/data@v2026.10.23/json/subdistricts.json"
 subdistricts = json.load(urllib.request.urlopen(url))
 ```
 
@@ -138,7 +140,7 @@ You can check the work yourself:
 
 ## Versions
 
-A version is the release date in Thailand: `v2026.10.22`. A weekly rebuild makes a release only if the data changed. [`CHANGELOG.md`](./CHANGELOG.md) lists each changed area and the reason.
+A version is the release date in Thailand: `v2026.10.23`. A weekly rebuild makes a release only if the data changed. [`CHANGELOG.md`](./CHANGELOG.md) lists each changed area and the reason.
 
 The old data, v1 to v4, stays on the [`archive`](https://github.com/GeoThai/data/tree/archive) branch and the `v1` to `v4` tags. It has a different format.
 
